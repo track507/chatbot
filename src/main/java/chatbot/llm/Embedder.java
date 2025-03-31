@@ -22,7 +22,7 @@ public class Embedder {
     // my end point for qdrant (tailscale network)
     private static final String DEFAULT_QDRANT_ENDPOINT = "http://localhost:6333";
 
-    // User defines if need be
+    // user defined
     private final String ollamaEmbedEndpoint;
     private final String modelName;
     private final String qdrantEndpoint;
