@@ -1,0 +1,41 @@
+# Might contain sensitive information
+*.db
+*.sql
+database_export.txt
+*.bak
+*.tmp
+*.lock
+
+# os stuff
+.DS_Store
+Thumbs.db
+
+# runtime stuff
+user_info.json
+options.json
+
+# Ignore normal maven stuff
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ide things
+.idea/
+.vscode/
+*.iml
+
+# if the compiler doesnt complain push straight to main
+*.log
+
+# crashout logs
+hs_err_pid*.log
+replay_pid*.log
+
+# backup files
+*~
+*.swp
+*.swo
+
+# half of this stuff isn't in my project but is in the template
