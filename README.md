@@ -40,3 +40,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
    git clone https://github.com/track507/chatbot.git
    cd chatbot
    ```
+3. Run:
+   ```bash
+   mvn compile exec:java
+   ```
