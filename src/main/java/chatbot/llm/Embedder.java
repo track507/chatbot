@@ -113,7 +113,6 @@ public class Embedder {
             HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
     
             //System.out.println("\nOllama response:\n" + response.body());  // Debug
-    
             JsonNode json = mapper.readTree(response.body());
             JsonNode embeddingArray = json.get("embedding");
     
@@ -144,22 +143,22 @@ public class Embedder {
             // Ensure collection exists first
             ensureCollectionExists(collectionName, vectorSize);
     
-            // Prepare point payload
+            // prepare payload
             LinkedHashMap<String, Object> point = new LinkedHashMap<>();
             point.put("id", Math.abs(id.hashCode()));
             point.put("vector", embedding);
 
-            // Use LinkedHashMap for payload as well
+            // LinkedHashMap to ensure order
             LinkedHashMap<String, Object> payload = new LinkedHashMap<>();
             payload.put("content", content);
             point.put("payload", payload);
 
-            // Wrap the "points" object using LinkedHashMap too
+            // wrap the points
             LinkedHashMap<String, Object> root = new LinkedHashMap<>();
             root.put("points", List.of(point));
 
             String jsonPayload = mapper.writeValueAsString(root);
-            System.out.println("\nQdrant request JSON:\n" + jsonPayload);  // Debug
+            //System.out.println("\nQdrant request JSON:\n" + jsonPayload);  // Debug
     
             HttpRequest request = HttpRequest.newBuilder()
                 .uri(URI.create(qdrantEndpoint + "/collections/" + collectionName + "/points"))

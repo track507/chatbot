@@ -2,6 +2,7 @@ package chatbot.helpers;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -11,6 +12,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
@@ -252,6 +254,16 @@ public class Utils {
             System.out.println("Skipped: user_info.json not found.");
         }
 
+        System.out.print("Would you like to generate SchemaSpy? (yes/no): ");
+        String pumlChoice = scanner.nextLine().trim().toLowerCase();
+        if (pumlChoice.equals("yes")) {
+            generateSlitePropertiesFile();
+            generateSS();
+            ssFixer();
+        } else {
+            System.out.println("Skipping SchemaSpy generation.");
+        }
+
         System.out.println("Setup complete.");
         Thread.sleep(2000);
     }
@@ -284,6 +296,165 @@ public class Utils {
         }
 
         System.out.println("SQLite script executed successfully: " + sqlFileName);
+    }
+
+    private void ssFixer() {
+        try {
+            Path htmlPath = Path.of("visuals/schemaspy/relationships.html");
+            if(Files.exists(htmlPath)) {
+                String html = Files.readString(htmlPath);
+                String alertRegex = "(?s)<div class=\"alert alert-warning alert-dismissible\">.*?</div>\\s*";
+                String imageBlock = """
+                    <div class="relationship-diagrams">
+                        <img src="diagrams/summary/relationships.implied.compact.png" alt="Implied Relationships - Compact" style="max-width: 50%; height: auto; margin: 10px 0;" />
+                        <img src="diagrams/summary/relationships.implied.large.png" alt="Implied Relationships - Large" style="max-width: 50%; height: auto; margin: 10px 0;" />
+                        <img src="diagrams/summary/relationships.real.compact.png" alt="Real Relationships - Compact" style="max-width: 50%; height: auto; margin: 10px 0;" />
+                        <img src="diagrams/summary/relationships.real.large.png" alt="Real Relationships - Large" style="max-width: 50%; height: auto; margin: 10px 0;" />
+                    </div>
+                """;
+                html = html.replaceAll(alertRegex, imageBlock);
+                Files.writeString(htmlPath, html);
+                System.out.println("Fixed relationships.html successfully.");
+            }
+        } catch (IOException e) {
+            System.err.println("Failed to read relationships.html: " + e.getMessage());
+        }
+
+        Path summaryPath = Path.of("visuals/schemaspy/diagrams/summary");
+        if(!Files.exists(summaryPath)) {
+            System.err.println("Failed to find summary directory: " + summaryPath);
+            return;
+        }
+
+        try (DirectoryStream<Path> stream = Files.newDirectoryStream(summaryPath, "*.dot")) {
+            for(Path dotFile : stream) {
+                String dotFileName = dotFile.getFileName().toString();
+                String outputPng = dotFileName.replace(".dot", ".png");
+                String command = String.format(
+                    "dot -Tpng:cairo \"%s\" -o \"%s\"",
+                    dotFile,
+                    summaryPath.resolve(outputPng)
+                );
+
+                try {
+                    runCommand(command);
+                } catch (IOException | InterruptedException e) {
+                    System.err.println("Failed to generate PNG for: " + dotFileName + " - " + e.getMessage());
+                }
+
+            }
+        }  catch (IOException e) {
+            System.err.println("Error reading .dot files in summary folder: " + e.getMessage());
+        }
+    }
+
+    private String getDatabaseName() throws IOException {
+        Path configPath = Paths.get("options.json");
+        ObjectMapper mapper = new ObjectMapper();
+
+        if (!Files.exists(configPath)) {
+            throw new IOException("options.json not found. Run setupInteractive() first.");
+        }
+
+        SetupOptions options = mapper.readValue(configPath.toFile(), SetupOptions.class);
+
+        if (options.database == null || options.database.isBlank()) {
+            return "main.db"; // Default fallback
+        }
+        return options.database;
+    }
+
+    public void generateSlitePropertiesFile() throws IOException {
+        try {
+            System.out.println("Generating db.properties...");
+            String dbFile = getDatabaseName();
+            Path dbPropertiesPath = Paths.get("db.properties");
+
+            // if the db.properties exist ask if user wants to override.
+            if (Files.exists(dbPropertiesPath)) {
+                System.out.print("db.properties already exists. Override? (yes/no): ");
+                String overrideChoice = scanner.nextLine().trim().toLowerCase();
+                if (overrideChoice.equals("no")) {
+                    System.out.println("Skipping db.properties generation.");
+                    return;
+                }
+            }
+    
+            String props = String.join("\n",
+                "schemaspy.t=sqlite-xerial",
+                "schemaspy.dp=tools/sqlite-jdbc-3.49.1.0.jar",
+                "schemaspy.db=" + dbFile,
+                "schemaspy.s=main",
+                "schemaspy.u=ignored",
+                "schemaspy.o=visuals/schemaspy",
+                "schemaspy.cat=%",
+                "schemaspy.url=jdbc:sqlite:" + dbFile,
+                "schemaspy.imageformat=svg",
+                "schemaspy.renderer=:",
+                "schemaspy.fontsize=12",
+                "schemaspy.font=Arial",
+                "schemaspy.degree=1",
+                "schemaspy.maxdet=200"
+            );
+
+    
+            Files.writeString(dbPropertiesPath, props);
+            System.out.println("db.properties file generated successfully.");
+    
+        } catch (IOException e) {
+            System.err.println("Failed to generate db.properties: " + e.getMessage());
+            throw e;
+        }
+    }    
+
+    // .jar files are in ./tools
+    public void generateSS() throws IOException, InterruptedException {
+        // generate schemaspy
+        try {
+            System.out.println("Generating SchemaSpy...");
+            String dbFile = getDatabaseName();
+            Path dbPath = Paths.get(dbFile);
+            Path outputDir = Paths.get("./visuals");
+            if (!Files.exists(outputDir)) {
+                Files.createDirectories(outputDir);
+            }
+
+            String command = String.format(
+                "java -jar tools/schemaspy-6.2.4.jar -configFile db.properties",
+                dbPath.toAbsolutePath().toString()
+            );
+            runCommand(command);
+            System.out.println("SchemaSpy generated successfully.");
+        } catch (IOException | InterruptedException e) {
+            System.err.println("Failed to generate SchemaSpy: " + e.getMessage());
+        }
+    }
+
+    private void runCommand(String command) throws IOException, InterruptedException {
+        ProcessBuilder processBuilder = new ProcessBuilder();
+
+        if (System.getProperty("os.name").contains("Windows")) {
+            processBuilder.command("cmd.exe", "/c", command);
+        } else {
+            processBuilder.command("sh", "-c", command);
+        }
+
+        processBuilder.redirectErrorStream(true);
+        Process process = processBuilder.start();
+
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                System.out.println(line);
+            }
+        }
+
+        int exitCode = process.waitFor();
+        if (exitCode != 0) {
+            throw new IOException("Command failed with exit code: " + exitCode);
+        }
+
+        System.out.println("Command executed successfully: " + command);
     }
 
     // clears console

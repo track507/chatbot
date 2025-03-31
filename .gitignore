@@ -5,6 +5,7 @@ database_export.txt
 *.bak
 *.tmp
 *.lock
+db.properties
 
 # os stuff
 .DS_Store
@@ -13,11 +14,11 @@ Thumbs.db
 # runtime stuff
 user_info.json
 options.json
+/visuals/schemaspy
 
 # Ignore normal maven stuff
 target/
 *.class
-*.jar
 *.war
 *.ear
 
