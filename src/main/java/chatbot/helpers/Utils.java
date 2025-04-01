@@ -12,14 +12,11 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import chatbot.llm.Embedder;
 import chatbot.llm.EmbeddingException;
 
@@ -175,10 +172,12 @@ public class Utils {
             try {
                 options = mapper.readValue(configPath.toFile(), SetupOptions.class);
                 System.out.println("Previous setup found:");
-                System.out.println("  Model: " + options.model);
+                System.out.println("  Embed Model: " + options.embedModel);
+                System.out.println("  LLM Model: " + options.LLMModel);
                 System.out.println("  Ollama: " + options.ollamaEndpoint);
                 System.out.println("  Ollama Embed: " + options.ollamaEmbedEndpoint);
                 System.out.println("  Qdrant: " + options.qdrantEndpoint);
+                System.out.println("  Qdrant Collection: " + options.qdrantCollection);
                 System.out.println("  Database: " + options.database);
 
                 System.out.print("Use previous setup? (yes/no): ");
@@ -193,8 +192,11 @@ public class Utils {
         }
 
         if (options == null) {
-            System.out.print("Model name [default: nomic-embed-text]: ");
-            String model = scanner.nextLine().trim();
+            System.out.print("Embed model name [default: nomic-embed-text]: ");
+            String embedModel = scanner.nextLine().trim();
+
+            System.out.print("LLM model name [default: gemma3:1b]: ");
+            String LLMmodel = scanner.nextLine().trim();
 
             System.out.print("Ollama endpoint [default: http://localhost:11434]: ");
             String ollamaEndpoint = scanner.nextLine().trim();
@@ -205,14 +207,19 @@ public class Utils {
             System.out.print("Qdrant endpoint [default: http://localhost:6333]: ");
             String qdrantEndpoint = scanner.nextLine().trim();
 
+            System.out.print("Qdrant collection [default: chatbot]: ");
+            String qdrantCollection = scanner.nextLine().trim();
+
             System.out.print("Database name [default: main.db]: ");
             String database = scanner.nextLine().trim();
 
             options = new SetupOptions(
-                model.isEmpty() ? null : model,
+                embedModel.isEmpty() ? null : embedModel,
+                LLMmodel.isEmpty() ? null : LLMmodel,
                 ollamaEndpoint.isEmpty() ? null : ollamaEndpoint,
                 ollamaEmbedEndpoint.isEmpty() ? null : ollamaEmbedEndpoint,
                 qdrantEndpoint.isEmpty() ? null : qdrantEndpoint,
+                qdrantCollection.isEmpty() ? null : qdrantCollection,
                 database.isEmpty() ? null : database
             );
 
@@ -221,7 +228,7 @@ public class Utils {
             System.out.println("Saved to options.json.");
         }
 
-        Embedder embedder = new Embedder(options.ollamaEmbedEndpoint, options.model, options.qdrantEndpoint);
+        Embedder embedder = new Embedder(options.ollamaEmbedEndpoint, options.embedModel, options.qdrantEndpoint);
 
         System.out.print("Rerun database setup (run.sql & export.sql)? (yes/no): ");
         String dbChoice = scanner.nextLine().trim().toLowerCase();
@@ -242,7 +249,7 @@ public class Utils {
             System.out.println("Skipping vectorization.");
         }
 
-        System.out.print("Attempting to vectorize user info...");
+        System.out.println("Attempting to vectorize user info...");
         Path userInfoPath = Paths.get("user_info.json");
         if (Files.exists(userInfoPath)) {
             try {
@@ -359,7 +366,7 @@ public class Utils {
         SetupOptions options = mapper.readValue(configPath.toFile(), SetupOptions.class);
 
         if (options.database == null || options.database.isBlank()) {
-            return "main.db"; // Default fallback
+            return "main.db"; // default fallback
         }
         return options.database;
     }
@@ -456,6 +463,41 @@ public class Utils {
 
         System.out.println("Command executed successfully: " + command);
     }
+
+    public String formatUserProfile(Object data) {
+        return formatUserProfile(data, "");
+    }
+    
+    @SuppressWarnings("unchecked")
+    private String formatUserProfile(Object data, String indent) {
+        StringBuilder sb = new StringBuilder();
+    
+        if(data instanceof Map<?, ?> map) {
+            for (Map.Entry<?, ?> entry : map.entrySet()) {
+                String key = entry.getKey().toString();
+                Object value = entry.getValue();
+                sb.append(indent).append("- ").append(key).append(": ");
+    
+                if (value instanceof Map || value instanceof List) {
+                    sb.append("\n").append(formatUserProfile(value, indent + "  "));
+                } else {
+                    sb.append(value).append("\n");
+                }
+            }
+        } else if (data instanceof List<?> list) {
+            for (Object item : list) {
+                if (item instanceof Map<?, ?> obj && obj.containsKey("id") && obj.containsKey("title")) {
+                    sb.append(indent).append("- ").append(obj.get("id")).append(" - ").append(obj.get("title")).append("\n");
+                } else {
+                    sb.append(indent).append("- ").append(formatUserProfile(item, indent + "  "));
+                }
+            }
+        } else {
+            sb.append(indent).append(data).append("\n");
+        }
+    
+        return sb.toString();
+    }    
 
     // clears console
     public void clearConsole() {

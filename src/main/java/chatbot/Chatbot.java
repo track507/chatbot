@@ -3,7 +3,11 @@ import java.sql.SQLException;
 import java.util.Scanner;
 
 import chatbot.helpers.Utils;
+import chatbot.llm.Embedder;
 import chatbot.llm.EmbeddingException;
+import chatbot.llm.LLMQuery;
+import chatbot.llm.OllamaEngine;
+import chatbot.llm.QdrantQuery;
 
 // TODO:
 /*
@@ -44,34 +48,47 @@ public class Chatbot {
             e.printStackTrace();
             return;
         }
-
-        // try starting the ollama LLM engine
-        // try {
-            
-        // } catch ( e) {
-        // }
-
-        Scanner scanner = new Scanner(System.in);
-        String input;
         utils.clearConsole();
+
         System.out.println("Welcome to Chatbot!");
-        while (true) {
-            try {
-                System.out.print("> ");
-                input = scanner.nextLine().trim().toLowerCase();
-        
-                if (input.equals("exit") || input.equals("quit")) {
-                    scanner.close();
-                    utils.quit();
+        System.out.println("Type 'exit' or 'quit' to quit or 'reset' to restart the conversation.");
+
+        try (Scanner scanner = new Scanner(System.in)) {
+            while (true) {
+                Embedder embedder = new Embedder();
+                OllamaEngine ollama = new OllamaEngine();
+                QdrantQuery qdrant = new QdrantQuery();
+                LLMQuery engine = new LLMQuery(embedder, qdrant);
+
+                String input;
+                while (true) { 
+                    try {
+                        System.out.print("> ");
+                        input = scanner.nextLine().trim();
+
+                        if (input.equalsIgnoreCase("exit") || input.equalsIgnoreCase("quit")) {
+                            utils.quit();
+                        }
+
+                        if (input.equalsIgnoreCase("reset")) {
+                            ollama.resetConversation();
+                            System.out.println("Conversation reset.");
+                            continue;
+                        }
+
+                        String response = engine.ask(input);
+                        System.out.println("\nAdvisor: " + response);
+
+                    } catch (Exception e) {
+                        System.err.println("Error: " + e.getMessage());
+                        e.printStackTrace();
+                    }
                 }
-                // OllamaEngine.java is not yet finished and implemented.
-                // TODO: Finish this
-        
-            } catch (Exception e) {
-                System.err.println("Error: " + e.getMessage());
             }
+        } catch (Exception e) {
+            System.err.println("Error: " + e.getMessage());
+            e.printStackTrace();
         }
-        
     }
 
     public static void main(String[] args) {
