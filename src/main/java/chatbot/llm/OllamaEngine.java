@@ -1,5 +1,4 @@
 package chatbot.llm;
-
 import java.io.File;
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -8,12 +7,9 @@ import java.net.http.HttpResponse;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-
 import org.json.JSONArray;
 import org.json.JSONObject;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
-
 import chatbot.helpers.HttpClientPool;
 
 public class OllamaEngine {
@@ -25,20 +21,6 @@ public class OllamaEngine {
     public OllamaEngine() {
         this.modelName = loadModelName();
         this.endpoint = loadChatEndpoint();
-    
-        String systemContent = """
-        You are an academic advisor chatbot named Advisor. Your job is to assist students using both their user profile and university academic records (context).
-        Always greet or refer to the student by their first name when relevant.
-
-        Be concise, clear, and friendly in your tone. Provide helpful, accurate, and personalized responses.
-        Avoid making assumptions about the user or their situation. If you are unsure, ask clarifying questions.
-        Avoid repeating unnecessary details already clear from context.
-        """;
-    
-        JSONObject systemMsg = new JSONObject();
-        systemMsg.put("role", "system");
-        systemMsg.put("content", systemContent);
-        messageHistory.add(systemMsg);
     }
 
     private String loadModelName() {
@@ -104,17 +86,8 @@ public class OllamaEngine {
         }
     }
 
-    // incase things go awry
+    // in case things go awry
     public void resetConversation() {
         messageHistory.clear();
-        String systemContent = """
-        You are an academic advisor chatbot. Use user profile and context to give helpful, personalized responses.
-        Keep responses concise and relevant. Avoid unnecessary assumptions.
-        """;
-    
-        JSONObject systemMsg = new JSONObject();
-        systemMsg.put("role", "system");
-        systemMsg.put("content", systemContent);
-        messageHistory.add(systemMsg);
     }
 }
