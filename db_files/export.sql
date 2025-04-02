@@ -2,6 +2,8 @@
 .headers on
 .output database_export.txt
 
+-- examples
+
 -- Exporting Tables
 .print 'Table: course'
 SELECT * FROM course;

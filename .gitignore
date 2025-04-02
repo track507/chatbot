@@ -1,10 +1,10 @@
 # Might contain sensitive information
 *.db
 database_export.txt
-/db_files/db.sql
-/db_files/inserts.sql
-/db_files/test.sql
-/db_files/views.sql
+db_files/db.sql
+db_files/inserts.sql
+db_files/test.sql
+db_files/views.sql
 *.bak
 *.tmp
 *.lock
