@@ -45,7 +45,7 @@ select * from concentration;
 .print 'Table: coreq'
 select * from coreq;
 
--- Exporting Views (from canvas)
+-- Exporting Views 
 .print 'View: studentmajors'
 select * from studentmajors;
 
