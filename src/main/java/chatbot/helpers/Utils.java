@@ -168,7 +168,7 @@ public class Utils {
         } catch (Exception e) {
             System.err.println("Failed to generate user_info.json: " + e.getMessage());
         }
-    }    
+    }
 
     public void setupInteractive() throws IOException, InterruptedException, SQLException, EmbeddingException {
         System.out.println("=== Chatbot Setup ===");
@@ -302,7 +302,7 @@ public class Utils {
         try (BufferedReader reader = new BufferedReader(new InputStreamReader(process.getInputStream()))) {
             String line;
             while ((line = reader.readLine()) != null) {
-                System.out.println(line);
+                //System.out.println(line);
             }
         }
 
