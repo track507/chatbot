@@ -64,7 +64,7 @@ public class Utils {
             Map<String, Object> userInfo = new LinkedHashMap<>();
             ObjectMapper mapper = new ObjectMapper();
     
-            // Get basic student info
+            // basic student info
             try (PreparedStatement stmt = conn.prepareStatement("SELECT * FROM student WHERE id = ?")) {
                 stmt.setInt(1, studentID);
                 try (ResultSet rs = stmt.executeQuery()) {
@@ -76,7 +76,7 @@ public class Utils {
                 }
             }
     
-            // Get majors (from StudentMajors view)
+            // majors (from StudentMajors view)
             try (PreparedStatement stmt = conn.prepareStatement(
                     "SELECT MajorID, MajorName FROM StudentMajors WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
@@ -92,7 +92,7 @@ public class Utils {
                 }
             }
     
-            // Get concentrations (from MajorConcentrations, filtered by student's majors)
+            // concentrations (from MajorConcentrations, filtered by student's majors)
             try (PreparedStatement stmt = conn.prepareStatement(
                     "SELECT c.ConcentrationID, c.ConcentrationName FROM MajorConcentrations c " +
                     "JOIN StudentMajors sm ON c.MajorID = sm.MajorID WHERE sm.StudentID = ?")) {
@@ -109,7 +109,7 @@ public class Utils {
                 }
             }
     
-            // Get current classes (from CurrentClasses view)
+            // current classes (from CurrentClasses view)
             try (PreparedStatement stmt = conn.prepareStatement(
                     "SELECT CourseID, CourseTitle FROM CurrentClasses WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
@@ -125,7 +125,7 @@ public class Utils {
                 }
             }
     
-            // Get total credit hours (from StudentCreditHours view)
+            // total credit hours (from StudentCreditHours view)
             try (PreparedStatement stmt = conn.prepareStatement(
                     "SELECT TotalCreditHours FROM StudentCreditHours WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
@@ -136,7 +136,7 @@ public class Utils {
                 }
             }
     
-            // Get department info (from StudentDepartment view)
+            // department info (from StudentDepartment view)
             try (PreparedStatement stmt = conn.prepareStatement(
                     "SELECT DepartmentID, DepartmentName FROM StudentDepartment WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
@@ -150,7 +150,7 @@ public class Utils {
                 }
             }
     
-            // Get remaining hours (from remaining_hours1 view)
+            // remaining hours (from remaining_hours1 view)
             try (PreparedStatement stmt = conn.prepareStatement(
                     "SELECT remaining_hours FROM remaining_hours1 WHERE studentID = ?")) {
                 stmt.setInt(1, studentID);
@@ -161,7 +161,7 @@ public class Utils {
                 }
             }
     
-            // Write to JSON
+            // save to JSON
             mapper.writerWithDefaultPrettyPrinter()
                 .writeValue(Paths.get("user_info.json").toFile(), userInfo);
     
