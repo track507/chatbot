@@ -13,7 +13,7 @@ public class SetupOptions {
 
     public SetupOptions(String embedModel, String LLMModel, String ollamaEndpoint, String ollamaEmbedEndpoint, String qdrantEndpoint, String qdrantCollection, String database) {
         this.embedModel = (embedModel == null || embedModel.isBlank()) ? "nomic-embed-text" : embedModel;
-        this.LLMModel = (LLMModel == null || LLMModel.isBlank()) ? "gemma3:1b" : LLMModel;
+        this.LLMModel = (LLMModel == null || LLMModel.isBlank()) ? "gemma3:4b" : LLMModel;
         this.ollamaEndpoint = (ollamaEndpoint == null || ollamaEndpoint.isBlank())
                 ? "http://localhost:11434" : ollamaEndpoint;
         this.ollamaEmbedEndpoint = (ollamaEmbedEndpoint == null || ollamaEmbedEndpoint.isBlank())

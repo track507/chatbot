@@ -16,13 +16,13 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
 ## Requirements
 
 ### Required
-- JDK 22 (configurable to JDK 17 or higher)
+- JDK 22 (configurable to JDK 11 or higher)
 - Maven
 - SQLite3
 - Qdrant
 - Ollama (with two models):
   - `nomic-embed-text` (for embeddings)
-  - `gemma3:1b` (for chat generation)
+  - `gemma3:4b` (for chat generation)
   - These are the default models
 
 ### Optional (but required if you choose to generate visuals)
@@ -73,7 +73,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
          ```json
          {
             "embedModel" : "nomic-embed-text",
-            "LLMModel" : "gemma3:1b",
+            "LLMModel" : "gemma3:4b",
             "ollamaEndpoint" : "http://localhost:11434",
             "qdrantEndpoint" : "http://localhost:6333",
             "qdrantCollection" : "chatbot",
@@ -114,23 +114,27 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
    3. Revectorize Embeddings
       - This is recommended if the above step is used, but not required. This will make a DELETE request to the vector store collection so that "old" embeds are removed.
    4. Vectorzing User Info (REQUIRED)
-      - Due to the nature of this program and logging in., each user is stored into the vector store. For example:
+      - Due to the nature of this program and logging inW, each user is stored into the vector store. For example:
          ```txt
          User Profile:
          - id: 1001
-         - firstname: Bob
-         - lastname: Miller
+            - firstname: Bob
+            - lastname: Miller
          - majors: 
-         - MATH - Mathematics
+            - MATH - Mathematics
          - concentrations: 
          - current_classes: 
-         - MATH101 - Calculus I
-         - BIO201 - Genetics
-         - MATH201 - Linear Algebra
+            - MATH101 - Calculus I
+            - BIO201 - Genetics
+            - MATH201 - Linear Algebra
          - total_credit_hours: 11
          - department: 
-         - name: Mathematics
-         - id: MATH
+            - name: Mathematics
+            - id: MATH
          - remaining_hours: 121
          ```
-      - 
+   5. SchemaSpy Generation (Optional)
+      - NOTE: Due to Powershell parsing issues, and the `dot` command not being properly called, there is a `ssFixer` function in `Utils.java` that fixes *some* of the errors when using SchemaSpy. I have not fully tested this in Linux/Unix terminals, only PowerShell and Cmd prompt.
+      - Must have GraphViz installed.
+      - The SchemaSpy jar is in the `./tools` directory.
+   6. Chat Away!

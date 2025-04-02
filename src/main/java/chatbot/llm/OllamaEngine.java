@@ -45,11 +45,11 @@ public class OllamaEngine {
         try {
             ObjectMapper mapper = new ObjectMapper();
             Map<String, String> config = mapper.readValue(new File("options.json"), Map.class);
-            String modelName = config.getOrDefault("LLMModel", "gemma3:1b");
+            String modelName = config.getOrDefault("LLMModel", "gemma3:4b");
             return modelName;
         } catch (Exception e) {
             System.out.println("Error loading LLM model: " + e.getMessage());
-            return "gemma3:1b"; // default LLM
+            return "gemma3:4b"; // default LLM
         }
     }
 

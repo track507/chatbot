@@ -205,7 +205,7 @@ public class Utils {
             System.out.print("Embed model name [default: nomic-embed-text]: ");
             String embedModel = scanner.nextLine().trim();
 
-            System.out.print("LLM model name [default: gemma3:1b]: ");
+            System.out.print("LLM model name [default: gemma3:4b]: ");
             String LLMmodel = scanner.nextLine().trim();
 
             System.out.print("Ollama endpoint [default: http://localhost:11434]: ");
