@@ -16,7 +16,9 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+
 import com.fasterxml.jackson.databind.ObjectMapper;
+
 import chatbot.llm.Embedder;
 import chatbot.llm.EmbeddingException;
 
@@ -61,7 +63,8 @@ public class Utils {
         try {
             Map<String, Object> userInfo = new LinkedHashMap<>();
             ObjectMapper mapper = new ObjectMapper();
-
+    
+            // Get basic student info
             try (PreparedStatement stmt = conn.prepareStatement("SELECT * FROM student WHERE id = ?")) {
                 stmt.setInt(1, studentID);
                 try (ResultSet rs = stmt.executeQuery()) {
@@ -72,53 +75,57 @@ public class Utils {
                     }
                 }
             }
-
+    
+            // Get majors (from StudentMajors view)
             try (PreparedStatement stmt = conn.prepareStatement(
-                    "SELECT sm.major, m.title FROM student_major sm JOIN major m ON sm.major = m.id WHERE sm.studentID = ?")) {
+                    "SELECT MajorID, MajorName FROM StudentMajors WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
                 try (ResultSet rs = stmt.executeQuery()) {
                     List<Map<String, String>> majors = new ArrayList<>();
                     while (rs.next()) {
                         majors.add(Map.of(
-                            "id", rs.getString("major"),
-                            "title", rs.getString("title")
+                            "id", rs.getString("MajorID"),
+                            "title", rs.getString("MajorName")
                         ));
                     }
                     userInfo.put("majors", majors);
                 }
             }
-
+    
+            // Get concentrations (from MajorConcentrations, filtered by student's majors)
             try (PreparedStatement stmt = conn.prepareStatement(
-                    "SELECT c.id, c.title FROM concentration c JOIN student_major sm ON c.major = sm.major WHERE sm.studentID = ?")) {
+                    "SELECT c.ConcentrationID, c.ConcentrationName FROM MajorConcentrations c " +
+                    "JOIN StudentMajors sm ON c.MajorID = sm.MajorID WHERE sm.StudentID = ?")) {
                 stmt.setInt(1, studentID);
                 try (ResultSet rs = stmt.executeQuery()) {
                     List<Map<String, String>> concs = new ArrayList<>();
                     while (rs.next()) {
                         concs.add(Map.of(
-                            "id", rs.getString("id"),
-                            "title", rs.getString("title")
+                            "id", rs.getString("ConcentrationID"),
+                            "title", rs.getString("ConcentrationName")
                         ));
                     }
                     userInfo.put("concentrations", concs);
                 }
             }
-
+    
+            // Get current classes (from CurrentClasses view)
             try (PreparedStatement stmt = conn.prepareStatement(
-                    "SELECT c.id, c.title FROM currentclasses cc " +
-                            "JOIN course c ON cc.courseID = c.id WHERE cc.studentID = ?")) {
+                    "SELECT CourseID, CourseTitle FROM CurrentClasses WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
                 try (ResultSet rs = stmt.executeQuery()) {
                     List<Map<String, String>> classes = new ArrayList<>();
                     while (rs.next()) {
                         classes.add(Map.of(
-                            "id", rs.getString("id"),
-                            "title", rs.getString("title")
+                            "id", rs.getString("CourseID"),
+                            "title", rs.getString("CourseTitle")
                         ));
                     }
                     userInfo.put("current_classes", classes);
                 }
             }
-
+    
+            // Get total credit hours (from StudentCreditHours view)
             try (PreparedStatement stmt = conn.prepareStatement(
                     "SELECT TotalCreditHours FROM StudentCreditHours WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
@@ -128,7 +135,8 @@ public class Utils {
                     }
                 }
             }
-
+    
+            // Get department info (from StudentDepartment view)
             try (PreparedStatement stmt = conn.prepareStatement(
                     "SELECT DepartmentID, DepartmentName FROM StudentDepartment WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
@@ -141,9 +149,10 @@ public class Utils {
                     }
                 }
             }
-
+    
+            // Get remaining hours (from remaining_hours1 view)
             try (PreparedStatement stmt = conn.prepareStatement(
-                    "SELECT remaining_hours FROM remaining_hours2 WHERE studentID = ?")) {
+                    "SELECT remaining_hours FROM remaining_hours1 WHERE studentID = ?")) {
                 stmt.setInt(1, studentID);
                 try (ResultSet rs = stmt.executeQuery()) {
                     if (rs.next()) {
@@ -151,15 +160,16 @@ public class Utils {
                     }
                 }
             }
-
+    
+            // Write to JSON
             mapper.writerWithDefaultPrettyPrinter()
                 .writeValue(Paths.get("user_info.json").toFile(), userInfo);
-
+    
             System.out.println("user_info.json created.");
         } catch (Exception e) {
             System.err.println("Failed to generate user_info.json: " + e.getMessage());
         }
-    }
+    }    
 
     public void setupInteractive() throws IOException, InterruptedException, SQLException, EmbeddingException {
         System.out.println("=== Chatbot Setup ===");

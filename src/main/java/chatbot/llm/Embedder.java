@@ -1,19 +1,22 @@
 package chatbot.llm;
+import java.io.File;
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.nio.file.Files;
-import java.io.File;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
+
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
+
+import chatbot.helpers.HttpClientPool;
 
 public class Embedder {
     // endpoint for Ollama's embedding api (local)
@@ -29,7 +32,7 @@ public class Embedder {
     private final String qdrantEndpoint;
     private final String collectionName;
 
-    private final HttpClient client = HttpClient.newHttpClient();
+    private final HttpClient httpClient = HttpClientPool.SHARED_CLIENT;
     private final ObjectMapper mapper = new ObjectMapper();
 
     public Embedder(String ollamaEmbedEndpoint, String modelName, String qdrantEndpoint) {
@@ -62,7 +65,7 @@ public class Embedder {
                 .uri(URI.create(qdrantEndpoint + "/collections"))
                 .GET()
                 .build();
-            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+            HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
             return response.statusCode() == 200;
         } catch (Exception e) {
             return false;
@@ -75,7 +78,7 @@ public class Embedder {
                 .uri(URI.create(ollamaEmbedEndpoint.replace("/api/embeddings", "/")))
                 .GET()
                 .build();
-            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+            HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
             return response.statusCode() == 200;
         } catch (Exception e) {
             return false;
@@ -95,7 +98,7 @@ public class Embedder {
                 .POST(HttpRequest.BodyPublishers.ofString(requestBody))
                 .build();
 
-            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+            HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
             return response.statusCode() == 200 && mapper.readTree(response.body()).get("embedding") != null;
         } catch (Exception e) {
             return false;
@@ -120,7 +123,7 @@ public class Embedder {
                 .POST(HttpRequest.BodyPublishers.ofString(requestBody))
                 .build();
     
-            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+            HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
     
             //System.out.println("\nOllama response:\n" + response.body());  // Debug
             JsonNode json = mapper.readTree(response.body());
@@ -220,7 +223,7 @@ public class Embedder {
                 .PUT(HttpRequest.BodyPublishers.ofString(jsonPayload))
                 .build();
     
-            HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+            HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
     
             if (response.statusCode() != 200) {
                 throw new EmbeddingException("Failed to store embedding in Qdrant: " + response.body());
@@ -237,7 +240,7 @@ public class Embedder {
             .DELETE()
             .build();
     
-        HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
+        HttpResponse<String> response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
     
         if (response.statusCode() == 200) {
             System.out.println("Deleted existing Qdrant collection: " + collectionName);
@@ -253,7 +256,7 @@ public class Embedder {
             .GET()
             .build();
     
-        HttpResponse<String> listResponse = client.send(listRequest, HttpResponse.BodyHandlers.ofString());
+        HttpResponse<String> listResponse = httpClient.send(listRequest, HttpResponse.BodyHandlers.ofString());
     
         JsonNode root = mapper.readTree(listResponse.body());
         boolean exists = root.path("result").path("collections")
@@ -275,7 +278,7 @@ public class Embedder {
                 .PUT(HttpRequest.BodyPublishers.ofString(json))
                 .build();
     
-            HttpResponse<String> createResponse = client.send(createRequest, HttpResponse.BodyHandlers.ofString());
+            HttpResponse<String> createResponse = httpClient.send(createRequest, HttpResponse.BodyHandlers.ofString());
     
             if (createResponse.statusCode() != 200) {
                 throw new IOException("Failed to create collection: " + createResponse.body());
@@ -303,9 +306,8 @@ public class Embedder {
             System.err.println("Failed to delete collection: " + e.getMessage());
         }
 
-        System.out.println("Vectorizing database_export.txt and user_info.json...");
+        System.out.println("Vectorizing database_export.txt...");
         chunkEmbeds("database_export.txt");
-        vectorizeUserInfo("user_info.json");
         System.out.println("Finished embedding: database_export.txt");
     }
 
@@ -329,8 +331,6 @@ public class Embedder {
             payload.put("source", "user_info.json");
 
             storeEmbeddingInQdrant("user_info.json", embedding, payload);
-
-    
             System.out.println("Vectorized: user_info.json");
         } catch (IOException e) {
             throw new EmbeddingException("Failed to read user_info.json: " + e.getMessage(), e);

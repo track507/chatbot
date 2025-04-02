@@ -2,9 +2,12 @@ package chatbot.llm;
 import java.io.File;
 import java.util.List;
 import java.util.Map;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
+
 import com.fasterxml.jackson.databind.ObjectMapper;
+
 import chatbot.helpers.Utils;
 
 public class LLMQuery {
@@ -56,7 +59,7 @@ public class LLMQuery {
         );
 
         // Debug
-        // System.out.println(userProfile);
+        // System.out.println(fullPrompt);
 
         return ollama.getResponse(fullPrompt);
     }

@@ -8,15 +8,19 @@ import java.net.http.HttpResponse;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
+
 import com.fasterxml.jackson.databind.ObjectMapper;
+
+import chatbot.helpers.HttpClientPool;
 
 public class OllamaEngine {
     private final String modelName;
     private final String endpoint;
     private final List<JSONObject> messageHistory = new ArrayList<>();
-    private final HttpClient httpClient = HttpClient.newHttpClient();
+    private final HttpClient httpClient = HttpClientPool.SHARED_CLIENT;
 
     public OllamaEngine() {
         this.modelName = loadModelName();
@@ -27,9 +31,6 @@ public class OllamaEngine {
         Always greet or refer to the student by their first name when relevant.
 
         Be concise, clear, and friendly in your tone. Provide helpful, accurate, and personalized responses.
-        If the user asks about progress, requirements, or recommendations, refer to their user profile.
-        If the user profile is insufficient, you may crosslist the university's academic records (context) to provide a more accurate response.
-        If that is also insufficient, ask the user for more information.
         Avoid making assumptions about the user or their situation. If you are unsure, ask clarifying questions.
         Avoid repeating unnecessary details already clear from context.
         """;

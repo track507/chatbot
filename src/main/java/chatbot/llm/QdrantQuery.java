@@ -12,10 +12,12 @@ import org.json.JSONObject;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import chatbot.helpers.HttpClientPool;
+
 public class QdrantQuery {
     private final String endpoint;
     private final String collection;
-    private final HttpClient httpClient = HttpClient.newHttpClient();
+    private final HttpClient httpClient = HttpClientPool.SHARED_CLIENT;
 
     public QdrantQuery() throws Exception {
         ObjectMapper mapper = new ObjectMapper();
