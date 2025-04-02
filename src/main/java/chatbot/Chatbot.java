@@ -27,6 +27,20 @@ public class Chatbot {
     private final Utils utils = new Utils();
 
     public void start() {
+
+        try {
+            utils.setupInteractive();
+            utils.clearConsole();
+        } catch (EmbeddingException e) {
+            System.err.println("Embedding Error during setup: " + e.getMessage());
+            e.printStackTrace();
+            return; 
+        } catch (Exception e) {
+            System.err.println("Unexpected error during setup: " + e.getMessage());
+            e.printStackTrace();
+            return;
+        }
+
         try {
             utils.login();
         } catch (SQLException e) {
@@ -37,17 +51,6 @@ public class Chatbot {
             System.err.println("Unexpected error during login: " + e.getMessage());
         }
 
-        try {
-            utils.setupInteractive(); 
-        } catch (EmbeddingException e) {
-            System.err.println("Embedding Error during setup: " + e.getMessage());
-            e.printStackTrace();
-            return; 
-        } catch (Exception e) {
-            System.err.println("Unexpected error during setup: " + e.getMessage());
-            e.printStackTrace();
-            return;
-        }
         utils.clearConsole();
 
         System.out.println("Welcome to Chatbot!");

@@ -1,6 +1,5 @@
 # Might contain sensitive information
 *.db
-*.sql
 database_export.txt
 *.bak
 *.tmp

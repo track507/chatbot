@@ -65,7 +65,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
       ```
 
 ### 4. Manual Configuration (Optional)
-   These files are required. `options.json` is used to story and pull information to connect to the LLM, Ollama, Qdrant, Database, etc. It's also meant to keep persistence if the program crashes or if the database is ever updated. 
+   These files are required. `options.json` is used to store and pull information to connect to the LLM, Ollama, Qdrant, Database, etc. It's also meant to keep persistence if the program crashes or if the database is ever updated. 
 
    `db.properties` is used to story the properties for SchemaSpy. It cannot be ignored, but a generic one will be created for you if you do not wish to use SchemaSpy.
    
@@ -110,12 +110,36 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
       - If a `options.json` is found, and has all the required fields, prompt to use it, run defaults, or manually configure it during the setup.
    2. Rerun database setup.
       - If yes, files named `run.sql` and `export.sql` are required.
-         - `run.sql` would run any number of `.sql` files to ensure the database is updated.
-         - `export.sql` is used to export the sql into a `database_export.txt` file. This file is what the program embeds to pass into the vector store (Qdrant) in chunks so that we can use semantic search
+         - `run.sql` would run any number of `.sql` files to ensure the database is updated. An example of what would be in this file is:
+            ```sql
+            .read db_files/db.sql
+            .read db_files/inserts.sql
+            .read db_files/views.sql
+            ```
+            This would read all of the `.sql` files. This can also be used to run any SQLite or SQL command. (e.g. `select * from table` or `create table` would be valid)
+         - `export.sql` is used to export SQL into `database_export.txt` (REQUIRED). The output file must match this name. This file is what the program embeds to pass into the vector store (Qdrant) in 1000 character chunks with a 200 character sliding window so that we can use semantic search. An example, and recommended, of what would be in this file is:
+            ```sql
+            .mode column
+            .headers on
+            .output database_export.txt
+
+            .print 'Table: course'
+            SELECT * FROM course;
+
+            .print 'Table: department'
+            SELECT * FROM department;
+
+            .print 'Table: major'
+            SELECT * FROM major;
+            
+            .output stdout
+            ```
+            This will export the following tables with columns and headers into a file named `database_export.txt`.
+      - Example files will be provided in `./db_files`
    3. Revectorize Embeddings
       - This is recommended if the above step is used, but not required. This will make a DELETE request to the vector store collection so that "old" embeds are removed.
    4. Vectorzing User Info (REQUIRED)
-      - Due to the nature of this program and logging inW, each user is stored into the vector store. For example:
+      - Due to the nature of this program and logging in, each user is stored into the vector store. For example:
          ```txt
          User Profile:
          - id: 1001

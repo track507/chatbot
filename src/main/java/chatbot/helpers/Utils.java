@@ -92,10 +92,9 @@ public class Utils {
                 }
             }
     
-            // concentrations (from MajorConcentrations, filtered by student's majors)
+            // concentrations (from StudentConcentrations view)
             try (PreparedStatement stmt = conn.prepareStatement(
-                    "SELECT c.ConcentrationID, c.ConcentrationName FROM MajorConcentrations c " +
-                    "JOIN StudentMajors sm ON c.MajorID = sm.MajorID WHERE sm.StudentID = ?")) {
+                "SELECT ConcentrationID, ConcentrationName FROM StudentConcentrations WHERE StudentID = ?")) {
                 stmt.setInt(1, studentID);
                 try (ResultSet rs = stmt.executeQuery()) {
                     List<Map<String, String>> concs = new ArrayList<>();
