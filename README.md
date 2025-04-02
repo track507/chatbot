@@ -23,7 +23,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
 - Ollama (with two models):
   - `nomic-embed-text` (for embeddings)
   - `gemma3:4b` (for chat generation)
-  - These are the default models
+  - These are the default models. Gemma3:4b is included as a ModelFile
 
 ### Optional (but required if you choose to generate visuals)
 - SchemaSpy and dependencies (already included: `./tools/schemaspy-6.2.4.jar`):
@@ -60,7 +60,8 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
    - Run Ollama with an embedding model and LLM
       ```
       ollama pull nomic-embed-text
-      ollama run gemma3:4b
+      ollama create Advisor -f ./ModelFiles/Gemma3-4b
+      ollama run Advisor
       ```
 
 ### 4. Manual Configuration (Optional)
@@ -73,7 +74,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
          ```json
          {
             "embedModel" : "nomic-embed-text",
-            "LLMModel" : "gemma3:4b",
+            "LLMModel" : "Advisor",
             "ollamaEndpoint" : "http://localhost:11434",
             "qdrantEndpoint" : "http://localhost:6333",
             "qdrantCollection" : "chatbot",
