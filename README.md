@@ -60,7 +60,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
    - Run Ollama with an embedding model and LLM
       ```
       ollama pull nomic-embed-text
-      ollama create Advisor -f ./ModelFiles/Gemma3-4b
+      ollama create Advisor -f ./ModelFiles/Advisor
       ollama run Advisor
       ```
 
