@@ -37,26 +37,29 @@ public class Utils {
             } catch (NumberFormatException e) {
                 throw new IllegalArgumentException("Invalid input: must be a numeric student ID.");
             }
-    
+
             try (Connection conn = DriverManager.getConnection("jdbc:sqlite:" + getDatabaseName());
-                 PreparedStatement checkStmt = conn.prepareStatement("SELECT * FROM student WHERE id = ?")) {
-    
+                PreparedStatement checkStmt = conn.prepareStatement("SELECT * FROM student WHERE id = ?")) {
+
                 checkStmt.setInt(1, studentID);
                 try (ResultSet rs = checkStmt.executeQuery()) {
                     if (!rs.next()) {
                         throw new IllegalArgumentException("Invalid credentials");
                     }
-    
+
                     System.out.println("Login successful!");
                     Thread.sleep(1000);
                     generateUserInfoJson(conn, studentID);
                 }
             }
         } catch (SQLException e) {
-            throw e;
+            System.err.println("Database error: " + e.getMessage());
+        } catch (IOException e) {
+            System.err.println("Failed to load database configuration: " + e.getMessage());
         } catch (InterruptedException e) {
             System.err.println("Interrupted during sleep: " + e.getMessage());
         }
+
     }
 
     private void generateUserInfoJson(Connection conn, int studentID) {
