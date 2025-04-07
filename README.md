@@ -40,6 +40,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
       - [Windows](https://docs.docker.com/desktop/setup/install/windows-install/)
       - [Linux](https://docs.docker.com/engine/install/)
    - If on windows, I recommend using WSL. See [here](https://learn.microsoft.com/en-us/windows/wsl/install) for installation instructions.
+   - NOTE: If you are having trouble with loggin into Docker Hub, try `docker login --username USERNAME` or `docker login --username USERNAME docker.io`
 
 
 ### 2. Get a Qdrant Container (Docker Desktop Terminal, WSL, Linux, MacOS):
@@ -63,6 +64,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
       ollama create Advisor -f ./ModelFiles/Advisor
       ollama run Advisor
       ```
+   - Due to powershell/command parsing issues, the `FROM` statement in the model file thinks that we are trying to import from a file instead of from an LLM. If your machine is struggling to run the model(s), you can switch it out with any model you like by changing the model name in the model file. For example, in the model file change the first line to something like `FROM: gemma3:1b` or `FROM llama3.2:3b` or `FROM qwen2.5:1.5b` to use smaller models at the cost of accuracy. 
 
 ### 4. Manual Configuration (Optional)
    These files are required. `options.json` is used to store and pull information to connect to the LLM, Ollama, Qdrant, Database, etc. It's also meant to keep persistence if the program crashes or if the database is ever updated. 
