@@ -38,7 +38,7 @@ public class Utils {
                 throw new IllegalArgumentException("Invalid input: must be a numeric student ID.");
             }
     
-            try (Connection conn = DriverManager.getConnection("jdbc:sqlite:abcdb.db");
+            try (Connection conn = DriverManager.getConnection("jdbc:sqlite:" + getDatabaseName());
                  PreparedStatement checkStmt = conn.prepareStatement("SELECT * FROM student WHERE id = ?")) {
     
                 checkStmt.setInt(1, studentID);
@@ -286,7 +286,8 @@ public class Utils {
 
     // method to execute any SQLite script (.sql file)
     private void runSqliteScript(String sqlFileName) throws IOException, InterruptedException {
-        String sqliteCommand = "sqlite3 abcdb.db \".read " + sqlFileName + "\"";
+        String dbFile = getDatabaseName();
+        String sqliteCommand = "sqlite3 " + dbFile + " \".read " + sqlFileName + "\"";
 
         ProcessBuilder processBuilder = new ProcessBuilder();
 

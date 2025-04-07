@@ -67,7 +67,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
    - Due to powershell/command parsing issues, the `FROM` statement in the model file thinks that we are trying to import from a file instead of from an LLM. If your machine is struggling to run the model(s), you can switch it out with any model you like by changing the model name in the model file. For example, in the model file change the first line to something like `FROM: gemma3:1b` or `FROM llama3.2:3b` or `FROM qwen2.5:1.5b` to use smaller models at the cost of accuracy. 
 
 ### 4. Manual Configuration (Optional)
-   These files are required. `options.json` is used to store and pull information to connect to the LLM, Ollama, Qdrant, Database, etc. It's also meant to keep persistence if the program crashes or if the database is ever updated. 
+   These files are required, but automatically generated upon setup. `options.json` is used to store and pull information to connect to the LLM, Ollama, Qdrant, Database, etc. It's also meant to keep persistence if the program crashes or if the database is ever updated. 
 
    `db.properties` is used to story the properties for SchemaSpy. It cannot be ignored, but a generic one will be created for you if you do not wish to use SchemaSpy.
    
@@ -87,16 +87,16 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
       - Each field must be present. If the `options.json` is missing/broken or any of the fields are missing, the program will notify and ask to generate one during setup.
 
    * #### `db.properties`
-      - `db.properties` is also generated at run time, or you can manually set one up in the root directory. If one is not present, it will create one at setup. The default configuration is:
+      - `db.properties` is also generated at run time, or you can manually set one up in the root directory. If one is not present, it will create one at setup. The default configuration is (where `DB_FILE` is the name of the database file, e.g. main.db):
          ```txt
          schemaspy.t=sqlite-xerial
          schemaspy.dp=tools/sqlite-jdbc-3.49.1.0.jar
-         schemaspy.db=main.db
+         schemaspy.db=DB_FILE
          schemaspy.s=main
          schemaspy.u=ignored
          schemaspy.o=visuals/schemaspy
          schemaspy.cat=%
-         schemaspy.url=jdbc:sqlite:main.db
+         schemaspy.url=jdbc:sqlite:DB_FILE
          schemaspy.imageformat=svg
          schemaspy.renderer=:
          schemaspy.fontsize=12
