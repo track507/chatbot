@@ -36,22 +36,27 @@ public class Embedder {
     private final ObjectMapper mapper = new ObjectMapper();
 
     public Embedder(String ollamaEmbedEndpoint, String modelName, String qdrantEndpoint) {
+        Map<String, String> config = new LinkedHashMap<>();
+
         try {
-            ObjectMapper mapper = new ObjectMapper();
-            Map<String, String> config = mapper.readValue(new File("options.json"), Map.class);
-            this.collectionName = config.getOrDefault("qdrantCollection", "chatbot");
+            config = mapper.readValue(new File("options.json"), Map.class);
         } catch (IOException e) {
-            throw new RuntimeException("Failed to read options.json for collection name: " + e.getMessage(), e);
+            System.err.println("Warning: Could not read options.json, using defaults. " + e.getMessage());
         }
 
         this.ollamaEmbedEndpoint = (ollamaEmbedEndpoint == null || ollamaEmbedEndpoint.isBlank())
-            ? DEFAULT_OLLAMA_EMBED_ENDPOINT : ollamaEmbedEndpoint;
+            ? config.getOrDefault("ollamaEmbedEndpoint", DEFAULT_OLLAMA_EMBED_ENDPOINT)
+            : ollamaEmbedEndpoint;
 
         this.modelName = (modelName == null || modelName.isBlank())
-            ? DEFAULT_MODEL_NAME : modelName;
+            ? config.getOrDefault("embedModel", DEFAULT_MODEL_NAME)
+            : modelName;
 
         this.qdrantEndpoint = (qdrantEndpoint == null || qdrantEndpoint.isBlank())
-            ? DEFAULT_QDRANT_ENDPOINT : qdrantEndpoint;
+            ? config.getOrDefault("qdrantEndpoint", DEFAULT_QDRANT_ENDPOINT)
+            : qdrantEndpoint;
+
+        this.collectionName = config.getOrDefault("qdrantCollection", "chatbot");
     }
 
     public Embedder() {
