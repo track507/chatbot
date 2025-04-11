@@ -17,11 +17,9 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
-
-import chatbot.llm.Embedder;
-import chatbot.llm.EmbeddingException;
+import chatbot.langchain.LangchainEmbedder;
+import chatbot.langchain.EmbeddingException;
 
 public class Utils {
     private static final Scanner scanner = new Scanner(System.in);
@@ -262,11 +260,11 @@ public class Utils {
             System.out.println("Skipping vectorization.");
         }
 
-        System.out.println("Attempting to vectorize user info...");
+        System.out.println("Attempting to embed user info...");
         Path userInfoPath = Paths.get("user_info.json");
         if (Files.exists(userInfoPath)) {
             try {
-                embedder.vectorizeUserInfo(userInfoPath.toString());
+                embedder.embedUserProfile(userInfoPath.toString());
             } catch (EmbeddingException e) {
                 System.err.println("Failed to vectorize user_info.json: " + e.getMessage());
             }
@@ -317,6 +315,19 @@ public class Utils {
         }
 
         System.out.println("SQLite script executed successfully: " + sqlFileName);
+    }
+
+    public void exportChatLog() {
+        String filename = "chat_log.txt";
+        try (PrintWriter writer = new PrintWriter(filename)) {
+            for (ChatMessage msg : messageHistory) {
+                String role = msg instanceof UserMessage ? "User" :
+                            msg instanceof AssistantMessage ? "Assistant" : "System";
+                writer.println(role + ": " + msg.text());
+            }
+        } catch (IOException e) {
+            System.err.println("Failed to export chat: " + e.getMessage());
+        }
     }
 
     private void ssFixer() {

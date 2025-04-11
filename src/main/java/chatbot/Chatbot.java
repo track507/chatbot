@@ -1,13 +1,9 @@
 package chatbot;
 import java.sql.SQLException;
 import java.util.Scanner;
-
 import chatbot.helpers.Utils;
-import chatbot.llm.Embedder;
-import chatbot.llm.EmbeddingException;
-import chatbot.llm.LLMQuery;
-import chatbot.llm.OllamaEngine;
-import chatbot.llm.QdrantQuery;
+import chatbot.langchain.LangchainEngine;
+import chatbot.langchain.LangchainEmbedder;
 
 // TODO:
 /*
@@ -57,11 +53,8 @@ public class Chatbot {
         System.out.println("Type 'exit' or 'quit' to quit or 'reset' to restart the conversation.");
 
         try (Scanner scanner = new Scanner(System.in)) {
+            LangchainEngine engine = new LangchainEngine();
             while (true) {
-                Embedder embedder = new Embedder();
-                OllamaEngine ollama = new OllamaEngine();
-                QdrantQuery qdrant = new QdrantQuery();
-                LLMQuery engine = new LLMQuery(embedder, qdrant);
 
                 String input;
                 while (true) { 
@@ -73,8 +66,9 @@ public class Chatbot {
                             utils.quit();
                         }
 
+                        // Fix this to reset the conversation
                         if (input.equalsIgnoreCase("reset")) {
-                            ollama.resetConversation();
+                            engine.resetConversation();
                             System.out.println("Conversation reset.");
                             continue;
                         }
