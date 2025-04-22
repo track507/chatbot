@@ -2,8 +2,7 @@ package chatbot;
 import java.sql.SQLException;
 import java.util.Scanner;
 import chatbot.helpers.Utils;
-import chatbot.langchain.LangchainEngine;
-import chatbot.langchain.LangchainEmbedder;
+import chatbot.langchain.EmbeddingException;
 
 // TODO:
 /*
@@ -53,7 +52,6 @@ public class Chatbot {
         System.out.println("Type 'exit' or 'quit' to quit or 'reset' to restart the conversation.");
 
         try (Scanner scanner = new Scanner(System.in)) {
-            LangchainEngine engine = new LangchainEngine();
             while (true) {
 
                 String input;
@@ -68,13 +66,11 @@ public class Chatbot {
 
                         // Fix this to reset the conversation
                         if (input.equalsIgnoreCase("reset")) {
-                            engine.resetConversation();
                             System.out.println("Conversation reset.");
                             continue;
                         }
 
-                        String response = engine.ask(input);
-                        System.out.println("\nAdvisor: " + response);
+                        System.out.println("\nAdvisor: ");
 
                     } catch (Exception e) {
                         System.err.println("Error: " + e.getMessage());

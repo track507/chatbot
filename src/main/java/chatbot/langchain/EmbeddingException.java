@@ -1,4 +1,4 @@
-package chatbot.llm;
+package chatbot.langchain;
 
 public class EmbeddingException extends Exception {
     public EmbeddingException(String message, Throwable cause) {

@@ -108,20 +108,19 @@
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j</artifactId>
-            <version>0.36.2</version>
-            <scope>test</scope>
+            <version>1.0.0-beta3</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/dev.langchain4j/langchain4j-ollama -->
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-ollama</artifactId>
-            <version>0.36.2</version>
+            <version>1.0.0-beta3</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/dev.langchain4j/langchain4j-qdrant -->
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-qdrant</artifactId>
-            <version>0.36.2</version>
+            <version>1.0.0-beta3</version>
         </dependency>
     </dependencies>
     <build>
