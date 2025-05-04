@@ -19,9 +19,11 @@ import java.util.Map;
 import java.util.Scanner;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import chatbot.langchain.EmbeddingException;
+import chatbot.langchain.LangchainEmbed;
 
 public class Utils {
     private static final Scanner scanner = new Scanner(System.in);
+    private final ObjectMapper mapper = new ObjectMapper();
 
     // login method to authenticate student
     public void login() throws SQLException {
@@ -183,10 +185,12 @@ public class Utils {
                 options = mapper.readValue(configPath.toFile(), SetupOptions.class);
                 System.out.println("Previous setup found:");
                 System.out.println("  Embed Model: " + options.embedModel);
-                System.out.println("  LLM Model: " + options.LLMModel);
+                System.out.println("  LLM Model: " + options.chatModel);
                 System.out.println("  Ollama: " + options.ollamaEndpoint);
                 System.out.println("  Ollama Embed: " + options.ollamaEmbedEndpoint);
-                System.out.println("  Qdrant: " + options.qdrantEndpoint);
+                System.out.println("  Qdrant: " + options.qdrantRestEndpoint);
+                System.out.println("  Qdrant gRPC Host: " + options.qdrantGrpcHost);
+                System.out.println("  Qdrant gRPC Port: " + options.qdrantGrpcPort);
                 System.out.println("  Qdrant Collection: " + options.qdrantCollection);
                 System.out.println("  Database: " + options.database);
 
@@ -211,11 +215,17 @@ public class Utils {
             System.out.print("Ollama endpoint [default: http://localhost:11434]: ");
             String ollamaEndpoint = scanner.nextLine().trim();
 
-            System.out.print("Ollama embedding endpoint [default: http://localhost:11434/api/embeddings]: ");
+            System.out.print("Ollama embedding endpoint [default: http://localhost:11434]: ");
             String ollamaEmbedEndpoint = scanner.nextLine().trim();
 
-            System.out.print("Qdrant endpoint [default: http://localhost:6333]: ");
-            String qdrantEndpoint = scanner.nextLine().trim();
+            System.out.print("Qdrant REST endpoint [default: http://localhost:6333]: ");
+            String qdrantRestEndpoint = scanner.nextLine().trim();
+
+            System.out.print("Qdrant gRPC host [default: localhost]: ");
+            String qdrantGrpcHost = scanner.nextLine().trim();
+
+            System.out.print("Qdrant gRPC port [default: 6334]: ");
+            String qdrantGrpcPort = scanner.nextLine().trim();
 
             System.out.print("Qdrant collection [default: chatbot]: ");
             String qdrantCollection = scanner.nextLine().trim();
@@ -228,7 +238,9 @@ public class Utils {
                 LLMmodel.isEmpty() ? null : LLMmodel,
                 ollamaEndpoint.isEmpty() ? null : ollamaEndpoint,
                 ollamaEmbedEndpoint.isEmpty() ? null : ollamaEmbedEndpoint,
-                qdrantEndpoint.isEmpty() ? null : qdrantEndpoint,
+                qdrantRestEndpoint.isEmpty() ? null : qdrantRestEndpoint,
+                qdrantGrpcHost.isEmpty() ? null : qdrantGrpcHost,
+                qdrantGrpcPort.isEmpty() ? null : qdrantGrpcPort,
                 qdrantCollection.isEmpty() ? null : qdrantCollection,
                 database.isEmpty() ? null : database
             );
@@ -241,38 +253,33 @@ public class Utils {
         System.out.print("Rerun database setup (run.sql & export.sql)? (yes/no): ");
         String dbChoice = scanner.nextLine().trim().toLowerCase();
         if (dbChoice.equals("yes")) {
-            System.out.println("Running SQL scripts...");
             runSqliteScript("db_files/run.sql");
             runSqliteScript("db_files/export.sql");
-        } else {
-            System.out.println("Skipping database setup.");
         }
+
+        LangchainEmbed embedder = new LangchainEmbed(options);
 
         System.out.print("Revectorize embeddings with current data? (yes/no): ");
         String vectorChoice = scanner.nextLine().trim().toLowerCase();
         if (vectorChoice.equals("yes")) {
             System.out.println("Revectorizing...");
-            // embedder.revectorizeAll();
-        } else {
-            System.out.println("Skipping vectorization.");
+            embedder.revectorizeAll();
         }
 
-        System.out.println("Attempting to embed user info...");
+        System.out.println("Embedding user info...");
         Path userInfoPath = Paths.get("user_info.json");
         if (Files.exists(userInfoPath)) {
-            //embedder.embedUserProfile(userInfoPath.toString());
+            embedder.vectorizeUserInfo(userInfoPath.toString(), options);
         } else {
             System.out.println("Skipped: user_info.json not found.");
         }
 
-        System.out.print("Would you like to generate SchemaSpy? (yes/no): ");
+        System.out.print("Generate SchemaSpy? (yes/no): ");
         String pumlChoice = scanner.nextLine().trim().toLowerCase();
         if (pumlChoice.equals("yes")) {
             generateSlitePropertiesFile();
             generateSS();
             ssFixer();
-        } else {
-            System.out.println("Skipping SchemaSpy generation.");
         }
 
         System.out.println("Setup complete.");
@@ -472,6 +479,17 @@ public class Utils {
     public String formatUserProfile(Object data) {
         return formatUserProfile(data, "");
     }
+
+    public Map<String, Object> loadUserInfo() throws IOException {
+        ObjectMapper mapper = new ObjectMapper();
+        Path path = Paths.get("user_info.json");
+
+        if (!Files.exists(path)) {
+            throw new IOException("user_info.json not found.");
+        }
+
+        return mapper.readValue(path.toFile(), Map.class);
+    }
     
     @SuppressWarnings("unchecked")
     private String formatUserProfile(Object data, String indent) {
@@ -520,6 +538,12 @@ public class Utils {
 
     public void quit() {
         System.out.println("Goodbye!");
+        try {
+            Thread.sleep(2000);
+            clearConsole();
+        } catch (InterruptedException e) {
+            System.err.println("Error during sleep: " + e.getMessage());
+        }
         System.exit(0);
     }
 }
