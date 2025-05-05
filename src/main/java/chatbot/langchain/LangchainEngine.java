@@ -9,9 +9,12 @@
 
 package chatbot.langchain;
 import chatbot.helpers.SetupOptions;
-import dev.langchain4j.model.chat.*;
+// used for message history: https://github.com/langchain4j/langchain4j/tree/main/langchain4j-core/src/main/java/dev/langchain4j/data/message
 import dev.langchain4j.data.message.*;
+// model stuff for streaming: https://github.com/langchain4j/langchain4j/tree/77b08e6e12aa3b4c43f8d65a9ecc9df95d67711e/langchain4j-core/src/main/java/dev/langchain4j/model/chat
+import dev.langchain4j.model.chat.*;
 import dev.langchain4j.model.chat.response.StreamingChatResponseHandler;
+// https://github.com/langchain4j/langchain4j/tree/main/langchain4j-ollama/src/main/java/dev/langchain4j/model/ollama
 import dev.langchain4j.model.ollama.OllamaStreamingChatModel;
 import java.util.ArrayList;
 import java.util.List;

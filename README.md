@@ -11,6 +11,8 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
 - Customizable Setup: Configure models, endpoints, and database paths via `options.json`
 - Schema Visualization: Generates schema diagrams with SchemaSpy + Graphviz
 - Persistence: Stores configuration in `options.json` and `db.properties` for future runs
+- Flexible Setup: All endpoints, models, and settings stored in `options.json`
+- Dual API Design: Uses gRPC for embeddings, REST API for Qdrant management
 
 
 ## Requirements
@@ -44,14 +46,16 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
 
 
 ### 2. Get a Qdrant Container (Docker Desktop Terminal, WSL, Linux, MacOS):
-   - IMPORTANT: MAKE SURE 6333 IS AN OPEN PORT.
+   - IMPORTANT: MAKE SURE 6333 AND 6334 ARE OPEN PORTS. `QdrantEmbeddingStore` requires GRPC, unlike my previous version only using REST API. In this case 6334 is the required GRPC port for `QdrantEmbeddingStore`.
       ```
-      sudo docker run -d \
-      --name qdrant \
-      -p 6333:6333 \
-      --restart=no \
-      qdrant/qdrant
+      docker run -d \
+         --name qdrant \
+         -p 6333:6333 \
+         -p 6334:6334 \
+         -e QDRANT__SERVICE__GRPC_PORT=6334 \
+         qdrant/qdrant
       ```
+   - **IF YOU DO NOT WISH TO USE GRPC POLICY, USE MY MAIN BRANCH INSTEAD THAT SUPPORTS REST API. THIS CODE WILL NOT WORK AS LANGCHAIN4J'S DEFAULT EMBEDDING INTERFACE RELIES ON GRPC POLICY. (alternatively, you can replace `QdrantEmbeddingStore` with a supported REST Client)**
 
 ### 3. Get Ollama
    - Download Links:
@@ -69,22 +73,25 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
 ### 4. Manual Configuration (Optional)
    These files are required, but automatically generated upon setup. `options.json` is used to store and pull information to connect to the LLM, Ollama, Qdrant, Database, etc. It's also meant to keep persistence if the program crashes or if the database is ever updated. 
 
-   `db.properties` is used to story the properties for SchemaSpy. It cannot be ignored, but a generic one will be created for you if you do not wish to use SchemaSpy.
+   `db.properties` is used to store the properties for SchemaSpy. It cannot be ignored, but a generic one will be created for you if you do not wish to use SchemaSpy.
    
    * #### `options.json`
       - `options.json` is generated at runtime, but you can manually set it as well in the root directory. The default configuration is:
          ```json
          {
-            "embedModel" : "nomic-embed-text",
-            "LLMModel" : "Advisor",
-            "ollamaEndpoint" : "http://localhost:11434",
-            "qdrantEndpoint" : "http://localhost:6333",
-            "qdrantCollection" : "chatbot",
-            "ollamaEmbedEndpoint" : "http://localhost:11434/api/embeddings",
-            "database" : "main.db"
+            "embedModel": "nomic-embed-text",
+            "LLMModel": "Advisor",
+            "ollamaEndpoint": "http://localhost:11434",
+            "ollamaEmbedEndpoint": "http://localhost:11434",
+            "qdrantRestEndpoint": "http://localhost:6333",
+            "qdrantGrpcHost": "localhost",
+            "qdrantGrpcPort": 6334,
+            "qdrantCollection": "chatbot",
+            "database": "main.db"
          }
          ```
       - Each field must be present. If the `options.json` is missing/broken or any of the fields are missing, the program will notify and ask to generate one during setup.
+      - In this version, `EmbeddingModel` will automatically add `/api/embed` to the end of the `ollamaEmbedEndpoint`.
 
    * #### `db.properties`
       - `db.properties` is also generated at run time, or you can manually set one up in the root directory. If one is not present, it will create one at setup. The default configuration is (where `DB_FILE` is the name of the database file, e.g. main.db):

@@ -31,13 +31,15 @@ public class SetupOptions {
 		this.database = (database == null || database.isBlank())
 				? "main.db" : database;
 	}
+
+	// getters, this made my life a lot easier
 	public String getEmbedModel() { return embedModel; }
 	public String getChatModel() { return chatModel; }
 	public String getOllamaEndpoint() { return ollamaEndpoint; }
 	public String getOllamaEmbedEndpoint() { return ollamaEmbedEndpoint; }
 	public String getQdrantRestEndpoint() { return qdrantRestEndpoint; }
 	public String getQdrantGrpcHost() { return qdrantGrpcHost; }
-	public int getQdrantGrpcPort() { return qdrantGrpcPort; }
+	public int getQdrantGrpcPort() { return qdrantGrpcPort; } // mandatory to use with ollamaclient: https://github.com/langchain4j/langchain4j/blob/main/langchain4j-ollama/src/main/java/dev/langchain4j/model/ollama/OllamaClient.java
 	public String getQdrantCollection() { return qdrantCollection; }
 	public String getDatabase() { return database; }
 

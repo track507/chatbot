@@ -137,7 +137,7 @@ public class LangchainEmbed {
                 JsonNode root = mapper.readTree(responseBody);
 
                 // debug
-                logger.info("Response from Ollama: " + responseBody);
+                // logger.info("Response from Ollama: " + responseBody);
                 return (root.path("embedding").isArray() && root.path("embedding").size() > 0) || (root.path("embeddings").isArray() && root.path("embeddings").size() > 0);
             }
         } catch (Exception e) {
