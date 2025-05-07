@@ -1,0 +1,3464 @@
+Catalog: 2017-2018 Catalog [ARCHIVED CATALOG]
+URL: https://catalog.acu.edu/content.php?catoid=2&navoid=62
+
+Accounting
+  ACCT 210 - Financial Accounting
+  ACCT 211 - Managerial Accounting
+  ACCT 302 - Cost Accounting I
+  ACCT 304 - Income Tax I
+  ACCT 310 - Intermediate Accounting I
+  ACCT 311 - Intermediate Accounting II
+  ACCT 324 - Accounting Information Systems
+  ACCT 404 - Income Tax II
+  ACCT 405 - Fundamentals of Auditing
+  ACCT 410 - Advanced Accounting I
+  ACCT 499 - Accounting Internship
+Agricultural and Environmental Sciences
+  AENV 110 - Introduction to Agricultural and Environmental Systems and Technology
+  AENV 130 - Environmental and Technological Science
+  AENV 371 - Experimental Designs and Data Analysis
+  AENV 384 - Internship in Agricultural and Environmental Sciences
+Agribusiness
+  AGRB 261 - Principles of Agricultural and Applied Economics
+  AGRB 382 - Agribusiness Management
+Animal Science
+  ANSC 111 - General Animal Science
+  ANSC 235 - Companion Animal Management
+  ANSC 336 - Animal Nutrition
+  ANSC 337 - Animal Nutrition Lab
+  ANSC 343 - Animal Reproduction
+  ANSC 345 - Techniques in Animal Production
+  ANSC 360 - Horses and Horsemanship
+  ANSC 363 - Monogastric Livestock Production
+  ANSC 392 - Animal Health
+  ANSC 431 - Animal Biotechnology
+  ANSC 483 - Ruminant Livestock Production
+  ANSC 496 - Animal Breeding
+  ANSC 497 - Special Problems in Animal Science
+Anthropology
+  ANTH 101 - Introduction to Anthropology
+  ANTH 211 - Ethnography of U.S. Culture
+Art
+  ART 101 - Introduction to Art
+  ART 105 - Two-Dimensional Design
+  ART 106 - Three-Dimensional Design
+  ART 111 - Basic Drawing
+  ART 112 - Figure Drawing I
+  ART 213 - Figure Drawing II
+  ART 221 - Art History: General Survey I
+  ART 222 - Art History: General Survey II
+  ART 287 - Art Education Methods: All-Levels
+  ART 291 - Introduction to Black and White Photography
+  ART 292 - Digital Art Photography
+  ART 314 - Advanced Drawing
+  ART 315 - Printmaking
+  ART 317 - Introduction to Illustration
+  ART 318 - Digital Illustration
+  ART 324 - Art History: American
+  ART 325 - Art History: Christian
+  ART 331 - Sculpture I
+  ART 332 - Sculpture II
+  ART 341 - Painting I
+  ART 342 - Painting II
+  ART 347 - Plein Air Painting
+  ART 351 - Typography I
+  ART 352 - Typography II
+  ART 353 - Identity and Brand Design
+  ART 361 - Ceramics I
+  ART 362 - Ceramics II
+  ART 371 - Jewelry/Metals I
+  ART 372 - Jewelry/Metals II
+  ART 423 - Art History: 20th Century
+  ART 425 - Art Theory
+  ART 433 - Sculpture III
+  ART 434 - Sculpture IV
+  ART 443 - Painting III
+  ART 444 - Painting IV
+  ART 454 - Information Graphics
+  ART 455 - Persuasive Graphics
+  ART 456 - Graphic Design Portfolio
+  ART 457 - Interactive Design
+  ART 463 - Ceramics III
+  ART 464 - Ceramics IV
+  ART 473 - Jewelry/Metals III
+  ART 474 - Jewelry/Metals IV
+  ART 490 - Advanced Studio Problems
+  ART 494 - Senior Exhibition
+  ART 495 - Life and Career in Art
+Bible Core
+  BCOR 310 - The Search for Meaning
+Biblical Greek
+  BGRK 221 - New Testament Greek for Beginners I
+  BGRK 222 - New Testament Greek for Beginners II
+  BGRK 331 - Elementary Greek Readings I
+  BGRK 332 - Elementary Greek Readings II
+  BGRK 441 - Exegetical Greek Seminar I
+  BGRK 442 - Exegetical Greek Seminar II
+  BGRK 611 - Elementary Greek I
+  BGRK 612 - Elementary Greek II
+  BGRK 621 - Intermediate New Testament Greek
+  BGRK 623 - Seminar in the Synoptic Gospels
+  BGRK 624 - Exegetical Seminar in Acts
+  BGRK 625 - Exegetical Seminar in the Epistles
+  BGRK 628 - Seminar in New Testament Textual Criticism
+Hebrew
+  BHEB 471 - Introduction to Hebrew I
+  BHEB 472 - Introduction to Hebrew II
+  BHEB 622 - Elementary Syriac
+  BHEB 623 - Intermediate Syriac
+  BHEB 671 - Elementary Hebrew I
+  BHEB 672 - Elementary Hebrew II
+  BHEB 681 - Intermediate Hebrew Readings I
+  BHEB 682 - Intermediate Hebrew Readings II
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing
+Sociology
+  SOCI 562 - Families in Society
+  SOCI 577 - Sociology of Religion
+  SOCI 580 - Inequality and Social Justice
+  SOCI 615 - Social Research
+Social Work
+  SOCW 230 - Introduction to Social Work
+  SOCW 250 - Person to Person: The Fundamental Skills of Relating
+  SOCW 327 - Micro/Mezzo Human Behavior Theory
+  SOCW 329 - Diversity, Power, and Oppression
+  SOCW 351 - Social Work Practice with Micro Systems
+  SOCW 381 - Field Practicum I
+  SOCW 415 - Social Research
+  SOCW 416 - Program and Practice Evaluation
+  SOCW 441 - Social Welfare Policy and Services
+  SOCW 442 - Policy Analysis and Practice
+  SOCW 451 - Social Work Practice with Macro Systems
+  SOCW 481 - Field Practicum II
+  SOCW 615 - Social Work Research Methods
+  SOCW 616 - Program and Practice Evaluation
+  SOCW 625 - Human Behavior in the Social Environment
+  SOCW 626 - Diversity, Power and Oppression
+  SOCW 641 - Social Welfare Policy and Services
+  SOCW 642 - Policy Analysis and Practice
+  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
+  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
+  SOCW 681 - Foundation Field Practicum I
+  SOCW 682 - Foundation Field Practicum II
+  SOCW 690 - Social Services Internship
+  SOCW 702 - Integrative Seminar Advanced Standing
+  SOCW 725 - Spirituality and Social Work
+  SOCW 741 - Globalization and Social Justice
+  SOCW 744 - Management and Funding of Nonprofit Organizations
+  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
+  SOCW 748 - Psychopathology in Social Work Practice
+  SOCW 751 - Advanced Evidence-Based Practice Interventions I
+  SOCW 752 - Advanced Evidence-Based Practice Interventions II
+  SOCW 781 - Advanced Social Work Field Practicum I
+  SOCW 782 - Advanced Social Work Field Practicum II
+  SOCW 799 - Master’s Thesis
+Spanish
+  SPAN 111 - Elementary Spanish I
+  SPAN 112 - Elementary Spanish II
+  SPAN 221 - Intermediate Spanish I
+  SPAN 222 - Intermediate Spanish II
+  SPAN 290 - Intermediate Conversation Lab
+  SPAN 301 - Advanced Communication
+  SPAN 305 - Immersion Communication
+  SPAN 310 - Spanish for Healthcare Professionals
+  SPAN 320 - Advanced Grammar
+  SPAN 321 - Advanced Composition
+  SPAN 342 - Peninsular Spanish Culture
+  SPAN 343 - Latin American Culture
+  SPAN 345 - Culture of South American Southern Cone
+  SPAN 360 - Survey of Peninsular Literature
+  SPAN 361 - Survey of Latin American Literature
+  SPAN 365 - Survey of South American Southern Cone Literature
+  SPAN 390 - Advanced Conversation Lab
+  SPAN 444 - Revolution and Insurrection in Latin America
+  SPAN 460 - Drama
+  SPAN 461 - Novel
+  SPAN 462 - Short Story
+  SPAN 470 - Christian Expression in Hispanic Writings
+  SPAN 471 - Borges and Cortázar
+  SPAN 480 - Methods of Spanish Acquisition
+  SPAN 499 - Spanish Capstone
+Special Education
+  SPED 371 - Teaching Students with Special Needs
+  SPED 374 - Emotional and Behavioral Disorders in Children
+  SPED 477 - Teaching Students with High Incidence Disabilities
+  SPED 481 - Teaching Students with Low Incidence Disabilities
+  SPED 485 - Assessment and Behavior in Special Education
+  SPED 488 - Programs and Services in Special Education
+  SPED 674 - Emotional and Behavioral Disorders in Children
+  SPED 677 - Teaching Students with High Incidence Disabilities
+  SPED 681 - Teaching Students with Low Incidence Disabilities
+  SPED 684 - Assessment in Special Education
+Technology
+  TECH 210 - Technology in Education
+Theatre
+  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
+  THEA 137 - Technical Practicum
+  THEA 138 - Theatre Workshop: Performance
+  THEA 205 - Musical Theatre Class Voice I
+  THEA 206 - Musical Theatre Class Voice II
+  THEA 211 - Private Voice for Musical Theatre
+  THEA 220 - Introduction to Theatre
+  THEA 221 - Beginning Jazz
+  THEA 222 - Beginning Ballet
+  THEA 223 - Beginning Tap
+  THEA 224 - Beginning Modern
+  THEA 226 - Acting I
+  THEA 227 - Introduction to Technical Theatre
+  THEA 230 - Fashion as Cultural Reflection
+  THEA 320 - Voice and Diction for the Stage
+  THEA 321 - Movement for the Stage
+  THEA 325 - Acting II
+  THEA 327 - Acting III: Improvisation
+  THEA 330 - Theatre Management
+  THEA 331 - Rendering Media for Theatre Design
+  THEA 332 - Costume Design
+  THEA 350 - Acting IV: Period Styles
+  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
+  THEA 360 - Musical Theatre Performance Workshop
+  THEA 411 - Private Voice for Musical Theatre
+  THEA 421 - Advanced Jazz
+Theatre
+  THEA 422 - Advanced Ballet
+  THEA 423 - Advanced Tap
+  THEA 424 - Advanced Modern
+  THEA 425 - Advanced Dance Auditioning
+  THEA 430 - Advanced Costume Design
+  THEA 454 - Beginning Directing
+  THEA 455 - Acting VI: Shakespeare
+  THEA 456 - Acting VII: Auditioning
+  THEA 457 - Playwriting
+  THEA 460 - Musical Theatre Directing Workshop
+  THEA 461 - Children’s Theatre
+  THEA 463 - Educational Theatre
+  THEA 466 - Scene Design
+  THEA 467 - Theatre Lighting
+  THEA 469 - Stage Makeup
+  THEA 470 - Advanced Directing
+  THEA 480 - Arts and Culture: A Christian Aesthetic
+  THEA 490 - History of Theatre
+University Courses
+  UNIV 011 - Learning Strategies
+  UNIV 012 - Student Success Workshop
+  UNIV 111 - Foundations for Success
+  UNIV 245 - Leadership Foundations
+  UNIV 419 - Research Readings
+  UNIV 420 - Basic Research Methods
+  UNIV 421 - Research Writing

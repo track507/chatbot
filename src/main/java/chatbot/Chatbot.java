@@ -1,14 +1,3 @@
-package chatbot;
-import java.sql.SQLException;
-import java.util.Scanner;
-
-import chatbot.helpers.Utils;
-import chatbot.llm.Embedder;
-import chatbot.llm.EmbeddingException;
-import chatbot.llm.LLMQuery;
-import chatbot.llm.OllamaEngine;
-import chatbot.llm.QdrantQuery;
-
 // TODO:
 /*
     - Implement method to parse user input
@@ -22,19 +11,35 @@ import chatbot.llm.QdrantQuery;
 
     ! Some of these methods may be implemented in separate classes
 */
+package chatbot;
+import chatbot.helpers.SetupOptions;
+import chatbot.helpers.Utils;
+import chatbot.langchain.EmbeddingException;
+import chatbot.langchain.LangchainEmbed;
+import chatbot.langchain.LangchainQuery;
+import java.nio.file.Paths;
+import java.sql.SQLException;
+import java.util.Scanner;
+import java.util.concurrent.CountDownLatch;
 
 public class Chatbot {
+
     private final Utils utils = new Utils();
+    private LangchainQuery langchainQuery;
 
     public void start() {
 
+        SetupOptions options;
+        
         try {
             utils.setupInteractive();
             utils.clearConsole();
+            options = SetupOptions.load();
+            langchainQuery = new LangchainQuery(options);
         } catch (EmbeddingException e) {
             System.err.println("Embedding Error during setup: " + e.getMessage());
             e.printStackTrace();
-            return; 
+            return;
         } catch (Exception e) {
             System.err.println("Unexpected error during setup: " + e.getMessage());
             e.printStackTrace();
@@ -45,10 +50,10 @@ public class Chatbot {
             utils.login();
         } catch (SQLException e) {
             System.err.println("Database error during login: " + e.getMessage());
+            return;
         } catch (IllegalArgumentException e) {
             System.err.println("Invalid credentials: " + e.getMessage());
-        } catch (Exception e) {
-            System.err.println("Unexpected error during login: " + e.getMessage());
+            return;
         }
 
         utils.clearConsole();
@@ -57,45 +62,49 @@ public class Chatbot {
         System.out.println("Type 'exit' or 'quit' to quit or 'reset' to restart the conversation.");
 
         try (Scanner scanner = new Scanner(System.in)) {
+
             while (true) {
-                Embedder embedder = new Embedder();
-                OllamaEngine ollama = new OllamaEngine();
-                QdrantQuery qdrant = new QdrantQuery();
-                LLMQuery engine = new LLMQuery(embedder, qdrant);
+                String userProfile = utils.formatUserProfile(utils.loadUserInfo());
+                System.out.print("> ");
+                String input = scanner.nextLine().trim();
 
-                String input;
-                while (true) { 
-                    try {
-                        System.out.print("> ");
-                        input = scanner.nextLine().trim();
+                if (input.equalsIgnoreCase("exit") || input.equalsIgnoreCase("quit")) {
+                    utils.quit();
+                }
 
-                        if (input.equalsIgnoreCase("exit") || input.equalsIgnoreCase("quit")) {
-                            utils.quit();
-                        }
+                if (input.equalsIgnoreCase("reset")) {
+                    System.out.println("Conversation reset.");
+                    langchainQuery.getHistory().clear();
+                    continue;
+                }
 
-                        if (input.equalsIgnoreCase("reset")) {
-                            ollama.resetConversation();
-                            System.out.println("Conversation reset.");
-                            continue;
-                        }
+                System.out.println("\nAdvisor:");
 
-                        String response = engine.ask(input);
-                        System.out.println("\nAdvisor: " + response);
-
-                    } catch (Exception e) {
-                        System.err.println("Error: " + e.getMessage());
-                        e.printStackTrace();
+                CountDownLatch latch = new CountDownLatch(1);
+                langchainQuery.streamQuery(
+                    input,
+                    userProfile,
+                    token -> System.out.print(token),
+                    response -> {
+                        System.out.println("\n");
+                        latch.countDown(); // Allow next user input
                     }
+                );
+
+                try {
+                    latch.await(); // Block until response is done
+                } catch (InterruptedException e) {
+                    System.err.println("Interrupted while waiting for chatbot response.");
+                    Thread.currentThread().interrupt();
                 }
             }
         } catch (Exception e) {
-            System.err.println("Error: " + e.getMessage());
+            System.err.println("Error during conversation: " + e.getMessage());
             e.printStackTrace();
         }
     }
 
     public static void main(String[] args) {
-        Chatbot chatbot = new Chatbot();
-        chatbot.start();
+        new Chatbot().start();
     }
 }
