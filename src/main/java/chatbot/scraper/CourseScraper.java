@@ -36,15 +36,16 @@ public class CourseScraper {
         fullText.append("URL: ").append(courseUrl).append("\n\n");
 
         try {
+            int pageNumber = 1; // Start from page 1
             String nextUrl = courseUrl;
 
             while (nextUrl != null) {
                 driver.get(nextUrl);
-                wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("td.block_content > table.table_default")));
+                logger.info("Scraping page number: " + pageNumber);
 
+                wait.until(ExpectedConditions.presenceOfElementLocated(By.cssSelector("td.block_content > table.table_default")));
                 List<WebElement> tables = driver.findElements(By.cssSelector("td.block_content > table.table_default"));
                 WebElement contentTable = tables.get(tables.size() - 1);
-
                 List<WebElement> allRows = contentTable.findElements(By.cssSelector("tbody > tr"));
                 String currentDepartment = null;
 
@@ -56,7 +57,7 @@ public class CourseScraper {
                                 WebElement strong = td.findElement(By.cssSelector("p > strong"));
                                 currentDepartment = strong.getText().trim();
                                 fullText.append(currentDepartment).append("\n");
-                                logger.info("Found department: " + currentDepartment);
+                                // logger.info("Found department: " + currentDepartment);
                                 continue;
                             }
                         } catch (NoSuchElementException ignored) {}
@@ -66,23 +67,30 @@ public class CourseScraper {
                             for (WebElement course : courseLinks) {
                                 String courseTitle = course.getText().trim();
                                 fullText.append("  ").append(courseTitle).append("\n");
-                                logger.info("  Found course: " + courseTitle);
                             }
                         }
                     }
                 }
 
-                // Find next page URL
+                // Look for next page (Page X where X = pageNumber + 1)
                 nextUrl = null;
-                List<WebElement> nextLinks = driver.findElements(By.cssSelector("td[colspan='2'] > a"));
-                for (WebElement a : nextLinks) {
-                    String label = a.getText().toLowerCase().trim();
-                    if (label.equals("forward 10") || label.matches("\\d+")) {
-                        nextUrl = a.getAttribute("href");
+                List<WebElement> pageLinks = driver.findElements(By.cssSelector("td[colspan='2'] > a"));
+                for (WebElement a : pageLinks) {
+                    String ariaLabel = a.getAttribute("aria-label");
+                    if (ariaLabel != null && ariaLabel.toLowerCase().startsWith("page")) {
+                        try {
+                            int foundPage = Integer.parseInt(ariaLabel.replaceAll("[^\\d]", ""));
+                            if (foundPage == pageNumber + 1) {
+                                nextUrl = a.getAttribute("href");
+                                // logger.info("Next page found: " + nextUrl);
+                                break;
+                            }
+                        } catch (NumberFormatException ignored) {}
                     }
                 }
-            }
 
+                pageNumber++;
+            }
         } catch (Exception e) {
             logger.warning("Error scraping courses: " + e.getMessage());
         } finally {

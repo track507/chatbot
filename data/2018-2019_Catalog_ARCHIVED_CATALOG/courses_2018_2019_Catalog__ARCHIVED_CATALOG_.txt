@@ -109,115 +109,1706 @@ Athletic Training
   MATP 691 - Field Experience II
 Bible Core
   BCOR 310 - The Search for Meaning
-Theatre
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
+Biblical Greek
+  BGRK 221 - New Testament Greek for Beginners I
+  BGRK 222 - New Testament Greek for Beginners II
+  BGRK 331 - Elementary Greek Readings I
+  BGRK 332 - Elementary Greek Readings II
+  BGRK 441 - Exegetical Greek Seminar I
+  BGRK 442 - Exegetical Greek Seminar II
+  BGRK 611 - Elementary Greek I
+  BGRK 612 - Elementary Greek II
+  BGRK 621 - Intermediate New Testament Greek
+  BGRK 623 - Seminar in the Synoptic Gospels
+  BGRK 624 - Exegetical Seminar in Acts
+  BGRK 625 - Exegetical Seminar in the Epistles
+  BGRK 628 - Seminar in New Testament Textual Criticism
+Hebrew
+  BHEB 471 - Introduction to Hebrew I
+  BHEB 472 - Introduction to Hebrew II
+  BHEB 622 - Elementary Syriac
+  BHEB 623 - Intermediate Syriac
+  BHEB 671 - Elementary Hebrew I
+  BHEB 672 - Elementary Hebrew II
+  BHEB 681 - Intermediate Hebrew Readings I
+  BHEB 682 - Intermediate Hebrew Readings II
+Biblical Studies
+  BIBL 101 - Jesus: His Life and Teachings
+  BIBL 102 - Early Christians: Life, Literature and Community
+  BIBL 103 - Story of the New Testament
+  BIBL 211 - Message of the Old Testament
+  BIBL 320 - Introduction to Biblical Interpretation
+  BIBL 359 - The Gospel of John
+  BIBL 364 - Pauline Mission and Message
+  BIBL 365 - General Epistles
+  BIBL 367 - The Book of Acts
+  BIBL 451 - The Pentateuch
+  BIBL 452 - Historical Books of the Old Testament
+  BIBL 453 - The Devotional and Wisdom Literature of the Old Testament
+  BIBL 454 - The Prophetic Literature of the Old Testament
+  BIBL 458 - The Synoptic Gospels
+  BIBL 460 - Galatians and Romans
+  BIBL 461 - The Corinthian Letters
+  BIBL 466 - Book of Revelation
+  BIBL 601 - German for Theological Studies
+  BIBL 610 - Critical Interpretation of the Old Testament
+  BIBL 611 - Old Testament Theology
+  BIBL 620 - Critical Interpretation of the New Testament
+  BIBL 621 - New Testament Theology
+  BIBL 627 - Biblical Exegesis
+  BIBL 630 - Biblical Theology
+  BIBL 649 - Women in the Old Testament
+  BIBL 650 - Women in the New Testament
+  BIBL 651 - The Pentateuch
+  BIBL 652 - Historical Books of the Old Testament
+  BIBL 653 - Devotional and Wisdom Literature of the Old Testament
+  BIBL 654 - Prophetic Literature of the Old Testament
+  BIBL 658 - The Synoptic Gospels
+  BIBL 659 - The Gospel of John
+  BIBL 660 - The Books of Galatians and Romans
+  BIBL 661 - The Corinthian Letters
+  BIBL 662 - Backgrounds of the New Testament and Early Christianity
+  BIBL 663 - The Pastoral Epistles
+  BIBL 664 - The Book of Hebrews
+  BIBL 665 - The General Epistles
+  BIBL 666 - The Book of Revelation
+  BIBL 667 - The Book of Acts
+  BIBL 671 - Baptism and Eucharist
+  BIBL 672 - Sermon on the Mount
+  BIBL 680 - Christian Scripture
+  BIBL 682 - Teaching Scripture in Contemporary Contexts
+  BIBL 684 - New Testament Hermeneutics
+  BIBL 699 - Master’s Thesis
+Christian Ministry
+  BIBM 330 - Foundation of Youth Ministry
+  BIBM 331 - Youth Ministry Design
+  BIBM 390 - Family Relations
+  BIBM 391 - Ministry in Context
+  BIBM 395 - Introduction to Hospital Ministry
+  BIBM 401 - Christian Leadership
+  BIBM 403 - Christian Worship
+  BIBM 404 - Worship Leading
+  BIBM 405 - Women in Christian Tradition
+  BIBM 413 - Seminar in Adolescent Moral/Sexual Issues
+  BIBM 422 - Ministry on the University Campus
+  BIBM 429 - Field Education
+  BIBM 434 - Spiritual Formation of Children
+  BIBM 435 - Adolescent Spiritual Formation
+  BIBM 439 - Teaching and Learning for Spiritual Formation
+  BIBM 442 - Leadership of Youth and Family
+  BIBM 451 - Sexuality and Personal Issues of Sexuality
+  BIBM 480 - Arts and Culture: A Christian Aesthetic
+  BIBM 491 - Senior Capstone Experience
+  BIBM 492 - Children and Family Ministry
+  BIBM 493 - Preaching
+  BIBM 601 - Church Leadership
+  BIBM 602 - GST Orientation
+  BIBM 603 - Foundations of the Theology of Ministry
+  BIBM 604 - Homiletics
+  BIBM 605 - Preaching Old Testament Literature
+  BIBM 607 - Effective Practice of Ministry
+  BIBM 609 - Healthcare Ministry
+  BIBM 614 - Theology and Ministry in Times of Crisis
+  BIBM 616 - Witness in Global Contexts
+  BIBM 627 - Preaching New Testament Literature
+  BIBM 628 - Preaching Pauline Literature
+  BIBM 629 - Field Education Contextual Immersion
+Christian Ministry
+  BIBM 635 - Engaging Adolescents in Christian Formation
+  BIBM 637 - Ministry with Older Adults
+  BIBM 644 - Pastoral Ministry Skills for Church Leaders
+  BIBM 645 - Managing Conflict in Churches
+  BIBM 646 - Youth and Family Ministry
+  BIBM 648 - Christian Spiritual Formation
+  BIBM 651 - Supervised Practice of Ministry I
+  BIBM 652 - Supervised Practice of Ministry II
+  BIBM 656 - Supervised Practice of Ministry VI
+  BIBM 657 - Contexts of Ministry
+  BIBM 658 - The Practice of Ministerial Leadership
+  BIBM 670 - Worship
+  BIBM 673 - Ministry with Children and Families
+  BIBM 678 - GST Senior Portfolio Preparation
+  BIBM 681 - Preaching in Contemporary Contexts
+  BIBM 692 - Church Curriculum
+  BIBM 693 - Church and Family Ministry
+  BIBM 694 - Church Administration
+  BIBM 696 - Theological Perspectives on Human Behavior
+  BIBM 699 - Master’s Thesis
+  BIBM 700 - Guided Study
+  BIBM 701 - Doctor of Ministry Orientation
+  BIBM 702 - Biblical and Theological Foundations of Ministry
+  BIBM 703 - Preaching in Contemporary Contexts
+  BIBM 706 - Christian Leadership Development
+  BIBM 710 - Crisis Counseling and Brief Therapy
+  BIBM 711 - Preaching and Theology
+  BIBM 713 - Preaching From the New Testament
+  BIBM 716 - Theological Foundations for the Practice of Ministry
+  BIBM 717 - Christian Spiritual Formation
+  BIBM 718 - Theological Practice of Evangelism
+  BIBM 719 - Missional Ecclesiology
+  BIBM 721 - Theology of Culture
+  BIBM 723 - Worship
+  BIBM 724 - Project/Thesis Seminar I
+  BIBM 725 - Project/Thesis Seminar
+  BIBM 726 - Project/Thesis Seminar II
+  BIBM 731 - Leading Change in Christian Organizations
+  BIBM 733 - Culture, Context, and Community
+  BIBM 735 - Seminar in Preaching
+  BIBM 742 - Forming Communities of Faith
+  BIBM 745 - Living in the Tradition
+  BIBM 798 - Continuing DMin Study
+  BIBM 799 - DMin Project/Thesis
+Church History
+  BIBH 380 - Survey of Church History
+  BIBH 383 - Restoration History
+  BIBH 432 - Story of Christian Spirituality
+  BIBH 633 - Readings in Christian Spirituality
+  BIBH 651 - History of Christianity I: Early to Medieval
+  BIBH 652 - History of Christianity II: Reformation to Present
+  BIBH 655 - History of Christianity in America
+  BIBH 664 - Advanced Restoration History
+  BIBH 667 - Research Problems in Church History
+  BIBH 670 - Issues in Global Christianity
+  BIBH 671 - Explorations in the Christian East
+  BIBH 674 - Christian Mission in Global Contexts
+  BIBH 683 - Restoration History and Polity
+  BIBH 699 - Master’s Thesis
+Missions
+  BMIS 245 - Understanding Culture for Global Service
+  BMIS 270 - Living the Mission
+  BMIS 371 - Religion in Global Contexts
+  BMIS 391 - Service in Global Contexts
+  BMIS 420 - Gospel in a Multicultural World
+  BMIS 421 - Mission as Spiritual Formation
+  BMIS 458 - Focused Training in Missions
+  BMIS 481 - Global Urban Ministry
+  BMIS 610 - Evangelism in North America
+  BMIS 619 - Church and Mission
+  BMIS 621 - Fundamentals of Spiritual Nurture
+  BMIS 633 - Leadership Training
+  BMIS 645 - Missionary Anthropology
+  BMIS 646 - Foundations of Missional Practice
+  BMIS 647 - Readings in Contextual Theology
+  BMIS 648 - Planting and Developing Churches
+  BMIS 649 - Reading and Engaging Contemporary Cultures
+  BMIS 650 - Leadership in Intercultural Contexts
+  BMIS 652 - Developing New Churches in North America
+  BMIS 653 - Growth Strategies for Established Churches
+  BMIS 669 - Introduction to Linguistics
+  BMIS 670 - Cross-Cultural Communication
+  BMIS 671 - Supervised Research in Missions
+  BMIS 672 - Religion in Global Contexts
+  BMIS 673 - History of Missions
+  BMIS 675 - Theology of Mission
+  BMIS 680 - Urban Missions
+  BMIS 689 - Folk Religions and New Spiritualities
+  BMIS 697 - Intercultural Competence for Global Service
+  BMIS 699 - Master’s Thesis
+Philosophy
+  BIBP 352 - Biomedical Ethics
+  BIBP 379 - Philosophy, Religion and Science
+  BIBP 380 - Introduction to Philosophy
+  BIBP 478 - Philosophy of Religion
+  BIBP 486 - Ethics
+  BIBP 487 - History of Ancient and Medieval Philosophy
+  BIBP 489 - History of Modern Philosophy
+  PHIL 275 - Introductory Logic and Critical Thinking
+  PHIL 378 - History and Philosophy of Science
+  PHIL 379 - Philosophy, Religion and Science
+  PHIL 380 - Introduction to Philosophy
+  PHIL 451 - Philosophy and Social Justice
+Philosophy
+  PHIL 478 - Philosophy of Religion
+  PHIL 486 - Ethics
+  PHIL 487 - History of Ancient and Medieval Philosophy
+  PHIL 489 - History of Modern Philosophy
+  PHIL 490 - Early Political Philosophy
+  PHIL 491 - Modern Political Philosophy
+Theology (Undergraduate)
+  BIBT 332 - Religious Teachings of C.S. Lewis
+  BIBT 342 - Christianity in Culture
+  BIBT 379 - The Church
+  BIBT 491 - Theology
+Theology (Graduate)
+  BIBD 642 - Contemporary Religious Thought
+  BIBD 647 - Research Problems in Theology
+  BIBD 660 - Systematic Theology I
+  BIBD 661 - Theological Explorations
+  BIBD 662 - Systematic Theology II
+  BIBD 672 - Graduate Studies
+  BIBD 678 - Philosophy of Religion
+  BIBD 686 - Christian Ethics
+  BIBD 699 - Master’s Thesis
+Biology at Au Sable
+  BIOA 302 - Lake Ecology and Management
+  BIOA 305 - Field Ecology of Birds
+  BIOA 311 - Field Botany
+  BIOA 322 - Aquatic Biology
+  BIOA 345 - Wildlife Ecology
+  BIOA 355 - Watersheds in Global Development
+  BIOA 362 - Environmental Applications for Geographic Information Systems
+  BIOA 471 - Conservation Biology
+Biology
+  BIOL 101 - Biology - Human Perspective
+  BIOL 112 - General Biology I
+  BIOL 113 - General Biology II
+  BIOL 114 - General Biology I Laboratory
+  BIOL 115 - General Biology II Laboratory
+  BIOL 203 - Basic Biology for Teachers
+  BIOL 221 - Animal Biology
+  BIOL 222 - Plant Biology
+  BIOL 223 - Animal Biology Laboratory
+  BIOL 224 - Plant Biology Laboratory
+  BIOL 291 - Anatomy and Physiology I
+  BIOL 292 - Anatomy and Physiology II
+  BIOL 293 - Anatomy and Physiology I Laboratory
+  BIOL 294 - Anatomy and Physiology II Laboratory
+  BIOL 308 - Global Healthcare
+  BIOL 309 - Medicinal Botany
+  BIOL 312 - Cell Biology
+  BIOL 313 - Cell Biology Laboratory
+  BIOL 330 - Neurobiology
+  BIOL 332 - Mind and Wellness
+  BIOL 345 - Range and Wildland Plants
+  BIOL 351 - Genetics
+  BIOL 353 - General Microbiology
+  BIOL 354 - General Microbiology Lab
+  BIOL 355 - Microbiology
+  BIOL 357 - Microbiology Laboratory
+  BIOL 362 - Ecology
+  BIOL 364 - Ecology Laboratory
+  BIOL 370 - Field Biology
+  BIOL 380 - General Mammalogy
+  BIOL 399 - Biology Research
+  BIOL 401 - Secondary Science Teaching Methods
+  BIOL 403 - Marine Biology
+  BIOL 425 - Behavioral Biology: Theory and Methods
+  BIOL 448 - Biology of Aging
+  BIOL 454 - Immunology
+  BIOL 472 - Biochemistry I: Foundations of Biochemistry
+  BIOL 475 - Molecular Genetics
+  BIOL 476 - Biotechnology
+  BIOL 480 - Histology
+  BIOL 481 - Plant Systematics
+  BIOL 483 - Biostatistics
+  BIOL 484 - Developmental Biology
+  BIOL 486 - Comparative Botany
+  BIOL 487 - Comparative Zoology
+  BIOL 491 - Human Anatomy
+  BIOL 492 - Physiology
+  BIOL 493 - Human Anatomy Laboratory
+  BIOL 495 - Physiology Laboratory
+  BIOL 497 - Seminar in Biology
+  BIOL 498 - Cancer Biology
+Business Administration
+  BUSA 120 - Introduction to Business
+  BUSA 419 - International Business
+  BUSA 435 - Christian Business Leadership Perspectives
+  BUSA 530 - Leadership
+  BUSA 550 - Foundations of Analytics
+  BUSA 554 - Accounting and Finance for Managers
+  BUSA 636 - Organizational Behavior
+  BUSA 645 - International Business
+  BUSA 652 - Operations and Information Technology Management
+  BUSA 656 - Strategic Marketing
+  BUSA 661 - Global Supply Chain Management
+  BUSA 670 - Managerial Decision Making
+  BUSA 674 - Innovation
+  BUSA 678 - Business Law and Ethics
+Business Law
+  BLAW 363 - Legal Environment of Business
+  BLAW 365 - Law and Entrepreneurship
+  BLAW 461 - Business Law II
+Chemistry and Biochemistry
+  CHEM 101 - Consumer Chemistry
+  CHEM 111 - Introductory Chemistry Laboratory
+  CHEM 112 - Introductory Organic and Biological Chemistry Laboratory
+  CHEM 113 - Introductory Chemistry
+  CHEM 114 - Introductory Organic and Biological Chemistry
+Chemistry and Biochemistry
+  CHEM 131 - General Chemistry Laboratory I
+  CHEM 132 - General Chemistry Laboratory II
+  CHEM 133 - General Chemistry I
+  CHEM 134 - General Chemistry II
+  CHEM 203 - General Science for Elementary Teachers
+  CHEM 221 - Organic Chemistry Laboratory I
+  CHEM 223 - Organic Chemistry I
+  CHEM 243 - Elementary Biochemistry and Nutrition
+  CHEM 308 - Global Healthcare
+  CHEM 322 - Organic Chemistry Laboratory II
+  CHEM 324 - Organic Chemistry II
+  CHEM 333 - Physical Chemistry I
+  CHEM 334 - Physical Chemistry II
+  CHEM 341 - Environmental Chemistry
+  CHEM 355 - Analytical Chemistry I
+  CHEM 356 - Analytical Chemistry II
+  CHEM 375 - Molecular Modeling and Computational Chemistry
+  CHEM 393 - Introduction to Research
+  CHEM 401 - Secondary Science Teaching Methods
+  CHEM 413 - Physical Chemistry/Life Sciences
+  CHEM 423 - Chemistry and Biochemistry Seminar
+  CHEM 441 - Inorganic Chemistry Laboratory
+  CHEM 443 - Inorganic Chemistry
+  CHEM 453 - Biochemistry I: Foundations of Biochemistry
+  CHEM 454 - Biochemistry II: Gene Expression
+  CHEM 456 - Biochemistry III: Metabolism
+  CHEM 463 - Biochemistry Laboratory I
+  CHEM 464 - Biochemistry Laboratory II
+  CHEM 483 - Polymer Chemistry
+Contemporary Music Center
+  CMUS 4M0 - Faith, Music and Culture
+  CMUS 4M1 - Inside the Music Industry
+  CMUS 4M10 - Audio Engineering
+  CMUS 4M11 - Concert Production
+  CMUS 4M2 - Supervised Practicum
+  CMUS 4M3 - Essentials of Song Writing
+  CMUS 4M4 - Studio Recording
+  CMUS 4M5 - Performance
+  CMUS 4M6 - Strategic Management
+  CMUS 4M7 - Music Business Survey
+  CMUS 4M8 - Advanced Media Marketing
+  CMUS 4M9 - Advanced Studio Recording
+Communication
+  COMM 101 - Introduction to Communication
+  COMM 136 - Debate Workshop
+  COMM 211 - Speech and Rhetoric
+  COMM 222 - Discussion, Dissent and Debate
+  COMM 231 - Small Group Communication
+  COMM 236 - General Communication Theory
+  COMM 241 - Interpersonal Communication
+  COMM 343 - Business and Professional Communication
+  COMM 345 - Intercultural Communication
+  COMM 375 - Persuasion
+  COMM 376 - Family Communication
+  COMM 383 - Communication in Multi-National Organizations
+  COMM 384 - Interview Communication
+  COMM 392 - Rhetoric of Pop Culture
+  COMM 408 - Crisis Management in Organizations
+  COMM 415 - Political Communication
+  COMM 421 - Leadership and Communication
+  COMM 430 - Conflict Management
+  COMM 436 - Nonverbal Communication
+  COMM 450 - Gender Communication
+  COMM 483 - Advanced Public Speaking
+  COMM 485 - Organizational Communication
+  COMM 486 - Training and Development
+  COMM 491 - Rhetorical Theory
+  COMM 499 - Communication Internship
+  COMM 508 - Crisis Management in Organizations
+  COMM 515 - Political Communication
+  COMM 521 - Leadership and Communication
+  COMM 536 - Nonverbal Communication
+  COMM 543 - Business and Professional Communication
+  COMM 545 - Intercultural Communication
+  COMM 550 - Gender Communication
+  COMM 575 - Persuasion
+  COMM 583 - Communication in Multi-National Organizations
+  COMM 585 - Organizational Communication
+  COMM 586 - Training and Development
+  COMM 601 - Residency I: Ethics & Theory in Corporate Communication
+  COMM 620 - Quantitative Methods
+  COMM 621 - Qualitative Research Methods
+  COMM 631 - Leading Organizational Change
+  COMM 636 - Seminar in Communication Theory
+  COMM 641 - Seminar in Interpersonal Communication
+  COMM 642 - Seminar in Communication
+  COMM 645 - Global Leadership: Leading in a Diverse Context
+  COMM 675 - Seminar in Persuasion and Social Change
+  COMM 683 - Cultural Case Studies
+  COMM 685 - Seminar in Organizational Communication
+  COMM 686 - Communication Consulting and Assessment
+  COMM 687 - Principles of Rhetorical Criticism
+  COMM 697 - OD Capstone
+  COMM 698 - Research Project Thesis Equivalent
+  COMM 699 - Master’s Thesis
+Communication Sciences and Disorders
+  CSD 111 - Beginning American Sign Language I
+  CSD 112 - Beginning American Sign Language II
+  CSD 225 - Phonetics
+  CSD 235 - Introduction to Speech-Language Pathology
+  CSD 308 - Global Healthcare
+  CSD 320 - Clinical Report Writing in Speech-Language Pathology
+  CSD 330 - Normal Language Development
+Communication Sciences and Disorders
+  CSD 352 - Audiology
+  CSD 353 - Hearing Rehabilitation
+  CSD 356 - Articulation and Phonologic Disorders
+  CSD 357 - Organic and Neurogenic Disorders
+  CSD 380 - Clinical Methods in Speech Language Pathology
+  CSD 381 - Anatomical and Physiological Processes of Communication
+  CSD 419 - Speech Science
+  CSD 471 - Speech-Language Pathology in the Schools
+  CSD 479 - Programs and Services for Elderly
+  CSD 485 - Communication Sciences and Disorders Capstone
+  CSD 493 - Clinical Practicum in Speech-Language Pathology
+  CSD 494 - Advanced Clinical Practicum in Communication Sciences and Disorders
+  CSD 601 - Phonological Disorders
+  CSD 602 - Aphasia
+  CSD 603 - Motor Speech Disorders
+  CSD 604 - Voice Disorders
+  CSD 606 - Fluency Disorders
+  CSD 607 - Augmentative and Alternative Communication
+  CSD 608 - Multicultural/Multilingual Considerations in CSD
+  CSD 609 - Advanced Audiology
+  CSD 610 - Language and Language-Learning Disorders in Preschool and School-Aged Children
+  CSD 611 - Language Disorders in Young Children and Special Populations
+  CSD 613 - Dysphagia and Related Disorders
+  CSD 614 - Cognitive-Communication Disorders
+  CSD 620 - Communication Research Methods
+  CSD 659 - Seminar in Diagnostic and Therapeutic Theory in Speech Pathology
+  CSD 661 - Special Problems in Speech Pathology and Audiology
+  CSD 670 - Seminar in Speech Pathology
+  CSD 693 - Clinical Practicum
+  CSD 694 - Advanced Clinical Practicum
+Conflict Management
+  CONR 601 - Conflict Theory and Communication
+  CONR 602 - Dynamics of Interpersonal Conflict
+  CONR 603 - Negotiation: Principles and Practice
+  CONR 604 - Mediation: Principles and Practice
+  CONR 605 - Negotiation and Mediation
+  CONR 606 - Theory I
+  CONR 610 - Managing Conflict in the Workplace
+  CONR 612 - Conflict Management Systems Design
+  CONR 615 - Managing Conflict in the Schools
+  CONR 617 - Conflict Resolution in the Church
+  CONR 628 - Foundations of Family Conflict Dynamics
+  CONR 630 - Advanced Family Mediation
+  CONR 632 - Conflict Management in Healthcare Organizations
+  CONR 635 - Identity, Culture and Conflict
+  CONR 637 - Dispute Resolution and the Legal System
+  CONR 638 - Ethics and Conflict Resolution
+  CONR 643 - Practicum in Conflict Resolution
+  CONR 645 - Transcending Conflict: Advanced Theory & Practice
+  CONR 651 - Critical Thinking and Analysis
+  CONR 653 - Communication and Facilitation
+  CONR 655 - Strategic Vision and Planning
+  CONR 657 - Practicum in Heritage Development
+  CONR 690 - Conflict Resolution Residency
+  CONR 725 - Beyond Power: The Theory and Practice of Appropriate Decision Making
+Cornerstone
+  CORE 110 - Cornerstone
+  CORE 115 - Critical Thinking, Identity and Community
+  CORE 210 - Human Identity and Community
+Computer Science
+  CS 115 - Introduction to Programming Using Scripting
+  CS 116 - Applied Programming Using Scripting
+  CS 120 - Programming I
+  CS 130 - Programming II: Data Structures
+  CS 220 - Computer Organization
+  CS 230 - Object-Oriented Programming
+  CS 301 - Language Lab
+  CS 311 - Contest Programming
+  CS 315 - Mobile Application Development
+  CS 316 - Advanced Mobile Application Development
+  CS 330 - Human-Computer Interaction
+  CS 332 - Design and Analysis of Algorithms
+  CS 341 - Numerical Methods
+  CS 352 - Programming Languages
+  CS 356 - Operating Systems
+  CS 365 - Theory of Computation
+  CS 374 - Software Engineering
+  CS 375 - Software Engineering II
+  CS 381 - Computer Graphics
+  CS 442 - Numerical Analysis
+  CS 467 - Introduction to Artificial Intelligence
+Criminal Justice
+  POLC 205 - Introduction to Criminal Justice
+  POLC 250 - Police Systems and Practices
+  POLC 320 - Criminal Law
+  POLC 330 - Domestic Violence
+  POLC 350 - Corrections: Prison, Probation, and Parole
+  POLC 355 - Social Deviance
+  POLC 365 - Search and Seizure
+  POLC 370 - Forensic Evidence
+  POLC 410 - Law and Inequality
+  POLC 420 - Law Enforcement Leadership
+  POLC 430 - Evidence and Procedure
+  POLC 455 - Professionalism and Ethics in Criminal Justice
+  POLC 499 - Criminal Justice Internship
+Digital Entertainment Technology
+  DET 210 - Introduction to Digital Entertainment
+  DET 220 - Introduction to 3D Modeling
+  DET 230 - Introduction to Animation: Keyframes & Pixels
+  DET 310 - Digital Entertainment Technology II
+  DET 320 - Advanced 3D Modeling
+  DET 350 - Digital Entertainment Development
+  DET 410 - Digital Entertainment Technology III
+Design
+  DSGN 102 - Introduction to Interior Design
+  DSGN 111 - Design Drawing I
+Design
+  DSGN 201 - Fundamental Design I
+  DSGN 202 - Fundamental Design II
+  DSGN 211 - Design Drawing II
+  DSGN 221 - History of Architecture and Design I
+  DSGN 222 - History of Architecture and Design II
+  DSGN 232 - Digital Design Communication
+  DSGN 251 - Construction I: Materials and Methods
+  DSGN 301 - Intermediate Interior Design I
+  DSGN 302 - Intermediate Interior Design II
+  DSGN 351 - Interior Components
+  DSGN 352 - Building Systems
+  DSGN 401 - Advanced Interior Design
+  DSGN 402 - Design, Construction and Details for Interiors
+  DSGN 461 - Professional Principles and Practices (for Design Practitioners)
+  DSGN 463 - Field Experience
+Early Childhood
+  EACH 363 - Early Language and Literacy
+  EACH 451 - Guidance in Early Childhood
+  EACH 466 - Education of Young Children
+Economics
+  ECON 260 - Principles of Macroeconomics
+  ECON 261 - Principles of Microeconomics
+  ECON 438 - International Poverty and Development
+  ECON 463 - Managerial Economics
+Education
+  EDUC 211 - Educational Foundations and Multicultural Perspectives
+  EDUC 221 - Educational Psychology
+  EDUC 250 - Literature for Children
+  EDUC 287 - Integrating the Arts Across the Elementary School Curriculum
+  EDUC 312 - Field Experience in Guidance and Development
+  EDUC 323 - Integrated Math and Science: PreK-2
+  EDUC 331 - Teaching Social Studies in Pre K - Grade 8
+  EDUC 335 - Teaching in the Middle School
+  EDUC 370 - Teaching Math in Elementary Grades 3-6
+  EDUC 411 - Elementary Curriculum, Materials, and Media
+  EDUC 412 - Secondary Curriculum and Media
+  EDUC 431 - Elementary Management and Methods
+  EDUC 432 - Secondary Management and Methods
+  EDUC 449 - Professional Practice in Music Education
+  EDUC 476 - Effective Teaching Strategies for English Language Learners
+  EDUC 490 - Clinical Teaching
+  EDUC 499 - Internship
+  EDUC 620 - Instructional Strategies in the Teaching of Writing
+  EDUC 621 - Overcoming Learning Barriers
+  EDUC 622 - Theories and Strategies for Integrating Technology
+  EDUC 651 - Leading Continuous Improvement of Digital Learning
+  EDUC 652 - Leading Evolving Digital Learning Systems
+  EDUC 653 - Educational Research
+  EDUC 655 - Action Research for Classroom Teachers
+  EDUC 656 - School Finance
+  EDUC 660 - Practicum/Capstone in the School Principalship
+  EDUC 661 - Capstone in Curriculum and Instruction
+  EDUC 665 - Capstone in Special Education
+  EDUC 668 - Practicum/Capstone in the School Superintendent
+  EDUC 672 - Educational Facilities
+  EDUC 674 - Policy and Politics in Education
+  EDUC 676 - District Instructional Leadership
+  EDUC 677 - Adult Development and Learning through Technology
+  EDUC 678 - Instructional Design and Technology
+  EDUC 680 - Allocating Resources and Structuring the School for Learning
+  EDUC 681 - Nurturing School Culture to Create a Learning Community
+  EDUC 682 - School Law, Ethics and the Learning Community
+  EDUC 683 - Implementing Continuous Improvement
+  EDUC 684 - Meeting the Learning Challenge
+  EDUC 686 - Reframing Learning
+  EDUC 687 - Managing Data to Improve Student Learning
+  EDUC 688 - Creating Effective Learning Environments
+  EDUC 691 - Education Workshop
+  EDUC 697 - Instructional Coaching
+English
+  ENGL 003 - Academic Literacies
+  ENGL 004 - Academic Literacies Workshop
+  ENGL 006 - Academic Composition Workshop
+  ENGL 007 - Rhetoric and Persuasion Workshop
+  ENGL 106 - Academic Composition
+  ENGL 107 - Rhetoric and Persuasion
+  ENGL 111 - Composition and Rhetoric
+  ENGL 112 - Composition and Literature
+  ENGL 221 - Major British Writers I
+  ENGL 222 - Major British Writers II
+  ENGL 231 - World Literature I
+  ENGL 232 - World Literature II
+  ENGL 262 - American Literature Before 1900
+  ENGL 263 - American Literature After 1900
+  ENGL 301 - Introduction to the Major
+  ENGL 311 - Literary Theory and Criticism
+  ENGL 320 - Creative Nonfiction Workshop
+  ENGL 321 - Screenwriting
+  ENGL 322 - Fiction Workshop
+  ENGL 323 - Poetry Workshop
+  ENGL 324 - Play Writing Workshop
+  ENGL 325 - Advanced Composition
+  ENGL 326 - Business and Professional Writing
+  ENGL 327 - Scientific and Technical Writing
+  ENGL 328 - Social Justice: A Rhetoric
+  ENGL 329 - Rhetoric as Written Discourse
+  ENGL 330 - Advanced English Grammar
+  ENGL 331 - Narrative for Film and New Media
+  ENGL 332 - Introduction to Film Studies
+  ENGL 333 - Studies in World Cinema
+  ENGL 351 - Literature for Young Adults
+  ENGL 362 - American Literature Before 1860
+  ENGL 363 - American Literature After 1860
+  ENGL 376 - Fiction
+English
+  ENGL 377 - Drama
+  ENGL 378 - Poetry
+  ENGL 380 - Interactive Narratives
+  ENGL 401 - Guided Study: Literary Criticism
+  ENGL 402 - Guided Study: Writing
+  ENGL 406 - Guided Study: American Literature
+  ENGL 407 - Guided Study: General Literature
+  ENGL 409 - Guided Study: British Literature After 1700
+  ENGL 410 - Language and Literature Internship
+  ENGL 432 - Introduction to Linguistics
+  ENGL 441 - Topics in Literary Criticism and Bibliography
+  ENGL 442 - Topics in Writing
+  ENGL 443 - Topics in the English Language
+  ENGL 445 - Topics in Teaching English and Reading
+  ENGL 446 - Topics in American Literature
+  ENGL 447 - Topics in General Literature
+  ENGL 448 - Topics in British Literature Before 1700
+  ENGL 449 - Topics in British Literature After 1700
+  ENGL 459 - English for Secondary Teachers
+  ENGL 464 - American Novel
+  ENGL 470 - Multicultural Literature
+  ENGL 471 - Literature and Belief
+  ENGL 472 - Film and Belief
+  ENGL 473 - Rhetoric and Belief
+  ENGL 481 - Medieval British Literature
+  ENGL 483 - Shakespeare
+  ENGL 484 - Seventeenth-Century British Literature
+  ENGL 495 - Eighteenth-Century British Literature
+  ENGL 496 - Nineteenth-Century British Literature
+  ENGL 497 - Twentieth-Century British Literature
+  ENGL 499 - Studies in World Literature
+  ENGL 520 - Creative Nonfiction Workshop
+  ENGL 522 - Fiction Workshop
+  ENGL 523 - Poetry Workshop
+  ENGL 525 - Advanced Composition
+  ENGL 526 - Business and Professional Writing
+  ENGL 529 - Rhetoric as Written Discourse
+  ENGL 530 - Advanced English Grammar
+  ENGL 532 - Introduction to Linguistics
+  ENGL 551 - Literature for Young Adults
+  ENGL 558 - Teaching English as a Second Language
+  ENGL 562 - American Literature Before 1860
+  ENGL 563 - American Literature After 1860
+  ENGL 564 - American Novel
+  ENGL 570 - Multicultural Literature
+  ENGL 571 - Literature and Belief
+  ENGL 572 - Film and Belief
+  ENGL 576 - Fiction
+  ENGL 577 - Drama
+  ENGL 578 - Poetry
+  ENGL 581 - Medieval British Literature
+  ENGL 583 - Shakespeare
+  ENGL 584 - Seventeenth-Century British Literature
+  ENGL 595 - Eighteenth-Century British Literature
+  ENGL 596 - Nineteenth-Century British Literature
+  ENGL 597 - Twentieth-Century British Literature
+  ENGL 610 - Studies in American Literature
+  ENGL 612 - Studies in British Literature
+  ENGL 613 - Literary Theory and Faith
+  ENGL 615 - World Literature
+  ENGL 620 - Literary Research Methods and Publication
+  ENGL 622 - Rhetoric and Belief
+  ENGL 623 - Discourse Theory
+  ENGL 624 - Non-Traditional Rhetoric
+  ENGL 625 - Rhetorical Methods and Publication
+  ENGL 631 - Contexts: Studies in a Single Author
+  ENGL 633 - Connections: Studies in a Literary Period
+  ENGL 650 - Contemporary Composition Theory
+  ENGL 652 - Rhetorical Theory and Praxis
+  ENGL 699 - Master’s Thesis
+English as a Second Language
+  FLEN 021 - Low-Intermediate Reading
+  FLEN 023 - Low-Intermediate Oral Communication
+  FLEN 027 - Low-Intermediate Grammar
+  FLEN 029 - Low-Intermediate Writing
+  FLEN 031 - High-Intermediate Reading
+  FLEN 033 - High-Intermediate Oral Communication
+  FLEN 037 - High-Intermediate Grammar
+  FLEN 039 - High-Intermediate Writing
+  FLEN 041 - Advanced Reading
+  FLEN 047 - Advanced Topics in ESL
+  FLEN 049 - Advanced Writing
+Engineering
+  ENGR 115 - Introduction to Engineering and Physics
+  ENGR 116 - Introduction to Engineering and Physics Laboratory
+  ENGR 131 - Computer Aided Design and Modeling
+  ENGR 135 - Introduction to Electric Circuits
+  ENGR 136 - Introduction to Electric Circuits Laboratory
+  ENGR 210 - Digital Logic
+  ENGR 211 - Digital Logic Laboratory
+  ENGR 220 - Engineering Mechanics: Statics
+  ENGR 222 - Engineering Mechanics: Dynamics
+  ENGR 281 - Engineering Thermodynamics
+  ENGR 305 - Environmental Health and Safety for Engineers
+  ENGR 306 - Engineering Ethics
+  ENGR 320 - Material Science
+  ENGR 332 - Mechanics of Materials
+  ENGR 333 - Fluid Mechanics
+  ENGR 334 - Heat and Mass Transfer
+  ENGR 342 - Measurement Techniques
+  ENGR 343 - Measurement Techniques Laboratory
+  ENGR 350 - Engineering Economics
+Engineering
+  ENGR 355 - Electronic Devices
+  ENGR 356 - Electronic Devices Laboratory
+  ENGR 388 - Network Analysis
+  ENGR 390 - Junior Clinic
+  ENGR 422 - Embedded Systems
+  ENGR 423 - Embedded Systems Laboratory
+  ENGR 430 - Senior Clinic I
+  ENGR 431 - Senior Clinic Studio I
+  ENGR 432 - Senior Clinic II
+  ENGR 433 - Senior Clinic Studio II
+  ENGR 434 - Fluid Thermal Systems
+  ENGR 481 - Thermodynamics
+Environmental Science
+  ENVR 112 - Plant Science
+  ENVR 233 - Soil Science
+  ENVR 320 - Energy Resources
+  ENVR 341 - Water Resources
+  ENVR 345 - Range and Wildland Plants
+  ENVR 350 - Rangeland Ecology
+  ENVR 354 - Range Science
+  ENVR 410 - Environmental Law and Policy
+  ENVR 420 - Environmental Thought
+  ENVR 455 - Wildlife Ecology
+  ENVR 458 - Wildlife Management Techniques
+Family Studies
+  FAM 232 - Family Finances
+  FAM 251 - Introduction to Family Studies
+  FAM 262 - Intimate Relationships and Marriage
+  FAM 265 - Child Development
+  FAM 275 - Child Development Ages 0-11
+  FAM 280 - Child Development Ages 12-18
+  FAM 325 - Child Life
+  FAM 356 - Human Intimacy
+  FAM 362 - Families in Society
+  FAM 385 - Family Theories: An Introduction
+  FAM 452 - Parenting and Family Skills
+  FAM 453 - Family Crises and Resiliency
+  FAM 454 - Aging and the Family
+  FAM 455 - Ministry to Fathers
+  FAM 470 - Family Life Education Methodology
+  FAM 485 - Ethics and Professional Development
+  FAM 495 - Family Studies Practicum
+Finance
+  FIN 310 - Financial Management
+  FIN 311 - Money and Banking
+  FIN 411 - Principles of Investment
+  FIN 412 - Financial Theory and Practice
+  FIN 414 - Bank Management
+  FIN 416 - Personal Financial Planning
+  FIN 419 - International Financial Markets
+  FIN 420 - Entrepreneurial Finance
+  FIN 434 - Portfolio Management
+  FIN 439 - Student Managed Investment Fund
+  FIN 499 - Finance Internship
+  FIN 643 - International Finance
+French
+  FREN 111 - Elementary French I
+  FREN 112 - Elementary French II
+  FREN 221 - Intermediate French I
+  FREN 222 - Intermediate French II
+  FREN 321 - French Composition and Conversation
+  FREN 341 - Introduction to French Culture
+  FREN 342 - French Cinema
+  FREN 461 - Medieval and Renaissance Literature
+  FREN 462 - Twentieth-Century French Literature
+Geography
+  GEOG 235 - World Geography
+  GEOG 354 - Cultural Geography
+Geology
+  GEOL 111 - Introduction to Geology
+German
+  GER 111 - Elementary German I
+  GER 112 - Elementary German II
+  GER 221 - Intermediate German I
+  GER 222 - Intermediate German II
+  GER 321 - German Grammar through Short Stories
+  GER 341 - Survey of German Film
+  GER 361 - Survey of German Literature
+  GER 461 - German Drama
+Gerontology
+  GERO 350 - Sociology of Aging
+  GERO 352 - Adult Development and Aging
+  GERO 437 - Ministry with Older Adults
+  GERO 441 - Social Welfare Policy and Services
+  GERO 448 - Biology of Aging
+  GERO 454 - Aging and the Family
+  GERO 460 - Ethics and Social Issues
+  GERO 461 - Nursing Facility Organization and Environmental Management
+  GERO 462 - Nursing Facility Financial and Personnel Management
+  GERO 463 - Regulatory and Resident Management in a Nursing Facility
+  GERO 479 - Programs and Services for Elderly
+  GERO 486 - Counseling Older Adults and Their Families
+  GERO 495 - Practicum in Gerontology
+  GERO 541 - Social Welfare Policy and Services
+  GERO 548 - Biology of Aging
+  GERO 550 - Sociology of Aging
+  GERO 552 - Adult Development and Aging
+  GERO 554 - Aging and the Family
+  GERO 560 - Ethics and Social Issues
+  GERO 561 - Nursing Facility Organization and Environmental Management
+  GERO 562 - Nursing Facility Financial and Personnel Management
+  GERO 563 - Regulatory and Resident Management in a Nursing Facility
+  GERO 579 - Programs and Services for Elderly
+  GERO 586 - Counseling Older Adults and Their Families
+  GERO 615 - Social Research
+  GERO 631 - Human Life Cycle II
+  GERO 636 - Seminar in Death and Dying
+  GERO 637 - Ministry with Older Adults
+Gerontology
+  GERO 668 - Housing the Older Client
+  GERO 685 - Advanced Seminar in Gerontology
+  GERO 690 - Practicum in Gerontology
+  GERO 744 - Management and Funding of Nonprofit Organizations
+  GERO 745 - Administration and Planning for Nonprofit Organizations
+Global Studies
+  GLST 120 - Introduction to Global Issues
+  GLST 212 - Introduction to Great Britain
+  GLST 214 - Global Studies: People and Culture of Germany and Europe
+  GLST 217 - South America Southern Cone: History and Culture
+  GLST 499 - Global Studies Seminar
+Graduate Program
+  GRAD 695 - Thesis Continuation
+  GRAD 696 - Capstone Project/Practicum Continuation
+  GRAD 791 - Dissertation Continuation I
+  GRAD 792 - Dissertation Continuation II
+  GRAD 793 - Dissertation Continuation III
+Healthcare Administration
+  HCAD 601 - Self-Reflection in Healthcare Leadership
+  HCAD 604 - Accountable Healthcare: Transforming the Healthcare System
+  HCAD 621 - Healthcare Policies and Ethics
+  HCAD 624 - Health Services Administration
+  HCAD 627 - Innovation and Trends in Healthcare
+  HCAD 632 - Conflict Management in Healthcare Organizations
+  HCAD 643 - Healthcare Law
+  HCAD 656 - Healthcare Informatics
+  HCAD 681 - Healthcare Marketing
+  HCAD 687 - Human Resources Administration in Healthcare
+  HCAD 691 - Healthcare Strategic Management
+Health Education
+  HED 112 - Personal Health and Human Disease
+  HED 324 - Drug Education
+  HED 405 - Human Sexuality
+  HED 410 - Death Education
+Higher Education
+  HIED 611 - Foundations of Higher Education
+  HIED 613 - Introduction to Student Services
+  HIED 621 - Research and Assessment in Higher Education
+  HIED 622 - College Students and Student Development Theory
+  HIED 623 - Individual, Group, and Organizational Interventions
+  HIED 632 - Spiritual Development in College Students
+  HIED 635 - Higher Education Resource Management
+  HIED 641 - Trends, Issues, and Problems in Higher Education
+  HIED 643 - Legal and Ethical Issues in Higher Education
+  HIED 652 - Foundations of Enrollment Management
+  HIED 654 - Approaches to Marketing, Recruitment and Selection
+  HIED 656 - Pricing and Financial Aid in Enrollment Management
+  HIED 658 - Retention and College Student Success
+  HIED 693 - Supervised Practicum
+  HIED 694 - HIED Residency
+  HIED 695 - Internship with Embedded Capstone
+History
+  HIST 117 - Civilization I
+  HIST 118 - Civilization II
+  HIST 131 - World History: Cultures and Connections since 1400
+  HIST 221 - American History I
+  HIST 222 - American History II
+  HIST 250 - Introduction to American Ethnic and Women’s Studies
+  HIST 280 - Texas History
+  HIST 330 - African American History from Emancipation to Civil Rights
+  HIST 332 - The Early Modern Atlantic World
+  HIST 353 - Historical Methods
+  HIST 402 - Nation-Building, US Antebellum Era
+  HIST 404 - The Gilded Age/Progressive Era in the United States
+  HIST 405 - Coming of Age: The United States in the Twentieth Century
+  HIST 408 - Mesopotamia: Cradle of Civilization
+  HIST 409 - Homer’s Children: The World of Ancient Greece
+  HIST 410 - The Ancient Roman World
+  HIST 413 - The Medieval Era
+  HIST 414 - Islam and the West
+  HIST 418 - Britain and Empire, 1689-present
+  HIST 419 - Revolution and Empire: Europe in the Long Nineteenth Century
+  HIST 436 - Africa in Global Context
+  HIST 451 - American Diplomacy
+  HIST 452 - Historical Documentary Production
+  HIST 454 - Public History Field School
+  HIST 455 - Social and Ethnic History in U.S.
+  HIST 458 - World War II: A Military and Social History
+  HIST 459 - Historiography Seminar
+  HIST 472 - Early Modern Europe: The Renaissance and Reformation Eras
+  HIST 474 - Europe in Crisis: Dictatorship and Division since 1914
+  HIST 477 - Third Reich
+  HIST 478 - Encounters: Latin America to 1830
+  HIST 479 - Revolutions: Latin America, 1810 to Present
+  HIST 483 - Legacies of Conquest: Empire and the Growth of the American West
+  HIST 484 - A Clash of Cultures: The Civil War in Nineteenth Century America
+  HIST 485 - Russia
+  HIST 486 - War and Society
+  HIST 490 - The Cosmic Race: A History of Mexico
+  HIST 491 - China, India, and the West since the 14th Century: Mongols, Poppies, & Satyagraha
+  HIST 496 - History for Teachers
+  HIST 552 - Historical Documentary Production
+  HIST 554 - Public History Field School
+  HIST 555 - Social and Ethnic History in U.S.
+  HIST 572 - Early Modern Europe: The Renaissance and Reformation Eras
+  HIST 574 - Europe in Crisis: Dictatorship and Division since 1914
+  HIST 577 - Third Reich
+  HIST 578 - Encounters: Latin America to 1830
+  HIST 579 - Latin American Modern Era
+  HIST 580 - Texas History
+  HIST 583 - Legacies of Conquest: Empire and the Growth of the American West
+  HIST 584 - A Clash of Cultures: The Civil War in Nineteenth Century America
+  HIST 585 - Russia
+  HIST 681 - Problems in American History
+  HIST 699 - Master’s Thesis
+Honors Core
+  HCOR 221 - Honors Humanities I
+Honors Core
+  HCOR 222 - Honors Humanities II
+  HCOR 223 - Honors Humanities III
+Honors Project
+  HON 301 - Honors Project: Research
+  HON 302 - Honors Project: Travel
+  HON 303 - Honors Project: Service
+  HON 304 - Honors Project: Creative
+  HON 305 - Honors Project: Internship
+  HON 306 - Honors Project: Co-curricular
+  HON 307 - Honors Project: Special
+Honors Colloquium
+  HON 112 - General Biology I Honors Seminar
+  HON 113 - General Biology II Honors Seminar
+  HON 411 - Honors Colloquium
+  HON 412 - Honors Colloquium
+  HON 413 - Honors Colloquium
+  HON 414 - Honors Colloquium
+  HON 415 - Honors Colloquium
+  HON 416 - Honors Colloquium
+  HON 417 - Honors Colloquium
+  HON 418 - Honors Colloquium
+  HON 419 - Honors Colloquium
+Humanities
+  HUM 212 - Oxford Through the Ages
+  HUM 217 - Latin America and the Arts
+  HUM 222 - Western Heritage in England
+  HUM 252 - American Identity in the Modern Era
+Information Systems
+  IS 322 - Business Statistics
+  IS 324 - Management Information Systems
+  IS 330 - Business Geographic Information Systems
+  IS 342 - Business Decision Support Systems
+  IS 405 - Systems Analysis and Design
+  IS 410 - Enterprise Resource Planning
+  IS 415 - E-Commerce
+  IS 430 - Management of Information and Technology Resources
+  IS 432 - Data Mining
+  IS 499 - Information Systems Internship
+  IS 524 - Management Information Systems
+  IS 605 - Systems Analysis and Design
+  IS 680 - Data Mining
+  IS 682 - Data Management
+  IS 684 - Data Visualization and Reporting
+Information Technology
+  IT 105 - Introduction to Mobile Application Development
+  IT 220 - Introduction to Databases and Database Management Systems
+  IT 221 - Fundamentals of Networking and Data Communications
+  IT 225 - Web Technologies
+  IT 310 - Introduction to Computer and Information Security
+  IT 320 - Database Administration
+  IT 325 - Web Application Development
+  IT 410 - Systems Integration and Administration
+  IT 415 - Networks and Security Administration
+  IT 472 - Advanced Security
+  IT 473 - Cybersecurity Policies, Standards, and Compliance
+  IT 490 - Topics in Information Technology
+  IT 501 - Contemporary Readings in IT
+  IT 610 - IT Services and Administration
+  IT 615 - IT Innovation and Entrepreneurship
+  IT 620 - Information Assurance and Control
+  IT 625 - Enterprise Architectures and Systems
+  IT 630 - IT Governance
+  IT 632 - IT Leadership
+  IT 650 - Internship in Global IT Operations
+  IT 651 - Leading IT Innovation in Education: Problem Analysis
+  IT 652 - Leading IT Innovation in Education: Solution Analysis
+  IT 660 - Work-Product Portfolio
+Information, Technology, and Computing
+  ITC 110 - Introduction to Information, Technology, and Computing
+  ITC 250 - History of Computing
+  ITC 399 - ITC Research
+  ITC 460 - Managing Technical Projects
+  ITC 480 - Reflections on Faith and Work
+  ITC 499 - Information, Technology, and Computing Internship
+Journalism and Mass Communication
+  JMC 100 - Media Issues
+  JMC 102 - Creating Media Messages
+  JMC 111 - Announcing
+  JMC 201 - Introduction to Visual Media
+  JMC 223 - Convergence Reporting I
+  JMC 233 - Photography
+  JMC 261 - Broadcast Production
+  JMC 302 - Introduction to Race and Media
+  JMC 303 - Colloquium in Race and Media
+  JMC 317 - Electronic Media Principles
+  JMC 321 - Student Media Lab
+  JMC 324 - Convergence Reporting II
+  JMC 341 - Editing and Content Management
+  JMC 342 - Communication Design
+  JMC 347 - Principles of Public Relations
+  JMC 348 - Principles of Advertising
+  JMC 351 - Web Publishing
+  JMC 352 - Advanced Web Publishing
+  JMC 361 - Advanced Video Production
+  JMC 364 - Media and Religion
+  JMC 367 - Social Media
+  JMC 389 - Public Relations Writing
+  JMC 390 - Advertising Creativity and Copy Writing
+  JMC 391 - Ad/PR Media Planning
+  JMC 405 - Visual Portfolio
+  JMC 438 - Broadcast News
+  JMC 441 - Topics in Convergence Journalism
+  JMC 449 - Opinion Writing
+  JMC 450 - Feature Writing
+  JMC 465 - Documentary Storytelling
+  JMC 488 - Communication Law
+  JMC 492 - Ad/PR Campaigns
+Journalism and Mass Communication
+  JMC 495 - JMC Internship
+Latin
+  FLLA 111 - Elementary Latin I
+  FLLA 112 - Elementary Latin II
+  FLLA 221 - Intermediate Latin I
+  FLLA 222 - Intermediate Latin II
+Kinesiology
+  KINE 100 - Lifetime Wellness
+  KINE 201 - Introduction to Sport and Recreation Management
+  KINE 206 - Strength Training
+  KINE 211 - Cross-Training
+  KINE 232 - Structural Kinesiology
+  KINE 241 - First Aid/CPR
+  KINE 291 - Basic Sports Medicine
+  KINE 296 - Care and Prevention of Athletic Injuries
+  KINE 301 - Risk Management
+  KINE 302 - Medical Terminology
+  KINE 303 - Ethics in Sport and Recreation Management
+  KINE 311 - Motor Behavior
+  KINE 321 - Sport Practicum
+  KINE 322 - Fitness Practicum
+  KINE 330 - Field Experience
+  KINE 333 - Youth Activity Programs
+  KINE 360 - Leadership and Management for Health Promotion
+  KINE 365 - Assessment of Injury I
+  KINE 366 - Assessment of Injury II
+  KINE 372 - Exercise Physiology
+  KINE 373 - Exercise Physiology Lab
+  KINE 399 - Research Methods in Kinesiology and Nutrition
+  KINE 401 - Legal Aspects of Sport and Recreation
+  KINE 420 - Exercise Science Internship
+  KINE 421 - Wellness Practicum
+  KINE 450 - Personal Training
+  KINE 460 - Program Planning for Health Promotion
+  KINE 473 - Cardiovascular Physiology
+  KINE 475 - Physical Activity, Disease, and Aging
+  KINE 476 - Application and Evaluation of Secondary Physical Education
+  KINE 477 - Therapeutic Exercise
+  KINE 480 - Training Program Design
+  KINE 485 - Clinical Exercise Physiology
+  KINE 490 - Special Populations
+  KINE 491 - Principles of Coaching
+  KINE 492 - Coaching Internship
+  KINE 498 - Biomechanics
+Organizational Leadership
+  LEAD 701 - Introduction to Doctoral Studies
+  LEAD 711 - Theories and Practices of Effective Leadership
+  LEAD 714 - Self-Assessment in Leadership
+  LEAD 721 - Contemporary Issues in Organizational Leadership
+  LEAD 724 - Leadership in Diverse Contexts
+  LEAD 731 - Leading Organizational Change
+  LEAD 741 - Human Resource Development
+  LEAD 744 - Technology and Financial Resource Development
+  LEAD 765 - Applied Research Problem
+  LEAD 781 - Organizational Assessment and Evaluation
+  LEAD 784 - Qualitative and Action Research
+  LEAD 786 - Quantitative Analysis
+  LEAD 791 - Dissertation Prospectus Seminar I
+  LEAD 792 - Dissertation Prospectus Seminar II
+  LEAD 799 - Dissertation Research
+Management
+  MGMT 305 - Foundations of Entrepreneurship
+  MGMT 320 - Social Entrepreneurship
+  MGMT 330 - Management and Organizational Behavior
+  MGMT 331 - Operations Management
+  MGMT 332 - Human Resource Management
+  MGMT 335 - Leadership in Organizations
+  MGMT 337 - Safety, Health and Security
+  MGMT 342 - Total Quality Management
+  MGMT 345 - Introduction to Management Science
+  MGMT 373 - Employee Planning, Recruitment and Selection
+  MGMT 375 - Employee and Labor Relations
+  MGMT 419 - Global Entrepreneur
+  MGMT 430 - Entrepreneurial Venture Management
+  MGMT 432 - Launching the Venture
+  MGMT 434 - Strategic Philanthropy
+  MGMT 436 - Current Topics in Organizational Behavior
+  MGMT 439 - Strategic Management
+  MGMT 447 - Compensation and Benefits Management
+  MGMT 450 - Career Management
+  MGMT 452 - Logistics and Supply Chain Management
+  MGMT 459 - Project Management
+  MGMT 499 - Management Internship
+  MGMT 532 - Human Resource Management
+  MGMT 629 - Advanced Management Systems
+  MGMT 635 - Organizational Design and Change
+  MGMT 636 - Organizational Behavior
+Marketing
+  MKTG 320 - Principles of Marketing
+  MKTG 333 - Sports Administration
+  MKTG 341 - Marketing Research
+  MKTG 342 - Consumer Behavior
+  MKTG 343 - Personal Selling
+  MKTG 344 - Marketing Promotion
+  MKTG 419 - International Marketing
+  MKTG 432 - Data Mining
+  MKTG 495 - Marketing Strategy
+  MKTG 499 - Marketing Internship
+  MKTG 620 - Digital Marketing and Social Media
+Master of Accountancy
+  MACC 603 - Contemporary Issues in Accounting Theory
+  MACC 604 - Entity Tax Fundamentals
+  MACC 605 - Financial Statement Analysis
+  MACC 609 - Advanced Auditing
+  MACC 610 - Advanced Topics in Financial Accounting and Reporting
+  MACC 611 - Accounting for Governmental and Non-Profit Entities
+Master of Accountancy
+  MACC 617 - Fraud Examination
+  MACC 619 - Accounting Research
+  MACC 621 - Advanced Financial Management
+  MACC 622 - Ethics and the Accounting Profession
+  MACC 624 - Advanced Accounting Information Systems
+Mathematics
+  MATH 109 - Precalculus I
+  MATH 120 - Quantitative Reasoning
+  MATH 123 - Elementary Statistics
+  MATH 124 - Precalculus II
+  MATH 130 - Finite Math for Applications
+  MATH 131 - Calculus for Application
+  MATH 185 - Calculus I
+  MATH 186 - Calculus II
+  MATH 187 - Calculus Computer Laboratory
+  MATH 227 - Discrete Mathematics
+  MATH 237 - Number and Operations
+  MATH 238 - Geometry and Measurement
+  MATH 286 - Calculus III
+  MATH 287 - Projects in Calculus
+  MATH 309 - Algebraic Concepts for Teachers I
+  MATH 311 - Geometric Concepts for Teachers I
+  MATH 325 - Linear Algebra
+  MATH 334 - Linear Programming
+  MATH 341 - Numerical Methods
+  MATH 351 - Abstract Algebra I
+  MATH 361 - Ordinary Differential Equations
+  MATH 377 - Statistical Methods I
+  MATH 381 - Analysis I
+  MATH 397 - Mathematics Seminar
+  MATH 410 - Algebraic Concepts for Teachers II
+  MATH 412 - Geometric Concepts for Teachers II
+  MATH 418 - Professional Development Experience in Mathematics
+  MATH 432 - Introduction to Operations Research
+  MATH 442 - Numerical Analysis
+  MATH 445 - Theory of Interest
+  MATH 453 - Abstract Algebra II
+  MATH 463 - Partial Differential Equations
+  MATH 477 - Statistical Methods II
+  MATH 478 - Mathematical Statistics
+  MATH 483 - Analysis II
+  MATH 490 - Topics in Mathematics
+  MATH 497 - Mathematics Capstone
+Mathematics Workshop
+  MATW 019 - Basic Mathematics
+  MATW 120 - Quantitative Reasoning
+  MATW 123 - Elementary Statistics
+  MATW 130 - Finite Math for Applications
+Marriage and Family Therapy
+  BMFT 601 - Pre-Internship
+  BMFT 602 - MFT Internship I
+  BMFT 603 - MFT Internship II
+  BMFT 604 - MFT Internship III
+  BMFT 605 - MFT Internship IV
+  BMFT 610 - Couples Therapy
+  BMFT 615 - Research Methods & Family Therapy
+  BMFT 634 - Addictive Disorders
+  BMFT 639 - Family Theory/General Systems Theory
+  BMFT 641 - Family Therapy I
+  BMFT 643 - Professional Ethics and Law
+  BMFT 645 - Systemic Diagnosis & Assessment
+  BMFT 651 - Sexual Therapy
+  BMFT 661 - Family Therapy II
+  BMFT 662 - Family Life Cycle
+  BMFT 663 - Cultural Diversity in Marriage and Family Therapy
+  BMFT 665 - Therapy Across the Life-Cycle
+  BMFT 670 - Introduction to Medical Family Therapy
+  BMFT 671 - Medical Family Therapy Theory, Practice, and Research
+  BMFT 673 - Illness, Disability, Death, and Dying Across the Lifespan
+  BMFT 675 - Interventions in Medical Family Therapy
+  BMFT 696 - Theological Perspectives on Human Behavior
+  BMFT 699 - Thesis
+Marriage and Family Therapy-Online
+  MFTO 601 - Pre-Internship
+  MFTO 602 - MFT Internship I
+  MFTO 603 - MFT Internship II
+  MFTO 604 - MFT Internship III
+  MFTO 605 - MFT Internship IV
+  MFTO 610 - Couples Therapy
+  MFTO 615 - Research Methods & Family Therapy
+  MFTO 616 - Life Planning and Career Development
+  MFTO 622 - Systemic Play Therapy
+  MFTO 624 - Family Therapy with Children and Adolescents
+  MFTO 630 - Trauma Intervention Models
+  MFTO 634 - Addictive Disorders
+  MFTO 635 - Group Psychotherapy
+  MFTO 639 - Family Theory/General Systems Theory
+  MFTO 641 - Family Therapy I
+  MFTO 643 - Professional Ethics and Law
+  MFTO 644 - Professional Ethics and California Law
+  MFTO 645 - Systemic Diagnosis & Assessment
+  MFTO 651 - Sexual Therapy
+  MFTO 655 - Systemic Trauma and Violence
+  MFTO 657 - Assessment and Treatment of Family Violence
+  MFTO 661 - Family Therapy II
+  MFTO 662 - Family Life Cycle
+  MFTO 663 - Cultural Diversity in Marriage and Family Therapy
+  MFTO 665 - Therapy Across the Life-Cycle
+  MFTO 670 - Introduction to Medical Family Therapy
+  MFTO 671 - Medical Family Therapy Theory, Practice, and Research
+  MFTO 673 - Illness, Disability, Death, and Dying Across the Lifespan
+  MFTO 675 - Interventions in Medical Family Therapy
+  MFTO 682 - Dynamics of Military Families
+  MFTO 684 - Family Therapy with Military Families
+Marriage and Family Therapy-Online
+  MFTO 696 - Theological Perspectives on Human Behavior
+  MFTO 697 - Ecology of Crisis and Trauma for the Therapist
+Music Performance Ensemble Instrumental
+  MPEI 210 - Marching Band
+  MPEI 301 - Marching Band
+  MPEI 302 - Wind Ensemble
+  MPEI 303 - Concert Band
+  MPEI 304 - Orchestra
+  MPEI 305 - Jazz Ensemble
+  MPEI 306 - Percussion Ensemble
+  MPEI 311 - Marching Band
+  MPEI 312 - Wind Ensemble
+  MPEI 313 - Concert Band
+  MPEI 314 - Orchestra
+  MPEI 315 - Jazz Ensemble
+  MPEI 316 - Percussion Ensemble
+  MPEI 401 - Brass Quintet
+  MPEI 402 - Jazz Combo
+  MPEI 403 - Low Brass Ensemble
+  MPEI 404 - Piano Ensemble
+  MPEI 405 - Saxophone Quartet
+  MPEI 406 - String Quartet
+  MPEI 407 - Woodwind Quartet
+  MPEI 408 - Instrumental Ensemble
+  MPEI 411 - Brass Quintet
+  MPEI 412 - Jazz Combo
+  MPEI 413 - Low Brass Ensemble
+  MPEI 414 - Piano Ensemble
+  MPEI 415 - Saxophone Quartet
+  MPEI 416 - String Quartet
+  MPEI 417 - Woodwind Quartet
+  MPEI 418 - Instrumental Ensemble
+Music Performance Ensemble Vocal
+  MPEV 201 - University Chorale
+  MPEV 211 - University Chorale
+  MPEV 301 - A Cappella Chorus
+  MPEV 302 - Opera Workshop
+  MPEV 311 - A Cappella Chorus
+  MPEV 312 - Opera Workshop
+Music Private Instruction Instrumental, Major
+  MPIM 221 - Music Private Instruction Instrumental
+  MPIM 421 - Music Private Instruction Instrumental
+Music Private Instruction Instrumental, Non-Major
+  MPIN 211 - Music Private Instruction Instrumental
+  MPIN 312 - Music Private Instruction Jazz Piano
+  MPIN 313 - Music Private Instruction Jazz Piano
+  MPIN 411 - Music Private Instruction Instrumental
+Music Private Instruction Vocal, Major
+  MPVM 221 - Music Private Instruction Vocal Major
+  MPVM 231 - Music Private Instruction Vocal Major
+  MPVM 421 - Music Private Instruction Vocal Major
+  MPVM 431 - Music Private Instruction Vocal Major
+Music Private Instruction Vocal, Non-Major
+  MPVN 211 - Music Private Instruction Vocal Non-major
+  MPVN 411 - Music Private Instruction Vocal Non-major
+Music Class Piano
+  MUPC 113 - Music Class Piano
+  MUPC 114 - Music Class Piano
+  MUPC 213 - Music Class Piano
+  MUPC 214 - Music Class Piano
+Music Private Instruction Piano, Major
+  MUPM 221 - Music Private Instruction Piano, Major
+  MUPM 231 - Music Private Instruction Piano, Major
+  MUPM 421 - Music Private Instruction Piano, Major
+  MUPM 431 - Music Private Instruction Piano, Major
+Music Private Instruction Piano, Non-Major
+  MUPN 211 - Music Private Instruction Piano, Non-major
+  MUPN 411 - Music Private Instruction Piano, Non-major
+Music Miscellaneous
+  MUSC 217 - English and Italian Diction
+  MUSC 218 - French and German Diction
+Music Education
+  MUSE 110 - Concepts of Percussion
+  MUSE 115 - Concepts of High Brasses
+  MUSE 116 - Concepts of Clarinet and Saxophone
+  MUSE 117 - Concepts of Low Brasses
+  MUSE 118 - Concepts of Flute and Double-Reeds
+  MUSE 119 - Concepts of Strings
+  MUSE 211 - Concepts of Jazz and Improvisation
+  MUSE 221 - Jazz Pedagogy
+  MUSE 235 - Instrumental Concepts
+  MUSE 236 - Vocal Concepts
+  MUSE 330 - Music Education for Elementary Teachers
+  MUSE 332 - Elementary Music Techniques and Literature
+  MUSE 333 - Secondary Music Methods: Choral Organization and Administration
+  MUSE 334 - Beginning Conducting
+  MUSE 335 - Concepts of Piano Performance
+  MUSE 336 - Concepts of Vocal Performance
+  MUSE 337 - Intermediate Conducting
+  MUSE 338 - Band Methods: Marching Techniques and Wind Literature
+  MUSE 339 - Secondary Music Methods - Instrumental
+Musicology
+  MUSM 131 - Music in World Cultures
+  MUSM 132 - Music Literature
+  MUSM 230 - Survey of Music in Western Culture
+  MUSM 231 - Survey of Jazz
+  MUSM 232 - Survey of Popular Music
+  MUSM 233 - Survey of World Music
+  MUSM 331 - Solo Vocal Literature
+  MUSM 431 - Music History I: Antiquity to 1750
+  MUSM 432 - Music History II: 1750-the Present
+  MUSM 439 - Opera History
+  MUSM 441 - Solo Piano Literature
+  MUSM 442 - Ensemble Piano Literature
+  MUSM 449 - Capstone Seminar in Music History and Theory
+Recital Seminar
+  MUSR 301 - Recital Seminar
+  MUSR 311 - Recital Seminar
+Music Theory
+  MUST 111 - Elementary Theory: Sight Singing and Ear Training
+  MUST 112 - Elementary Theory: Sight Singing and Ear Training
+  MUST 120 - Music Fundamentals
+  MUST 131 - Elementary Theory I: Analysis and Keyboard
+  MUST 132 - Elementary Theory II: Analysis and Keyboard
+Music Theory
+  MUST 211 - Advanced Theory: Sight Singing and Ear Training
+  MUST 212 - Advanced Theory: Sight Singing and Ear Training
+  MUST 231 - Advanced Theory I: Analysis and Keyboard
+  MUST 232 - Advanced Music Theory II: Analysis and Keyboard
+  MUST 233 - Jazz Theory and Improvisation
+  MUST 331 - Counterpoint
+  MUST 332 - Forms and Analysis
+  MUST 333 - Jazz Composition and Arranging
+  MUST 432 - Orchestration and Arranging
+Nursing
+  NURS 308 - Global Healthcare
+  NURS 320 - Evidence-Based Gerontologic Nursing
+  NURS 330 - Pharmacology in Nursing
+  NURS 337 - Applied Pathophysiology
+  NURS 350 - Clinical Skills I: Fundamentals of Nursing
+  NURS 351 - Nursing Assessment and Diagnostics
+  NURS 352 - Evidence-Based Fundamentals of Nursing
+  NURS 360 - Clinical Skills II: Acute Medical-Surgical Nursing
+  NURS 361 - Evidence-Based Acute Medical-Surgical Nursing
+  NURS 370 - Clinical Skills II: Community and Population Health
+  NURS 380 - Nursing Research for Evidence-Based Practice
+  NURS 430 - Clinical Skills III: Mental Health Nursing
+  NURS 431 - Evidence-Based Mental Health Nursing
+  NURS 450 - Clinical Skills III: Maternity and Pediatric Nursing
+  NURS 453 - Evidence-Based Maternity and Pediatric Nursing
+  NURS 464 - Nursing Leadership and Management
+  NURS 475 - Clinical Skills IV: Advanced Medical-Surgical Nursing
+  NURS 476 - Evidence-Based Advanced Medical-Surgical Nursing
+  NURS 477 - Evidence-Based Community and Population Health
+  NURS 498 - Integration of Evidence Based Nursing Practice
+  NURS 701 - DNP Role
+  NURS 703 - Informatics to Improve Patient Care
+  NURS 705 - Applied Statistics and Research in Nursing
+  NURS 712 - Epidemiology and Population Health
+  NURS 714 - Genomic Implications in Advanced Practice
+  NURS 716 - Healthcare Finance and Clinical Practice
+  NURS 721 - Healthcare Policy and Clinical Practice
+  NURS 723 - Foundations of Integrative Healthcare
+  NURS 727 - Population Health and Chronic Disease Management
+  NURS 731 - Organizational and System Leadership
+  NURS 733 - Healthcare Reform: Current Issues Affecting Nursing Practice
+  NURS 752 - DNP Project I
+  NURS 754 - DNP Project II
+Nutrition
+  NUTR 120 - Nutrition and Wellness
+  NUTR 221 - Introductory Nutrition
+  NUTR 222 - Food Selection and Preparation
+  NUTR 224 - Nutrition for Exercise and Sport
+  NUTR 322 - Biochemistry of Nutrition I
+  NUTR 323 - Biochemistry of Nutrition II
+  NUTR 325 - Quantity Food Production and Service
+  NUTR 327 - Nutrition Through the Life Cycle
+  NUTR 328 - Community Nutrition
+  NUTR 401 - Nutrition Seminar
+  NUTR 421 - Nutrition Assessment and Education
+  NUTR 423 - Food Safety
+  NUTR 425 - Medical Nutrition Therapy I
+  NUTR 426 - Food Science
+  NUTR 427 - Food System Organization and Administration
+  NUTR 428 - Medical Nutrition Therapy II
+  NUTR 429 - Medical Nutrition Therapy III
+  NUTR 450 - Capstone in Dietetics
+  NUTR 620 - Dietetic Internship
+  NUTR 621 - Nutrition Research
+  NUTR 622 - Weight Management I
+  NUTR 623 - Nutrition and Poverty
+  NUTR 624 - Weight Management II
+  NUTR 625 - School Nutrition
+  NUTR 626 - Nutrition Assessment
+  NUTR 627 - Nutrition for Diabetes Mellitus
+  NUTR 628 - Nutrition Education and Counseling
+  NUTR 629 - Nutrition and Integrative Medicine
+  NUTR 632 - Nutrition for Eating Disorders
+  NUTR 633 - Nutritional Genomics
+  NUTR 634 - Practice Skills and Current Issues
+Occupational Therapy
+  OCCT 601 - Musculoskeletal Anatomy
+  OCCT 603 - Foundations of OT
+  OCCT 605 - Theory in OT
+  OCCT 607 - Intro to Making
+  OCCT 611 - Adult Populations in OT I
+  OCCT 617 - Social Conditions
+  OCCT 631 - Neuroscience
+  OCCT 635 - OT in Pediatrics
+  OCCT 637 - Research Process in OT I
+  OCCT 639 - Adult Populations in OT II
+  OCCT 641 - Health Conditions Seminar
+  OCCT 643 - Mentored Research
+  OCCT 651 - OT for Mental Health and Wellness
+  OCCT 655 - Mental Health and Wellness Fieldwork Level 1 and Documentation
+  OCCT 661 - Hand and Upper Extremity Conditions
+  OCCT 670 - Group Process
+  OCCT 690 - Physical Disabilities Fieldwork Level I and Documentation
+  OCCT 695 - Pediatrics Fieldwork Level I
+  OCCT 703 - Implementing OT Treatment
+  OCCT 711 - Ethical and Professional Decision Making in OT
+  OCCT 735 - Research Process in OT II
+  OCCT 739 - Management and Leadership in OT
+  OCCT 790 - Fieldwork Level II
+  OCCT 791 - Professional Preparation
+  OCCT 795 - Fieldwork Level II
+Peace and Social Justice
+  PSJS 499 - Peace and Social Justice Capstone
+Physical Education Activity
+  PEAC 100 - Lifetime Wellness
+Physical Education Activity
+  PEAC 101 - Fitness in Action
+  PEAC 202 - Adapted Physical Activity
+  PEAC 203 - Ballet
+  PEAC 204 - Modern Dance
+  PEAC 205 - Yoga
+  PEAC 206 - Strength Training
+  PEAC 207 - Martial Arts
+  PEAC 210 - Cycling
+  PEAC 211 - Cross-Training
+  PEAC 212 - Beginning Badminton
+  PEAC 214 - Aerobics
+  PEAC 215 - Jogging for Fitness
+  PEAC 216 - Walking for Fitness
+  PEAC 217 - Beginning Tennis
+  PEAC 219 - Golf
+  PEAC 222 - Physical Activities for Elementary
+  PEAC 224 - Disc Golf
+  PEAC 226 - Water Aerobics
+  PEAC 227 - Marathon Training
+  PEAC 228 - Swimming for Fitness
+  PEAC 229 - Lifeguard Training
+  PEAC 234 - Pickleball
+  PEAC 235 - Bowling
+  PEAC 237 - Beginning Racquetball
+  PEAC 239 - Snow Skiing
+  PEAC 341 - Scuba Diving
+  PEAC 350 - Backpacking
+  PEAC 351 - Canoe Camping
+  PEAC 352 - Advanced Snow Skiing
+  PEAC 353 - Advanced Dance Technique Practicum
+Physics
+  PHYS 101 - Astronomy
+  PHYS 102 - Physical Science
+  PHYS 110 - General Physics I
+  PHYS 111 - General Physics I Laboratory
+  PHYS 112 - General Physics II
+  PHYS 113 - General Physics II Laboratory
+  PHYS 135 - Introduction to Electric Circuits
+  PHYS 136 - Introduction to Electric Circuits Laboratory
+  PHYS 203 - Physical Science for Teachers
+  PHYS 220 - Engineering Physics I
+  PHYS 221 - Engineering Physics I Laboratory
+  PHYS 222 - Engineering Physics II
+  PHYS 223 - Engineering Physics II Laboratory
+  PHYS 330 - Modern Physics
+  PHYS 331 - Modern Physics Laboratory
+  PHYS 342 - Measurement Techniques
+  PHYS 343 - Measurement Techniques Laboratory
+  PHYS 360 - Electricity and Magnetism
+  PHYS 362 - Optics
+  PHYS 363 - Optics Laboratory
+  PHYS 371 - Classical Mechanics
+  PHYS 378 - History and Philosophy of Science
+  PHYS 379 - Philosophy, Religion and Science
+  PHYS 388 - Network Analysis
+  PHYS 401 - Secondary Science Methods
+  PHYS 451 - Simulations and Modeling
+  PHYS 453 - Pattern Recognition
+  PHYS 461 - Nuclear Physics
+  PHYS 463 - Math of Physics and Engineering
+  PHYS 472 - Solid State Physics
+  PHYS 481 - Thermodynamics
+  PHYS 482 - Topics in Physics
+  PHYS 491 - Quantum Mechanics
+  PHYS 493 - General Relativity
+  PHYS 497 - Physics Capstone I
+  PHYS 498 - Physics Capstone II
+  PHYS 499 - Research
+Political Science
+  POLS 221 - Government and Business
+  POLS 225 - National Government
+  POLS 226 - States and Federal System
+  POLS 227 - Introduction to International Relations
+  POLS 315 - Political Science Research Methods
+  POLS 341 - American Public Policy
+  POLS 344 - Comparative Politics
+  POLS 345 - Comparative Public Policy
+  POLS 357 - West European Politics
+  POLS 358 - CIS and East European Politics
+  POLS 360 - Politics of Developing Countries
+  POLS 361 - Politics of the Middle East
+  POLS 381 - American Political Process
+  POLS 382 - American Presidency
+  POLS 383 - Congress and Legislative Process
+  POLS 384 - American Judicial Process
+  POLS 385 - American Foreign Policy
+  POLS 393 - Peace, Power and Politics
+  POLS 395 - Public Administration
+  POLS 420 - Public Service Seminar
+  POLS 431 - Constitutional Law: Powers
+  POLS 432 - Constitutional Law: Civil Rights
+  POLS 484 - International Law and Organizations
+  POLS 485 - International Political Economy
+  POLS 487 - Terrorism Studies
+  POLS 488 - Topics in International Politics
+  POLS 490 - Early Political Theory
+  POLS 491 - Recent Political Theory
+  POLS 492 - American Political Thought
+  POLS 493 - Topics in Contemporary Political Thought
+  POLS 494 - Public Administration Management
+  POLS 497 - Topics in Public Administration
+  POLS 499 - Public Service Internship
+Political Science
+  POLS 590 - Early Political Theory
+  POLS 591 - Recent Political Theory
+  POLS 595 - Public Administration
+  POLS 597 - Topics in Public Administration
+Psychology
+  PSYC 100 - Discovery: Career and Life Planning
+  PSYC 120 - Introduction to Psychology
+  PSYC 201 - Psychology Seminar
+  PSYC 232 - Developmental Psychology
+  PSYC 233 - Physiological Psychology
+  PSYC 241 - Cognition and Learning
+  PSYC 278 - Stress and Its Management
+  PSYC 301 - Psychology Seminar II
+  PSYC 305 - Peacemaking
+  PSYC 311 - Elementary Statistics
+  PSYC 342 - Applied Sports Psychology
+  PSYC 345 - Sexual Minorities: Identities and Communities
+  PSYC 351 - Experimental Psychology
+  PSYC 356 - Health Psychology
+  PSYC 368 - Psychological Tests and Measurements
+  PSYC 370 - Social Psychology
+  PSYC 372 - Child Abuse: Recognition and Response
+  PSYC 373 - Characteristics and Needs of Exceptional Children
+  PSYC 374 - Emotional and Behavioral Disorders in Children
+  PSYC 376 - Psychology of Mental Retardation
+  PSYC 382 - Abnormal Psychology
+  PSYC 388 - Teams and Team Leadership
+  PSYC 392 - Child Psychology
+  PSYC 401 - Psychology Seminar III
+  PSYC 451 - Statistics in Psychological Research
+  PSYC 471 - Behavior Modification
+  PSYC 485 - Introduction to Counseling
+  PSYC 487 - Theories of Personality
+  PSYC 493 - History of Theories in Psychology
+  PSYC 499 - Senior Project and Seminar
+  PSYC 511 - Elementary Statistics
+  PSYC 542 - Applied Sports Psychology
+  PSYC 571 - Behavior Modification
+  PSYC 572 - Child Abuse: Recognition and Response
+  PSYC 573 - Characteristics and Needs of Exceptional Children
+  PSYC 574 - Emotional and Behavioral Disorders in Children
+  PSYC 576 - Psychology of Mental Retardation
+  PSYC 592 - Child Psychology
+  PSYC 608 - School Psychology: Organization, Operations and Ethics
+  PSYC 610 - Psychotherapy
+  PSYC 611 - Introduction to Research
+  PSYC 612 - Clinical Research Methods
+  PSYC 613 - Psychopharmacology
+  PSYC 620 - Group Psychotherapy
+  PSYC 624 - Social and Cultural Bases of Behavior
+  PSYC 625 - Seminar in Intercultural Studies
+  PSYC 634 - Addictive Behaviors
+  PSYC 636 - Abnormal Behaviors
+  PSYC 641 - Behavioral Medicine
+  PSYC 642 - Cognitive Assessment: Intelligence, Memory, and Achievement
+  PSYC 643 - Personnel Assessment
+  PSYC 644 - Child and Adolescent Therapy
+  PSYC 645 - Child and Adolescent Assessment
+  PSYC 646 - Lifespan Development
+  PSYC 647 - Child and Adolescent Psychopathology
+  PSYC 648 - Advanced Psychotherapeutic Techniques
+  PSYC 649 - Behavioral Interventions
+  PSYC 650 - Ethics and Issues in Professional Psychology
+  PSYC 657 - Multivariate Statistics
+  PSYC 660 - Clinical Assessment
+  PSYC 664 - Theory and Practice of Career Counseling
+  PSYC 665 - Theories of Counseling and Psychotherapy
+  PSYC 668 - Advanced Behavioral Neuroscience
+  PSYC 669 - Human Learning and Cognition
+  PSYC 670 - Introduction to Neuropsychological Assessment
+  PSYC 676 - Prevention, Intervention, and Advocacy in School Psychology
+  PSYC 681 - Mental Health in the Workplace
+  PSYC 682 - Advanced Psychopathology
+  PSYC 683 - School Consultation
+  PSYC 685 - Issues in Education of Exceptional Children
+  PSYC 688 - Teams and Team Leadership
+  PSYC 690 - Practicum I
+  PSYC 692 - Practicum II
+  PSYC 694 - Practicum III
+  PSYC 695 - School Psychology Internship
+  PSYC 699 - Master’s Thesis
+Reading
+  READ 322 - Reading in Secondary Content Areas
+  READ 363 - Foundations of Reading
+  READ 460 - Reading Assessment and Instruction
+  READ 464 - Reading-Writing Connection
+  READ 480 - Problems in Reading
+  READ 614 - Foundations of Reading
+  READ 617 - Reading Assessment and Instruction
+Sociology
+  SOCI 111 - Introduction to Sociology
+  SOCI 222 - Social Problems
+  SOCI 350 - Sociology of Aging
+  SOCI 355 - Social Deviance
+  SOCI 368 - Sociology of the Family
+  SOCI 380 - Urban and Community Studies
+  SOCI 385 - Social Theory
+  SOCI 388 - Crime and Delinquency
+  SOCI 415 - Social Research
+  SOCI 416 - Social Statistics
+  SOCI 438 - Political Sociology
+  SOCI 442 - Cultural Diversity
+  SOCI 460 - Ethics and Social Issues
 Sociology
   SOCI 477 - Sociology of Religion
   SOCI 480 - Inequality and Social Justice
@@ -433,539 +2024,3 @@ Uganda Studies Program
   CHIS 4U0 - East African History From 1800 to Independence
   CSOW 4U0 - Social Work Practicum
   CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Sociology
-  SOCI 477 - Sociology of Religion
-  SOCI 480 - Inequality and Social Justice
-  SOCI 495 - Sociology Seminar
-  SOCI 498 - Sociological Practice I
-  SOCI 516 - Social Statistics
-  SOCI 542 - Cultural Diversity
-  SOCI 550 - Sociology of Aging
-  SOCI 560 - Ethics and Social Issues
-  SOCI 568 - Sociology of the Family
-  SOCI 577 - Sociology of Religion
-  SOCI 580 - Inequality and Social Justice
-  SOCI 615 - Social Research
-Social Work
-  SOCW 230 - Introduction to Social Work
-  SOCW 250 - Person to Person: The Fundamental Skills of Relating
-  SOCW 327 - Micro/Mezzo Human Behavior Theory
-  SOCW 329 - Diversity, Power, and Oppression
-  SOCW 351 - Social Work Practice with Micro Systems
-  SOCW 381 - Field Practicum I
-  SOCW 415 - Social Research
-  SOCW 416 - Program and Practice Evaluation
-  SOCW 441 - Social Welfare Policy and Services
-  SOCW 442 - Policy Analysis and Practice
-  SOCW 451 - Social Work Practice with Macro Systems
-  SOCW 481 - Field Practicum II
-  SOCW 615 - Social Work Research Methods
-  SOCW 616 - Program and Practice Evaluation
-  SOCW 625 - Human Behavior in the Social Environment
-  SOCW 626 - Diversity, Power and Oppression
-  SOCW 641 - Social Welfare Policy and Services
-  SOCW 642 - Policy Analysis and Practice
-  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
-  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
-  SOCW 681 - Foundation Field Practicum I
-  SOCW 682 - Foundation Field Practicum II
-  SOCW 690 - Social Services Internship
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-Theatre
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Sociology
-  SOCI 477 - Sociology of Religion
-  SOCI 480 - Inequality and Social Justice
-  SOCI 495 - Sociology Seminar
-  SOCI 498 - Sociological Practice I
-  SOCI 516 - Social Statistics
-  SOCI 542 - Cultural Diversity
-  SOCI 550 - Sociology of Aging
-  SOCI 560 - Ethics and Social Issues
-  SOCI 568 - Sociology of the Family
-  SOCI 577 - Sociology of Religion
-  SOCI 580 - Inequality and Social Justice
-  SOCI 615 - Social Research
-Social Work
-  SOCW 230 - Introduction to Social Work
-  SOCW 250 - Person to Person: The Fundamental Skills of Relating
-  SOCW 327 - Micro/Mezzo Human Behavior Theory
-  SOCW 329 - Diversity, Power, and Oppression
-  SOCW 351 - Social Work Practice with Micro Systems
-  SOCW 381 - Field Practicum I
-  SOCW 415 - Social Research
-  SOCW 416 - Program and Practice Evaluation
-  SOCW 441 - Social Welfare Policy and Services
-  SOCW 442 - Policy Analysis and Practice
-  SOCW 451 - Social Work Practice with Macro Systems
-  SOCW 481 - Field Practicum II
-  SOCW 615 - Social Work Research Methods
-  SOCW 616 - Program and Practice Evaluation
-  SOCW 625 - Human Behavior in the Social Environment
-  SOCW 626 - Diversity, Power and Oppression
-  SOCW 641 - Social Welfare Policy and Services
-  SOCW 642 - Policy Analysis and Practice
-  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
-  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
-  SOCW 681 - Foundation Field Practicum I
-  SOCW 682 - Foundation Field Practicum II
-  SOCW 690 - Social Services Internship
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-Theatre
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Sociology
-  SOCI 477 - Sociology of Religion
-  SOCI 480 - Inequality and Social Justice
-  SOCI 495 - Sociology Seminar
-  SOCI 498 - Sociological Practice I
-  SOCI 516 - Social Statistics
-  SOCI 542 - Cultural Diversity
-  SOCI 550 - Sociology of Aging
-  SOCI 560 - Ethics and Social Issues
-  SOCI 568 - Sociology of the Family
-  SOCI 577 - Sociology of Religion
-  SOCI 580 - Inequality and Social Justice
-  SOCI 615 - Social Research
-Social Work
-  SOCW 230 - Introduction to Social Work
-  SOCW 250 - Person to Person: The Fundamental Skills of Relating
-  SOCW 327 - Micro/Mezzo Human Behavior Theory
-  SOCW 329 - Diversity, Power, and Oppression
-  SOCW 351 - Social Work Practice with Micro Systems
-  SOCW 381 - Field Practicum I
-  SOCW 415 - Social Research
-  SOCW 416 - Program and Practice Evaluation
-  SOCW 441 - Social Welfare Policy and Services
-  SOCW 442 - Policy Analysis and Practice
-  SOCW 451 - Social Work Practice with Macro Systems
-  SOCW 481 - Field Practicum II
-  SOCW 615 - Social Work Research Methods
-  SOCW 616 - Program and Practice Evaluation
-  SOCW 625 - Human Behavior in the Social Environment
-  SOCW 626 - Diversity, Power and Oppression
-  SOCW 641 - Social Welfare Policy and Services
-  SOCW 642 - Policy Analysis and Practice
-  SOCW 651 - Foundations of Evidence-Based Social Work Practice I
-  SOCW 652 - Foundations of Evidence-Based Social Work Practice II
-  SOCW 681 - Foundation Field Practicum I
-  SOCW 682 - Foundation Field Practicum II
-  SOCW 690 - Social Services Internship
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
