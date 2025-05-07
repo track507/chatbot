@@ -109,3621 +109,740 @@ Athletic Training
   MATP 654 - Therapeutic Exercise Lab
   MATP 661 - Seminar in Athletic Training
   MATP 662 - Psychology of Injury in Athletics
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
-American Studies Program
-  CPOL 4A3 - Topics in International Affairs & Globalization
-  CPOL 4A4 - Internship
-  CPOL 4A5 - Mentorship Course (optional)
-Australia Studies Centre
-  CHIS 4S0 - Indigenous History, Cultures and Identity
-  CINT 4S0 - View From Australia: Issues in Religion, Politics
-  CTHE 4S0 - Faith and the Contemporary Artist I
-  CTHE 4S0 - Faith and the Contemporary Artist II
-  CXXX 4SX - Discipline courses in dance, drama, music, drawing/graphic design, theology/ministry
-China Studies Program
-  CART 4C0 - Chinese Painting
-  CBUS 4C0 - International Business in China
-  CBUS 4C1 - Business Internship
-  CEXS 2C0 - Tai Chi
-  CFOR 1C0 - Chinese I
-  CFOR 1C1 - Chinese II
-  CHIS 3C0 - Chinese History
-  CHUM 4C1 - Dimensions of East Asian Culture
-  CINT 4C0 - Intercultural Communication
-  CPHI 4C0 - Eastern Philosophy and Religions
-  CPOL 4C0 - Contemporary Society: Public Policy and Economic Development
-India Studies Program
-  CART 4I0 - Indian Design: Traditional Costumes and Textiles
-  CART 4I1 - Indian Arts & Paintings
-  CBIB 4I0 - India Religious Landscape
-  CBUS 4I0 - Current Perspective of Business In India
-  CENG 4I0 - Indian Literature
-  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
-  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
-  CSOC 4I1 - Indian Society & Social Work Intervention
-  CXXX 4I? - Field Experience & Internship
-Latin American Studies Program
-  CBIO 4L0 - Environmental Science Seminar
-  CBIO 4L1 - Field Research
-  CBUS 4L0 - Business Seminar
-  CFOR 2L0/3L0 - Spanish Language Study
-  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
-  CFOR 4L0 - Practicum/Internship/Case Study
-  CFOR 4L1 - Travel Practicum
-  CFOR 4L2 - Language and Literature Seminar
-  CINT 4L0 - Responses to Third World Reality Seminar
-Los Angeles Film Studies
-  CJMC 4F0 - Faith and Artistic Development in Film
-  CJMC 4F1 - Internship: Inside Hollywood
-  CTHE 4F0 - Hollywood Production Workshop
-  CTHE 4F2 - Professional Screenwriting
-  CTHE 4F3 - Independent Study
-  CTHE 4F4 - Professional Acting for Camera
-  CTHE 4F5 - Narrative Storytelling
-  CUNI 4F0 - Internship: Inside Hollywood
-Middle East Studies Program
-  CANT 4e0 - Peoples and Cultures of the Middle East
-  CFOR 1E0 - Introduction to Arabic Language
-  CHIS 3E0 - Islamic Thought and Practice
-  CHIS 4E0 - Conflict and Change in the Middle East
-Oxford Scholars’ Semester
-  CENG 4O1 - Tutorials
-  CENG 4O2 - Integrative Seminar
-  CENG 4O3 - British Landscape
-Oxford Summer Program
-  CENG 4O4 - The Christian Tradition in the British Isles
-  CENG 4O5 - Topical Seminars and Tutorials
-Uganda Studies Program
-  CBIB 4U0 - Faith and Action in the Ugandan Context
-  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
-  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
-  CBIB 4U3 - Uganda Studies Emphasis Practicum
-  CENG 4U0 - African Literature
-  CHIS 4U0 - East African History From 1800 to Independence
-  CSOW 4U0 - Social Work Practicum
-  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
-Biblical Text Online
-  BIBO 101 - Jesus: His Life and Teachings
-  BIBO 102 - Early Christians: Life, Literature and Community
-  BIBO 103 - Story of the New Testament
-Computer Science Online
-  CSO 115 - Introduction to Programming Using Scripting
-  CSO 116 - Applied Programming Using Scripting
-English Online
-  ENGO 111 - Composition and Rhetoric
-  ENGO 112 - Composition and Literature
-Information Technology Online
-  ITO 220 - Introduction to Databases and Database Management Systems
-  ITO 221 - Fundamentals of Networking and Data Communications
-Mathematics Online
-  MATO 130 - Finite Math for Applications
-Psychology Online
-  PSYO 120 - Introduction to Psychology
-  PSYO 232 - Developmental Psychology
-  PSYO 241 - Cognition and Learning
-  PSYO 278 - Stress and Its Management
-  PSYO 382 - Abnormal Psychology
-  PSYO 392 - Child Psychology
-Social Work
-  SOCW 702 - Integrative Seminar Advanced Standing
-  SOCW 725 - Spirituality and Social Work
-  SOCW 741 - Globalization and Social Justice
-  SOCW 744 - Management and Funding of Nonprofit Organizations
-  SOCW 745 - Leading and Managing Change in Nonprofit Organizations
-  SOCW 748 - Psychopathology in Social Work Practice
-  SOCW 751 - Advanced Evidence-Based Practice Interventions I
-  SOCW 752 - Advanced Evidence-Based Practice Interventions II
-  SOCW 781 - Advanced Social Work Field Practicum I
-  SOCW 782 - Advanced Social Work Field Practicum II
-  SOCW 799 - Master’s Thesis
-Spanish
-  SPAN 111 - Elementary Spanish I
-  SPAN 112 - Elementary Spanish II
-  SPAN 221 - Intermediate Spanish I
-  SPAN 222 - Intermediate Spanish II
-  SPAN 290 - Intermediate Conversation Lab
-  SPAN 301 - Advanced Communication
-  SPAN 305 - Immersion Communication
-  SPAN 310 - Spanish for Healthcare Professionals
-  SPAN 320 - Advanced Grammar
-  SPAN 321 - Advanced Composition
-  SPAN 342 - Peninsular Spanish Culture
-  SPAN 343 - Latin American Culture
-  SPAN 345 - Culture of South American Southern Cone
-  SPAN 360 - Survey of Peninsular Literature
-  SPAN 361 - Survey of Latin American Literature
-  SPAN 365 - Survey of South American Southern Cone Literature
-  SPAN 390 - Advanced Conversation Lab
-  SPAN 444 - Revolution and Insurrection in Latin America
-  SPAN 460 - Drama
-  SPAN 461 - Novel
-  SPAN 462 - Short Story
-  SPAN 470 - Christian Expression in Hispanic Writings
-  SPAN 471 - Borges and Cortázar
-  SPAN 480 - Methods of Spanish Acquisition
-  SPAN 499 - Spanish Capstone
-Special Education
-  SPED 371 - Teaching Students with Special Needs
-  SPED 374 - Emotional and Behavioral Disorders in Children
-  SPED 477 - Teaching Students with High Incidence Disabilities
-  SPED 481 - Teaching Students with Low Incidence Disabilities
-  SPED 674 - Emotional and Behavioral Disorders in Children
-  SPED 677 - Teaching Students with High Incidence Disabilities
-  SPED 681 - Teaching Students with Low Incidence Disabilities
-  SPED 684 - Assessment in Special Education
-Technology
-  TECH 210 - Technology in Education
-Theatre
-  THEA 101 - Transforming Artists: An Orientation to the Theatre Major
-  THEA 137 - Technical Practicum
-  THEA 138 - Theatre Workshop: Performance
-  THEA 205 - Musical Theatre Class Voice I
-  THEA 206 - Musical Theatre Class Voice II
-  THEA 211 - Private Voice for Musical Theatre
-  THEA 220 - Introduction to Theatre
-  THEA 221 - Beginning Jazz
-  THEA 222 - Beginning Ballet
-  THEA 223 - Beginning Tap
-  THEA 224 - Beginning Modern
-  THEA 226 - Acting I
-  THEA 227 - Introduction to Technical Theatre
-  THEA 228 - Dance Conditioning
-  THEA 230 - Fashion as Cultural Reflection
-  THEA 320 - Voice and Diction for the Stage
-  THEA 321 - Movement for the Stage
-  THEA 325 - Acting II
-  THEA 327 - Acting III: Improvisation
-  THEA 330 - Theatre Management
-  THEA 331 - Rendering Media for Theatre Design
-  THEA 332 - Costume Design
-  THEA 350 - Acting IV: Period Styles
-  THEA 353 - Acting V: Acting V: Stanislavski/Method Acting
-  THEA 360 - Musical Theatre Performance Workshop
-  THEA 411 - Private Voice for Musical Theatre
-  THEA 421 - Advanced Jazz
-  THEA 422 - Advanced Ballet
-  THEA 423 - Advanced Tap
-  THEA 424 - Advanced Modern
-  THEA 425 - Advanced Dance Auditioning
-  THEA 430 - Advanced Costume Design
-  THEA 454 - Beginning Directing
-  THEA 455 - Acting VI: Shakespeare
-  THEA 456 - Acting VII: Auditioning
-  THEA 457 - Playwriting
-  THEA 460 - Musical Theatre Directing Workshop
-  THEA 461 - Children’s Theatre
-  THEA 463 - Educational Theatre
-  THEA 466 - Scene Design
-  THEA 467 - Theatre Lighting
-  THEA 469 - Stage Makeup
-  THEA 470 - Advanced Directing
-  THEA 480 - Arts and Culture: A Christian Aesthetic
-  THEA 490 - History of Theatre
-University Courses
-  UNIV 011 - Learning Strategies
-  UNIV 012 - Student Success Workshop
-  UNIV 111 - Foundations for Success
-  UNIV 245 - Leadership Foundations
-  UNIV 419 - Research Readings
-  UNIV 420 - Basic Research Methods
-  UNIV 421 - Research Writing
-American Studies Program
-  CPOL 4A0 - Topics in Leadership and Vocation
-  CPOL 4A1 - Topics in National Affairs
-  CPOL 4A2 - Topics in Leadership Management
+Athletic Training
+  MATP 690 - Field Experience I
+  MATP 691 - Field Experience II
+Bible Core
+  BCOR 310 - The Search for Meaning
+Biblical Greek
+  BGRK 221 - New Testament Greek for Beginners I
+  BGRK 222 - New Testament Greek for Beginners II
+  BGRK 331 - Elementary Greek Readings I
+  BGRK 332 - Elementary Greek Readings II
+  BGRK 441 - Exegetical Greek Seminar I
+  BGRK 442 - Exegetical Greek Seminar II
+  BGRK 611 - Elementary Greek I
+  BGRK 612 - Elementary Greek II
+  BGRK 621 - Intermediate New Testament Greek
+  BGRK 623 - Seminar in the Synoptic Gospels
+  BGRK 624 - Exegetical Seminar in Acts
+  BGRK 625 - Exegetical Seminar in the Epistles
+  BGRK 628 - Seminar in New Testament Textual Criticism
+Biblical Text
+  BIBL 101 - Jesus: His Life and Teachings
+  BIBL 102 - Early Christians: Life, Literature and Community
+  BIBL 103 - Story of the New Testament
+  BIBL 211 - Message of the Old Testament
+  BIBL 320 - Introduction to Biblical Interpretation
+  BIBL 359 - The Gospel of John
+  BIBL 364 - Pauline Mission and Message
+  BIBL 365 - General Epistles
+  BIBL 367 - The Book of Acts
+  BIBL 451 - The Pentateuch
+  BIBL 452 - Historical Books of the Old Testament
+  BIBL 453 - The Devotional and Wisdom Literature of the Old Testament
+  BIBL 454 - The Prophetic Literature of the Old Testament
+  BIBL 458 - The Synoptic Gospels
+  BIBL 460 - Galatians and Romans
+  BIBL 461 - The Corinthian Letters
+  BIBL 466 - Book of Revelation
+  BIBL 601 - German for Theological Studies
+  BIBL 610 - Critical Interpretation of the Old Testament
+  BIBL 611 - Old Testament Theology
+  BIBL 620 - Critical Interpretation of the New Testament
+  BIBL 621 - New Testament Theology
+  BIBL 627 - Biblical Exegesis
+  BIBL 630 - Biblical Theology
+  BIBL 649 - Women in the Old Testament
+  BIBL 650 - Women in the New Testament
+  BIBL 651 - The Pentateuch
+  BIBL 652 - Historical Books of the Old Testament
+  BIBL 653 - Devotional and Wisdom Literature of the Old Testament
+  BIBL 654 - Prophetic Literature of the Old Testament
+  BIBL 658 - The Synoptic Gospels
+  BIBL 659 - The Gospel of John
+  BIBL 660 - The Books of Galatians and Romans
+  BIBL 661 - The Corinthian Letters
+  BIBL 662 - Backgrounds of the New Testament and Early Christianity
+  BIBL 663 - The Pastoral Epistles
+  BIBL 664 - The Book of Hebrews
+  BIBL 665 - The General Epistles
+  BIBL 666 - The Book of Revelation
+  BIBL 667 - The Book of Acts
+  BIBL 671 - Baptism and Eucharist
+  BIBL 672 - Sermon on the Mount
+  BIBL 680 - Christian Scripture
+  BIBL 682 - Teaching Scripture in Contemporary Contexts
+  BIBL 684 - New Testament Hermeneutics
+  BIBL 699 - Master’s Thesis
+Hebrew
+  BHEB 471 - Introduction to Hebrew I
+  BHEB 472 - Introduction to Hebrew II
+  BHEB 622 - Elementary Syriac
+  BHEB 623 - Intermediate Syriac
+  BHEB 671 - Elementary Hebrew I
+  BHEB 672 - Elementary Hebrew II
+  BHEB 681 - Intermediate Hebrew Readings I
+  BHEB 682 - Intermediate Hebrew Readings II
+Christian Ministry
+  BIBM 330 - Foundation of Youth Ministry
+  BIBM 331 - Youth Ministry Design
+  BIBM 390 - Family Relations
+  BIBM 391 - Ministry in Context
+  BIBM 395 - Introduction to Hospital Ministry
+  BIBM 401 - Christian Leadership
+  BIBM 403 - Christian Worship
+  BIBM 404 - Worship Leading
+  BIBM 405 - Women in Christian Tradition
+  BIBM 413 - Seminar in Adolescent Moral/Sexual Issues
+  BIBM 422 - Ministry on the University Campus
+  BIBM 429 - Field Education
+  BIBM 434 - Spiritual Formation of Children
+  BIBM 435 - Adolescent Spiritual Formation
+  BIBM 439 - Teaching and Learning for Spiritual Formation
+  BIBM 442 - Leadership of Youth and Family
+  BIBM 451 - Sexuality and Personal Issues of Sexuality
+  BIBM 480 - Arts and Culture: A Christian Aesthetic
+  BIBM 491 - Senior Capstone Experience
+  BIBM 492 - Children and Family Ministry
+  BIBM 493 - Preaching
+  BIBM 601 - Church Leadership
+  BIBM 602 - GST Orientation
+  BIBM 603 - Foundations of the Theology of Ministry
+  BIBM 604 - Homiletics
+  BIBM 605 - Preaching Old Testament Literature
+  BIBM 607 - Effective Practice of Ministry
+  BIBM 609 - Healthcare Ministry
+  BIBM 614 - Theology and Ministry in Times of Crisis
+  BIBM 616 - Witness in Global Contexts
+Christian Ministry
+  BIBM 621 - Fundamentals of Spiritual Nurture
+  BIBM 627 - Preaching New Testament Literature
+  BIBM 628 - Preaching Pauline Literature
+  BIBM 629 - Field Education Contextual Immersion
+  BIBM 635 - Engaging Adolescents in Christian Formation
+  BIBM 637 - Ministry with Older Adults
+  BIBM 644 - Pastoral Ministry Skills for Church Leaders
+  BIBM 645 - Managing Conflict in Churches
+  BIBM 646 - Youth and Family Ministry
+  BIBM 648 - Christian Spiritual Formation
+  BIBM 651 - Supervised Practice of Ministry I
+  BIBM 652 - Supervised Practice of Ministry II
+  BIBM 656 - Supervised Practice of Ministry VI
+  BIBM 657 - Contexts of Ministry
+  BIBM 658 - The Practice of Ministerial Leadership
+  BIBM 670 - Worship
+  BIBM 673 - Ministry with Children and Families
+  BIBM 678 - GST Senior Portfolio Preparation
+  BIBM 681 - Preaching in Contemporary Contexts
+  BIBM 692 - Church Curriculum
+  BIBM 693 - Church and Family Ministry
+  BIBM 694 - Church Administration
+  BIBM 696 - Theological Perspectives on Human Behavior
+  BIBM 699 - Master’s Thesis
+  BIBM 700 - Guided Study
+  BIBM 701 - Doctor of Ministry Orientation
+  BIBM 702 - Biblical and Theological Foundations of Ministry
+  BIBM 703 - Preaching in Contemporary Contexts
+  BIBM 706 - Christian Leadership Development
+  BIBM 710 - Crisis Counseling and Brief Therapy
+  BIBM 711 - Preaching and Theology
+  BIBM 713 - Preaching From the New Testament
+  BIBM 716 - Theological Foundations for the Practice of Ministry
+  BIBM 717 - Christian Spiritual Formation
+  BIBM 718 - Theological Practice of Evangelism
+  BIBM 719 - Missional Ecclesiology
+  BIBM 721 - Theology of Culture
+  BIBM 723 - Worship
+  BIBM 724 - Project/Thesis Seminar I
+  BIBM 725 - Project/Thesis Seminar
+  BIBM 726 - Project/Thesis Seminar II
+  BIBM 731 - Leading Change in Christian Organizations
+  BIBM 733 - Culture, Context, and Community
+  BIBM 735 - Seminar in Preaching
+  BIBM 742 - Forming Communities of Faith
+  BIBM 745 - Living in the Tradition
+  BIBM 798 - Continuing DMin Study
+  BIBM 799 - DMin Project/Thesis
+Church History
+  BIBH 380 - Survey of Church History
+  BIBH 383 - Restoration History
+  BIBH 432 - Story of Christian Spirituality
+  BIBH 633 - Readings in Christian Spirituality
+  BIBH 651 - History of Christianity I: Early to Medieval
+  BIBH 652 - History of Christianity II: Reformation to Present
+  BIBH 655 - History of Christianity in America
+  BIBH 664 - Advanced Restoration History
+  BIBH 667 - Research Problems in Church History
+  BIBH 670 - Issues in Global Christianity
+  BIBH 671 - Explorations in the Christian East
+  BIBH 674 - Christian Mission in Global Contexts
+  BIBH 683 - Restoration History and Polity
+  BIBH 699 - Master’s Thesis
+Missions
+  BMIS 270 - Living the Mission
+  BMIS 345 - Understanding Culture for Global Service
+  BMIS 371 - Religion in Global Contexts
+  BMIS 391 - Service in Global Contexts
+  BMIS 420 - Gospel in a Multicultural World
+  BMIS 421 - Mission as Spiritual Formation
+  BMIS 458 - Focused Training in Missions
+  BMIS 481 - Global Urban Ministry
+  BMIS 610 - Evangelism in North America
+  BMIS 619 - Church and Mission
+  BMIS 633 - Leadership Training
+  BMIS 645 - Missionary Anthropology
+  BMIS 646 - Foundations of Missional Practice
+  BMIS 647 - Readings in Contextual Theology
+  BMIS 648 - Planting and Developing Churches
+  BMIS 649 - Reading and Engaging Contemporary Cultures
+  BMIS 650 - Leadership in Intercultural Contexts
+  BMIS 652 - Developing New Churches in North America
+  BMIS 653 - Growth Strategies for Established Churches
+  BMIS 669 - Introduction to Linguistics
+  BMIS 670 - Cross-Cultural Communication
+  BMIS 671 - Supervised Research in Missions
+  BMIS 672 - Religion in Global Contexts
+  BMIS 673 - History of Missions
+  BMIS 675 - Theology of Mission
+  BMIS 680 - Urban Missions
+  BMIS 689 - Folk Religions and New Spiritualities
+  BMIS 697 - Intercultural Competence for Global Service
+  BMIS 699 - Master’s Thesis
+Philosophy
+  BIBP 352 - Biomedical Ethics
+  BIBP 379 - Philosophy, Religion and Science
+  BIBP 380 - Introduction to Philosophy
+  BIBP 478 - Philosophy of Religion
+  BIBP 486 - Ethics
+  BIBP 487 - History of Ancient and Medieval Philosophy
+  BIBP 489 - History of Modern Philosophy
+  PHIL 275 - Introductory Logic and Critical Thinking
+  PHIL 378 - History and Philosophy of Science
+Philosophy
+  PHIL 379 - Philosophy, Religion and Science
+  PHIL 380 - Introduction to Philosophy
+  PHIL 451 - Philosophy and Social Justice
+  PHIL 478 - Philosophy of Religion
+  PHIL 486 - Ethics
+  PHIL 487 - History of Ancient and Medieval Philosophy
+  PHIL 489 - History of Modern Philosophy
+  PHIL 490 - Early Political Philosophy
+  PHIL 491 - Modern Political Philosophy
+Theology (Undergraduate)
+  BIBT 332 - Religious Teachings of C.S. Lewis
+  BIBT 342 - Christianity in Culture
+  BIBT 379 - The Church
+  BIBT 491 - Theology
+Theology (Graduate)
+  BIBD 642 - Contemporary Religious Thought
+  BIBD 647 - Research Problems in Theology
+  BIBD 660 - Systematic Theology I
+  BIBD 661 - Theological Explorations
+  BIBD 662 - Systematic Theology II
+  BIBD 672 - Graduate Studies
+  BIBD 678 - Philosophy of Religion
+  BIBD 686 - Christian Ethics
+  BIBD 699 - Master’s Thesis
+Biology at Au Sable
+  BIOA 302 - Lake Ecology and Management
+  BIOA 311 - Field Botany
+  BIOA 322 - Aquatic Biology
+  BIOA 345 - Wildlife Ecology
+  BIOA 355 - Watersheds in Global Development
+  BIOA 362 - Environmental Applications for Geographic Information Systems
+  BIOA 471 - Conservation Biology
+Biology
+  BIOL 101 - Biology - Human Perspective
+  BIOL 112 - General Biology I
+  BIOL 113 - General Biology II
+  BIOL 114 - General Biology I Laboratory
+  BIOL 115 - General Biology II Laboratory
+  BIOL 203 - Basic Biology for Teachers
+  BIOL 221 - Animal Biology
+  BIOL 222 - Plant Biology
+  BIOL 223 - Animal Biology Laboratory
+  BIOL 224 - Plant Biology Laboratory
+  BIOL 291 - Anatomy and Physiology I
+  BIOL 292 - Anatomy and Physiology II
+  BIOL 293 - Anatomy and Physiology I Laboratory
+  BIOL 294 - Anatomy and Physiology II Laboratory
+  BIOL 308 - Global Healthcare
+  BIOL 309 - Medicinal Botany
+  BIOL 312 - Cell Biology
+  BIOL 313 - Cell Biology Laboratory
+  BIOL 330 - Neurobiology
+  BIOL 332 - Mind and Wellness
+  BIOL 345 - Range and Wildland Plants
+  BIOL 351 - Genetics
+  BIOL 353 - General Microbiology
+  BIOL 354 - General Microbiology Lab
+  BIOL 355 - Microbiology
+  BIOL 357 - Microbiology Laboratory
+  BIOL 362 - Ecology
+  BIOL 364 - Ecology Laboratory
+  BIOL 370 - Field Biology
+  BIOL 380 - General Mammalogy
+  BIOL 399 - Biology Research
+  BIOL 401 - Secondary Science Teaching Methods
+  BIOL 403 - Marine Biology
+  BIOL 425 - Behavioral Biology: Theory and Methods
+  BIOL 448 - Biology of Aging
+  BIOL 454 - Immunology
+  BIOL 472 - Biochemistry I: Foundations of Biochemistry
+  BIOL 475 - Molecular Genetics
+  BIOL 476 - Biotechnology
+  BIOL 480 - Histology
+  BIOL 481 - Plant Systematics
+  BIOL 483 - Biostatistics
+  BIOL 484 - Developmental Biology
+  BIOL 486 - Comparative Botany
+  BIOL 487 - Comparative Zoology
+  BIOL 491 - Human Anatomy
+  BIOL 492 - Physiology
+  BIOL 493 - Human Anatomy Laboratory
+  BIOL 495 - Physiology Laboratory
+  BIOL 497 - Seminar in Biology
+  BIOL 498 - Cancer Biology
+Business Administration
+  BUSA 120 - Introduction to Business
+  BUSA 419 - International Business
+  BUSA 435 - Christian Business Leadership Perspectives
+  BUSA 530 - Leadership
+  BUSA 550 - Foundations of Analytics
+  BUSA 554 - Accounting and Finance for Managers
+  BUSA 636 - Organizational Behavior
+  BUSA 645 - International Business
+  BUSA 652 - Operations and Information Technology Management
+  BUSA 656 - Strategic Marketing
+  BUSA 661 - Global Supply Chain Management
+  BUSA 670 - Managerial Decision Making
+  BUSA 674 - Innovation
+  BUSA 678 - Business Law and Ethics
+Business Law
+  BLAW 363 - Legal Environment of Business
+  BLAW 365 - Law and Entrepreneurship
+  BLAW 461 - Business Law II
+Chemistry and Biochemistry
+  CHEM 101 - Consumer Chemistry
+  CHEM 111 - Introductory Chemistry Laboratory
+  CHEM 112 - Introductory Organic and Biological Chemistry Laboratory
+Chemistry and Biochemistry
+  CHEM 113 - Introductory Chemistry
+  CHEM 114 - Introductory Organic and Biological Chemistry
+  CHEM 131 - General Chemistry Laboratory I
+  CHEM 132 - General Chemistry Laboratory II
+  CHEM 133 - General Chemistry I
+  CHEM 134 - General Chemistry II
+  CHEM 203 - General Science for Elementary Teachers
+  CHEM 221 - Organic Chemistry Laboratory I
+  CHEM 223 - Organic Chemistry I
+  CHEM 243 - Elementary Biochemistry and Nutrition
+  CHEM 308 - Global Healthcare
+  CHEM 322 - Organic Chemistry Laboratory II
+  CHEM 324 - Organic Chemistry II
+  CHEM 333 - Physical Chemistry I
+  CHEM 334 - Physical Chemistry II
+  CHEM 341 - Environmental Chemistry
+  CHEM 355 - Analytical Chemistry I
+  CHEM 356 - Analytical Chemistry II
+  CHEM 375 - Molecular Modeling and Computational Chemistry
+  CHEM 393 - Introduction to Research
+  CHEM 401 - Secondary Science Teaching Methods
+  CHEM 413 - Physical Chemistry/Life Sciences
+  CHEM 423 - Chemistry and Biochemistry Seminar
+  CHEM 441 - Inorganic Chemistry Laboratory
+  CHEM 443 - Inorganic Chemistry
+  CHEM 453 - Biochemistry I: Foundations of Biochemistry
+  CHEM 454 - Biochemistry II: Gene Expression
+  CHEM 456 - Biochemistry III: Metabolism
+  CHEM 463 - Biochemistry Laboratory I
+  CHEM 464 - Biochemistry Laboratory II
+  CHEM 483 - Polymer Chemistry
+Contemporary Music Center
+  CMUS 4M0 - Faith, Music and Culture
+  CMUS 4M1 - Inside the Music Industry
+  CMUS 4M10 - Audio Engineering
+  CMUS 4M11 - Concert Production
+  CMUS 4M2 - Supervised Practicum
+  CMUS 4M3 - Essentials of Song Writing
+  CMUS 4M4 - Studio Recording
+  CMUS 4M5 - Performance
+  CMUS 4M6 - Strategic Management
+  CMUS 4M7 - Music Business Survey
+  CMUS 4M8 - Advanced Media Marketing
+  CMUS 4M9 - Advanced Studio Recording
+Communication
+  COMM 101 - Introduction to Communication
+  COMM 136 - Debate Workshop
+  COMM 211 - Speech and Rhetoric
+  COMM 230 - Interview Communication
+  COMM 231 - Small Group Communication
+  COMM 236 - General Communication Theory
+  COMM 241 - Interpersonal Communication
+  COMM 291 - Survey Research Methods
+  COMM 310 - Civil Discourse
+  COMM 322 - Discussion, Dissent and Debate
+  COMM 343 - Business and Professional Communication
+  COMM 345 - Intercultural Communication
+  COMM 376 - Family Communication
+  COMM 383 - Communication in Multi-National Organizations
+  COMM 392 - Rhetoric of Pop Culture
+  COMM 408 - Crisis Management in Organizations
+  COMM 415 - Political Communication
+  COMM 421 - Leadership and Communication
+  COMM 430 - Conflict Management
+  COMM 436 - Nonverbal Communication
+  COMM 450 - Gender Communication
+  COMM 460 - Health Communication
+  COMM 461 - Nonprofit Event Communication
+  COMM 462 - Executive Coaching
+  COMM 475 - Persuasion
+  COMM 483 - Professional Presentations
+  COMM 485 - Organizational Communication
+  COMM 486 - Training and Development
+  COMM 491 - Rhetorical Theory
+  COMM 499 - Communication Internship
+  COMM 508 - Crisis Management in Organizations
+  COMM 515 - Political Communication
+  COMM 521 - Leadership and Communication
+  COMM 536 - Nonverbal Communication
+  COMM 545 - Intercultural Communication
+  COMM 550 - Gender Communication
+  COMM 560 - Health Communication
+  COMM 561 - Nonprofit Event Communication
+  COMM 575 - Persuasion
+  COMM 583 - Communication in Multi-National Organizations
+  COMM 585 - Organizational Communication
+  COMM 586 - Training and Development
+  COMM 601 - Residency I: Ethics & Theory in Corporate Communication
+  COMM 620 - Quantitative Methods
+  COMM 621 - Qualitative Research Methods
+  COMM 631 - Leading Organizational Change
+  COMM 636 - Seminar in Communication Theory
+  COMM 641 - Seminar in Interpersonal Communication
+  COMM 642 - Seminar in Communication
+  COMM 645 - Global Leadership: Leading in a Diverse Context
+  COMM 675 - Seminar in Persuasion and Social Change
+  COMM 683 - Cultural Case Studies
+  COMM 685 - Seminar in Organizational Communication
+  COMM 686 - Communication Consulting and Assessment
+  COMM 687 - Principles of Rhetorical Criticism
+  COMM 697 - OD Capstone
+  COMM 698 - Research Project Thesis Equivalent
+Communication
+  COMM 699 - Master’s Thesis
+Communication Sciences and Disorders
+  CSD 111 - Beginning American Sign Language I
+  CSD 112 - Beginning American Sign Language II
+  CSD 225 - Phonetics
+  CSD 235 - Introduction to Speech-Language Pathology
+  CSD 308 - Global Healthcare
+  CSD 320 - Clinical Report Writing in Speech-Language Pathology
+  CSD 330 - Language Development and Disorders
+  CSD 352 - Audiology
+  CSD 353 - Hearing Rehabilitation
+  CSD 356 - Articulation and Phonologic Disorders
+  CSD 357 - Organic and Neurogenic Disorders
+  CSD 380 - Clinical Methods in Speech Language Pathology
+  CSD 381 - Anatomical and Physiological Processes of Communication
+  CSD 419 - Speech Science
+  CSD 471 - Intervention for Speech and Language Disorders in Schools
+  CSD 479 - Programs and Services for Elderly
+  CSD 485 - Communication Sciences and Disorders Capstone
+  CSD 493 - Clinical Practicum in Speech-Language Pathology
+  CSD 494 - Advanced Clinical Practicum in Communication Sciences and Disorders
+  CSD 601 - Phonological Disorders
+  CSD 602 - Aphasia
+  CSD 603 - Motor Speech Disorders
+  CSD 604 - Voice Disorders
+  CSD 606 - Fluency Disorders
+  CSD 607 - Augmentative and Alternative Communication
+  CSD 608 - Multicultural/Multilingual Considerations in CSD
+  CSD 609 - Advanced Audiology
+  CSD 610 - Language and Language-Learning Disorders in Preschool and School-Aged Children
+  CSD 611 - Language Disorders in Young Children and Special Populations
+  CSD 613 - Dysphagia and Related Disorders
+  CSD 614 - Cognitive-Communication Disorders
+  CSD 620 - Communication Research Methods
+  CSD 659 - Seminar in Diagnostic and Therapeutic Theory in Speech Pathology
+  CSD 661 - Special Problems in Speech Pathology and Audiology
+  CSD 670 - Seminar in Speech Pathology
+  CSD 693 - Clinical Practicum
+  CSD 694 - Advanced Clinical Practicum
+Conflict Management
+  CONR 601 - Conflict Theory and Communication
+  CONR 602 - Dynamics of Interpersonal Conflict
+  CONR 603 - Negotiation: Principles and Practice
+  CONR 604 - Mediation: Principles and Practice
+  CONR 605 - Negotiation and Mediation
+  CONR 606 - Theory I
+  CONR 610 - Managing Conflict in the Workplace
+  CONR 612 - Conflict Management Systems Design
+  CONR 615 - Managing Conflict in the Schools
+  CONR 617 - Conflict Resolution in the Church
+  CONR 618 - Conflict: The Christian Perspective
+  CONR 622 - The Organizational Ombudsman
+  CONR 628 - Foundations of Family Conflict Dynamics
+  CONR 630 - Advanced Family Mediation
+  CONR 632 - Conflict Management in Healthcare Organizations
+  CONR 635 - Identity, Culture and Conflict
+  CONR 637 - Dispute Resolution and the Legal System
+  CONR 638 - Ethics and Conflict Resolution
+  CONR 643 - Practicum in Conflict Resolution
+  CONR 645 - Transcending Conflict: Advanced Theory & Practice
+  CONR 647 - Careers in Peacemaking
+  CONR 651 - Critical Thinking and Analysis
+  CONR 653 - Communication and Facilitation
+  CONR 655 - Strategic Vision and Planning
+  CONR 657 - Practicum in Heritage Development
+  CONR 690 - Conflict Resolution Residency
+  CONR 725 - Beyond Power: The Theory and Practice of Appropriate Decision Making
+Cornerstone
+  CORE 110 - Cornerstone
+  CORE 115 - Introduction to Critical Thinking
+  CORE 210 - Human Identity and Community
+Computer Science
+  CS 115 - Introduction to Programming Using Scripting
+  CS 116 - Applied Programming Using Scripting
+  CS 120 - Programming I
+  CS 130 - Programming II: Data Structures
+  CS 220 - Computer Organization
+  CS 230 - Object-Oriented Programming
+  CS 301 - Language Lab
+  CS 311 - Contest Programming
+  CS 315 - Mobile Application Development
+  CS 316 - Advanced Mobile Application Development
+  CS 330 - Human-Computer Interaction
+  CS 332 - Design and Analysis of Algorithms
+  CS 341 - Numerical Methods
+  CS 352 - Programming Languages
+  CS 356 - Operating Systems
+  CS 365 - Theory of Computation
+  CS 374 - Software Engineering
+  CS 375 - Software Engineering II
+  CS 381 - Computer Graphics
+  CS 442 - Numerical Analysis
+  CS 467 - Introduction to Artificial Intelligence
+Criminal Justice
+  POLC 205 - Introduction to Criminal Justice
+  POLC 250 - Police Systems and Practices
+  POLC 320 - Criminal Law
+  POLC 330 - Domestic Violence
+  POLC 350 - Corrections: Prison, Probation, and Parole
+  POLC 355 - Social Deviance
+  POLC 365 - Search and Seizure
+  POLC 370 - Forensic Evidence
+  POLC 410 - Law and Inequality
+  POLC 420 - Law Enforcement Leadership
+  POLC 430 - Evidence and Procedure
+Criminal Justice
+  POLC 455 - Professionalism and Ethics in Criminal Justice
+  POLC 499 - Criminal Justice Internship
+Digital Entertainment Technology
+  DET 210 - Introduction to Digital Entertainment
+  DET 220 - Introduction to 3D Modeling
+  DET 230 - Introduction to Animation: Keyframes & Pixels
+  DET 260 - Game Engines
+  DET 310 - Digital Entertainment Technology II
+  DET 320 - Advanced 3D Modeling
+  DET 350 - Digital Entertainment Development
+  DET 410 - Digital Entertainment Technology III
+Design
+  DSGN 102 - Introduction to Interior Design
+  DSGN 111 - Design Drawing I
+  DSGN 201 - Fundamental Design I
+  DSGN 202 - Fundamental Design II
+  DSGN 211 - Design Drawing II
+  DSGN 221 - History of Architecture and Design I
+  DSGN 222 - History of Architecture and Design II
+  DSGN 232 - Digital Design Communication
+  DSGN 251 - Construction I: Materials and Methods
+  DSGN 301 - Intermediate Interior Design I
+  DSGN 302 - Intermediate Interior Design II
+  DSGN 351 - Interior Components
+  DSGN 352 - Building Systems
+  DSGN 401 - Advanced Interior Design
+  DSGN 402 - Design, Construction and Details for Interiors
+  DSGN 461 - Professional Principles and Practices (for Design Practitioners)
+  DSGN 463 - Field Experience
+Early Childhood
+  EACH 363 - Early Language and Literacy
+  EACH 451 - Guidance in Early Childhood
+  EACH 466 - Education of Young Children
+Economics
+  ECON 260 - Principles of Macroeconomics
+  ECON 261 - Principles of Microeconomics
+  ECON 438 - International Poverty and Development
+  ECON 463 - Managerial Economics
+Education
+  EDUC 211 - Educational Foundations and Multicultural Perspectives
+  EDUC 221 - Educational Psychology
+  EDUC 250 - Literature for Children
+  EDUC 287 - Integrating the Arts Across the Elementary School Curriculum
+  EDUC 312 - Field Experience in Guidance and Development
+  EDUC 323 - Integrated Math and Science: PreK-2
+  EDUC 331 - Teaching Social Studies in Pre K - Grade 8
+  EDUC 335 - Teaching in the Middle School
+  EDUC 370 - Teaching Math in Elementary Grades 3-6
+  EDUC 411 - Elementary Curriculum, Materials, and Media
+  EDUC 412 - Secondary Curriculum and Media
+  EDUC 431 - Elementary Management and Methods
+  EDUC 432 - Secondary Management and Methods
+  EDUC 449 - Professional Practice in Music Education
+  EDUC 476 - Effective Teaching Strategies for English Language Learners
+  EDUC 490 - Clinical Teaching
+  EDUC 499 - Internship
+  EDUC 620 - Instructional Strategies in the Teaching of Writing
+  EDUC 621 - Overcoming Learning Barriers
+  EDUC 622 - Theories and Strategies for Integrating Technology
+  EDUC 651 - Leading Continuous Improvement of Digital Learning
+  EDUC 652 - Leading Evolving Digital Learning Systems
+  EDUC 653 - Educational Research
+  EDUC 655 - Action Research for Classroom Teachers
+  EDUC 656 - School Finance
+  EDUC 660 - Practicum/Capstone in the School Principalship
+  EDUC 661 - Capstone in Curriculum and Instruction
+  EDUC 665 - Capstone in Special Education
+  EDUC 668 - Practicum/Capstone in the School Superintendent
+  EDUC 672 - Educational Facilities
+  EDUC 674 - Policy and Politics in Education
+  EDUC 676 - District Instructional Leadership
+  EDUC 680 - Allocating Resources and Structuring the School for Learning
+  EDUC 681 - Nurturing School Culture to Create a Learning Community
+  EDUC 682 - School Law, Ethics and the Learning Community
+  EDUC 683 - Implementing Continuous Improvement
+  EDUC 684 - Meeting the Learning Challenge
+  EDUC 686 - Reframing Learning
+  EDUC 687 - Managing Data to Improve Student Learning
+  EDUC 688 - Creating Effective Learning Environments
+  EDUC 691 - Education Workshop
+  EDUC 697 - Instructional Coaching
+Education-Online
+  EDUO 651 - Technology-Enhanced Learning Environments
+  EDUO 652 - Trends and Challenges in Emerging Technologies
+  EDUO 661 - Capstone in Learning with Emerging Technologies
+  EDUO 677 - Adult Development and Learning through Technology
+  EDUO 678 - Instructional Design and Technology
+  EDUO 683 - Implementing Continuous Improvement
+  EDUO 684 - Meeting the Learning Challenge
+  EDUO 686 - Reframing Learning
+  EDUO 687 - Managing Data to Improve Student Learning
+  EDUO 688 - Creating Effective Learning Environments
+English
+  ENGL 003 - Academic Literacies
+  ENGL 004 - Academic Literacies Workshop
+  ENGL 006 - Academic Composition Workshop
+  ENGL 007 - Rhetoric and Persuasion Workshop
+  ENGL 106 - Academic Composition
+  ENGL 107 - Rhetoric and Persuasion
+  ENGL 111 - Composition and Rhetoric
+  ENGL 112 - Composition and Literature
+  ENGL 221 - Major British Writers I
+  ENGL 222 - Major British Writers II
+  ENGL 231 - World Literature I
+  ENGL 232 - World Literature II
+  ENGL 262 - American Literature Before 1900
+  ENGL 263 - American Literature After 1900
+English
+  ENGL 301 - Introduction to the Major
+  ENGL 311 - Literary Theory and Criticism
+  ENGL 320 - Creative Nonfiction Workshop
+  ENGL 321 - Screenwriting
+  ENGL 322 - Fiction Workshop
+  ENGL 323 - Poetry Workshop
+  ENGL 324 - Play Writing Workshop
+  ENGL 325 - Advanced Composition
+  ENGL 326 - Business and Professional Writing
+  ENGL 327 - Scientific and Technical Writing
+  ENGL 328 - Social Justice: A Rhetoric
+  ENGL 329 - Rhetoric as Written Discourse
+  ENGL 330 - Advanced English Grammar
+  ENGL 331 - Narrative for Film and New Media
+  ENGL 332 - Introduction to Film Studies
+  ENGL 333 - Studies in World Cinema
+  ENGL 351 - Literature for Young Adults
+  ENGL 362 - American Literature Before 1860
+  ENGL 363 - American Literature After 1860
+  ENGL 376 - Fiction
+  ENGL 377 - Drama
+  ENGL 378 - Poetry
+  ENGL 380 - Interactive Narratives
+  ENGL 401 - Guided Study: Literary Criticism
+  ENGL 402 - Guided Study: Writing
+  ENGL 406 - Guided Study: American Literature
+  ENGL 407 - Guided Study: General Literature
+  ENGL 409 - Guided Study: British Literature After 1700
+  ENGL 410 - Language and Literature Internship
+  ENGL 432 - Introduction to Linguistics
+  ENGL 441 - Topics in Literary Criticism and Bibliography
+  ENGL 442 - Topics in Writing
+  ENGL 443 - Topics in the English Language
+  ENGL 445 - Topics in Teaching English and Reading
+  ENGL 446 - Topics in American Literature
+  ENGL 447 - Topics in General Literature
+  ENGL 448 - Topics in British Literature Before 1700
+  ENGL 449 - Topics in British Literature After 1700
+  ENGL 459 - English for Secondary Teachers
+  ENGL 464 - American Novel
+  ENGL 470 - Multicultural Literature
+  ENGL 471 - Literature and Belief
+  ENGL 472 - Film and Belief
+  ENGL 473 - Rhetoric and Belief
+  ENGL 481 - Medieval British Literature
+  ENGL 483 - Shakespeare
+  ENGL 484 - Seventeenth-Century British Literature
+  ENGL 495 - Eighteenth-Century British Literature
+  ENGL 496 - Nineteenth-Century British Literature
+  ENGL 497 - Twentieth-Century British Literature
+  ENGL 499 - Studies in World Literature
+  ENGL 520 - Creative Nonfiction Workshop
+  ENGL 522 - Fiction Workshop
+  ENGL 523 - Poetry Workshop
+  ENGL 525 - Advanced Composition
+  ENGL 526 - Business and Professional Writing
+  ENGL 529 - Rhetoric as Written Discourse
+  ENGL 530 - Advanced English Grammar
+  ENGL 532 - Introduction to Linguistics
+  ENGL 551 - Literature for Young Adults
+  ENGL 558 - Teaching English as a Second Language
+  ENGL 562 - American Literature Before 1860
+  ENGL 563 - American Literature After 1860
+  ENGL 564 - American Novel
+  ENGL 570 - Multicultural Literature
+  ENGL 571 - Literature and Belief
+  ENGL 572 - Film and Belief
+  ENGL 576 - Fiction
+  ENGL 577 - Drama
+  ENGL 578 - Poetry
+  ENGL 581 - Medieval British Literature
+  ENGL 583 - Shakespeare
+  ENGL 584 - Seventeenth-Century British Literature
+  ENGL 595 - Eighteenth-Century British Literature
+  ENGL 596 - Nineteenth-Century British Literature
+  ENGL 597 - Twentieth-Century British Literature
+  ENGL 610 - Studies in American Literature
+  ENGL 612 - Studies in British Literature
+  ENGL 613 - Literary Theory and Faith
+  ENGL 615 - World Literature
+  ENGL 620 - Literary Research Methods and Publication
+  ENGL 622 - Rhetoric and Belief
+  ENGL 623 - Discourse Theory
+  ENGL 624 - Non-Traditional Rhetoric
+  ENGL 625 - Rhetorical Methods and Publication
+  ENGL 631 - Contexts: Studies in a Single Author
+  ENGL 633 - Connections: Studies in a Literary Period
+  ENGL 650 - Contemporary Composition Theory
+  ENGL 652 - Rhetorical Theory and Praxis
+  ENGL 699 - Master’s Thesis
+English as a Second Language
+  FLEN 021 - Low-Intermediate Reading
+  FLEN 023 - Low-Intermediate Oral Communication
+  FLEN 027 - Low-Intermediate Grammar
+  FLEN 029 - Low-Intermediate Writing
+  FLEN 031 - High-Intermediate Reading
+  FLEN 033 - High-Intermediate Oral Communication
+  FLEN 037 - High-Intermediate Grammar
+  FLEN 039 - High-Intermediate Writing
+  FLEN 041 - Advanced Reading
+  FLEN 047 - Advanced Topics in ESL
