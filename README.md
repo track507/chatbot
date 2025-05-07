@@ -13,6 +13,7 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
 - Persistence: Stores configuration in `options.json` and `db.properties` for future runs
 - Flexible Setup: All endpoints, models, and settings stored in `options.json`
 - Dual API Design: Uses gRPC for embeddings, REST API for Qdrant management
+- Selenium Web scraper to pull the latest catalog information off the [ACU Catalog website](https://catalog.acu.edu/)
 
 
 ## Requirements
