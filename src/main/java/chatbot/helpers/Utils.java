@@ -20,6 +20,7 @@ import java.util.Scanner;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import chatbot.langchain.EmbeddingException;
 import chatbot.langchain.LangchainEmbed;
+import chatbot.scraper.CatalogScraper;
 
 public class Utils {
     private static final Scanner scanner = new Scanner(System.in);
@@ -257,21 +258,29 @@ public class Utils {
             runSqliteScript("db_files/export.sql");
         }
 
-        LangchainEmbed embedder = new LangchainEmbed(options);
+        Path dataDir = Paths.get("data");
+        boolean hasCatalogs = Files.exists(dataDir) &&
+            Files.list(dataDir).anyMatch(Files::isDirectory);
 
+        if (hasCatalogs) {
+            System.out.print("Catalog data already exists. Would you like to scrape again? (yes/no): ");
+        } else {
+            System.out.print("Would you like to scrape the latest catalog years? (yes/no): ");
+        }
+
+        String scrapeChoice = scanner.nextLine().trim().toLowerCase();
+        if (scrapeChoice.equals("yes")) {
+            System.out.println("Scraping...");
+            CatalogScraper scraper = new CatalogScraper();
+            scraper.scrapeAll();
+        }
+
+        LangchainEmbed embedder = new LangchainEmbed(options);
         System.out.print("Revectorize embeddings with current data? (yes/no): ");
         String vectorChoice = scanner.nextLine().trim().toLowerCase();
         if (vectorChoice.equals("yes")) {
             System.out.println("Revectorizing...");
             embedder.revectorizeAll();
-        }
-
-        System.out.println("Embedding user info...");
-        Path userInfoPath = Paths.get("user_info.json");
-        if (Files.exists(userInfoPath)) {
-            embedder.vectorizeUserInfo(userInfoPath.toString(), options);
-        } else {
-            System.out.println("Skipped: user_info.json not found.");
         }
 
         System.out.print("Generate SchemaSpy? (yes/no): ");

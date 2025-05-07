@@ -20,6 +20,7 @@ import chatbot.langchain.LangchainQuery;
 import java.nio.file.Paths;
 import java.sql.SQLException;
 import java.util.Scanner;
+import java.util.concurrent.CountDownLatch;
 
 public class Chatbot {
 
@@ -34,12 +35,7 @@ public class Chatbot {
             utils.setupInteractive();
             utils.clearConsole();
             options = SetupOptions.load();
-
-            LangchainEmbed embedder = new LangchainEmbed(options);
-            embedder.storeEmbeddingsInQdrant(Paths.get("user_info.json"), options);
-
             langchainQuery = new LangchainQuery(options);
-
         } catch (EmbeddingException e) {
             System.err.println("Embedding Error during setup: " + e.getMessage());
             e.printStackTrace();
@@ -66,9 +62,9 @@ public class Chatbot {
         System.out.println("Type 'exit' or 'quit' to quit or 'reset' to restart the conversation.");
 
         try (Scanner scanner = new Scanner(System.in)) {
-            String userProfile = utils.formatUserProfile(utils.loadUserInfo());
 
             while (true) {
+                String userProfile = utils.formatUserProfile(utils.loadUserInfo());
                 System.out.print("> ");
                 String input = scanner.nextLine().trim();
 
@@ -84,12 +80,23 @@ public class Chatbot {
 
                 System.out.println("\nAdvisor:");
 
+                CountDownLatch latch = new CountDownLatch(1);
                 langchainQuery.streamQuery(
-                        input,
-                        userProfile,
-                        token -> System.out.print(token), // onToken
-                        response -> System.out.println("\n") // onComplete
+                    input,
+                    userProfile,
+                    token -> System.out.print(token),
+                    response -> {
+                        System.out.println("\n");
+                        latch.countDown(); // Allow next user input
+                    }
                 );
+
+                try {
+                    latch.await(); // Block until response is done
+                } catch (InterruptedException e) {
+                    System.err.println("Interrupted while waiting for chatbot response.");
+                    Thread.currentThread().interrupt();
+                }
             }
         } catch (Exception e) {
             System.err.println("Error during conversation: " + e.getMessage());

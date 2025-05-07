@@ -66,8 +66,9 @@ public class LangchainEmbed {
                 .modelName(options.getEmbedModel())
                 .build();
         
-        logger.info("Using embedding model: " + options.getEmbedModel());
-        logger.info("Using Ollama endpoint: " + options.getOllamaEmbedEndpoint());
+        // debug
+        // logger.info("Using embedding model: " + options.getEmbedModel());
+        // logger.info("Using Ollama endpoint: " + options.getOllamaEmbedEndpoint());
         this.options = options;
         this.splitter = recursive(1000, 200); // same chunk size as in the original code (1000 chearacters, 200 overlap)
         ConnectionPool connectionPool = new ConnectionPool(
@@ -126,7 +127,7 @@ public class LangchainEmbed {
             );
 
             okhttp3.Request request = new okhttp3.Request.Builder()
-                .url(options.getOllamaEmbedEndpoint())
+                .url(options.getOllamaEmbedEndpoint() + "/api/embed")
                 .post(body)
                 .build();
 
@@ -168,9 +169,10 @@ public class LangchainEmbed {
             new TextDocumentParser()
         );
 
-        logger.info("Document loaded. Beginning chunking...");
+        //debug
+        //logger.info("Document loaded. Beginning chunking...");
         List<TextSegment> chunks = splitter.split(document);
-        logger.info("Chunking complete. Total chunks: " + chunks.size());
+        //logger.info("Chunking complete. Total chunks: " + chunks.size());
 
         logger.info("Generating embeddings...");
         List<Embedding> embeddings = chunks.stream()
@@ -240,29 +242,47 @@ public class LangchainEmbed {
             throw e;
         }
     }
-    public void storeEmbeddingsInQdrant(Path filePath, SetupOptions options) throws EmbeddingException, IOException {
+
+    public void storeEmbeddingsInQdrant(Path filePath, SetupOptions options, String label, boolean chunk) throws EmbeddingException, IOException {
         Document document = DocumentLoader.load(
             new FileSystemSource(filePath),
             new TextDocumentParser()
         );
-        List<TextSegment> chunks = splitter.split(document);
 
         List<TextSegment> segments = new ArrayList<>();
         List<Embedding> embeddings = new ArrayList<>();
 
-        logger.info("Starting embedding for " + chunks.size() + " chunks...");
+        if (chunk) {
+            // Use default chunking parameters (1000 tokens, 200-character sliding window)
+            logger.info("Chunking enabled. Splitting document...");
+            List<TextSegment> chunks = splitter.split(document);
+            logger.info("Starting embedding for " + chunks.size() + " chunks...");
 
-        for (int i = 0; i < chunks.size(); i++) {
-            String chunkText = chunks.get(i).text();
-            String chunkId = "chunk-" + i;
+            for (int i = 0; i < chunks.size(); i++) {
+                String chunkText = chunks.get(i).text();
+                String base = filePath.getFileName().toString().replace(".txt", "");
+                String chunkId = base + "-chunk-" + i;
 
-            Metadata metadata = Metadata.from(Map.of("id", chunkId));
-            segments.add(TextSegment.from(chunkText, metadata));
-            embeddings.add(embeddingModel.embed(chunkText).content());
+                Metadata metadata = Metadata.from(Map.of(
+                    "id", chunkId,
+                    "label", label,
+                    "catalog", label
+                ));
+                segments.add(TextSegment.from(chunkText, metadata));
+                embeddings.add(embeddingModel.embed(chunkText).content());
 
-            if (i % 10 == 0 || i == chunks.size() - 1) {
-                logger.info("Embedded chunk " + (i + 1) + "/" + chunks.size());
+                if (i % 10 == 0 || i == chunks.size() - 1) {
+                    logger.info("Embedded chunk " + (i + 1) + "/" + chunks.size());
+                }
             }
+        } else {
+            // No chunking: embed whole document
+            logger.info("Chunking disabled. Embedding full document...");
+            String text = document.text();
+            Metadata metadata = Metadata.from(Map.of("id", filePath.getFileName().toString()));
+            TextSegment segment = TextSegment.from(text, metadata);
+            segments.add(segment);
+            embeddings.add(embeddingModel.embed(text).content());
         }
 
         ensureCollectionExists(options.getQdrantCollection(), embeddings.get(0).vector().length);
@@ -280,14 +300,15 @@ public class LangchainEmbed {
             return;
         }
 
-        EmbeddingStore<TextSegment> embeddingStore = QdrantEmbeddingStore.builder()
+        QdrantEmbeddingStore embeddingStore = QdrantEmbeddingStore.builder()
                 .collectionName(options.getQdrantCollection())
                 .host(host)
                 .port(port)
                 .build();
 
         embeddingStore.addAll(embeddings, segments);
-        logger.info("Stored " + embeddings.size() + " embeddings into Qdrant.");
+        logger.info("Stored " + embeddings.size() + " embedding" + (embeddings.size() > 1 ? "s" : "") + " into Qdrant.");
+        embeddingStore.close();
     }
 
     public void vectorizeUserInfo(String filePath, SetupOptions options) throws EmbeddingException, IOException {
@@ -304,16 +325,16 @@ public class LangchainEmbed {
                 throw new EmbeddingException(filePath + " is empty or blank.");
             }
 
-            // Create embedding from user profile content
+            // create embedding from user profile content
             Embedding embedding = embeddingModel.embed(content).content();
 
-            // Create payload with metadata
+            // create payload with metadata
             TextSegment segment = TextSegment.from(
                 content,
-                Metadata.from(Map.of("id", "user_info"))
+                Metadata.from(Map.of("id", "student_information"))
             );
 
-            // Setup embedding store
+            // setup embedding store
             String host = options.getQdrantGrpcHost();
             int port = options.getQdrantGrpcPort();
             try {
@@ -328,7 +349,7 @@ public class LangchainEmbed {
                 throw new EmbeddingException("Invalid Qdrant URI", e);
             }
 
-            EmbeddingStore<TextSegment> embeddingStore = QdrantEmbeddingStore.builder()
+            QdrantEmbeddingStore embeddingStore = QdrantEmbeddingStore.builder()
                     .collectionName(options.getQdrantCollection())
                     .host(host)
                     .port(port)
@@ -336,9 +357,8 @@ public class LangchainEmbed {
 
             // Store embedding in Qdrant
             embeddingStore.add(embedding, segment);
-
             logger.info("Successfully vectorized and stored: " + filePath);
-
+            embeddingStore.close();
         } catch (IOException e) {
             throw new EmbeddingException("Failed to read " + filePath + ": " + e.getMessage(), e);
         }
@@ -363,15 +383,27 @@ public class LangchainEmbed {
         try {
             deleteCollection(options.getQdrantCollection());
         } catch (IOException e) {
-            System.err.println("Failed to delete collection: " + e.getMessage());
+            logger.warning("Failed to delete collection: " + e.getMessage());
         }
 
-        logger.info("Re-vectorizing all chunks...");
+        logger.info("Re-vectorizing all .txt files under 'data/'...");
+
         try {
-            storeEmbeddingsInQdrant(Paths.get("database_export.txt"), options);
-        } catch (Exception e) {
-            logger.severe("Failed to store embeddings during revectorization: " + e.getMessage());
-            e.printStackTrace();
+            Files.walk(Paths.get("data"))
+                .filter(path -> Files.isRegularFile(path) && path.toString().endsWith(".txt"))
+                .forEach(path -> {
+                    try {
+                        // get label from the parent directory name
+                        String label = path.getParent().getFileName().toString();
+                        logger.info("Embedding file: " + path.getFileName() + " with label: " + label);
+                        storeEmbeddingsInQdrant(path, options, label, true);
+                    } catch (Exception e) {
+                        logger.warning("Failed to embed file " + path + ": " + e.getMessage());
+                        e.printStackTrace();
+                    }
+                });
+        } catch (IOException e) {
+            logger.severe("Failed to walk through 'data/' directory: " + e.getMessage());
         }
     }
 }

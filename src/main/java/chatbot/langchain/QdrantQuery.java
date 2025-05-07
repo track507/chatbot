@@ -15,9 +15,8 @@ import java.net.URISyntaxException;
 import java.util.logging.Logger;
 
 public class QdrantQuery {
-
     private static final Logger logger = Logger.getLogger(QdrantQuery.class.getName());
-    private final EmbeddingStore<TextSegment> embeddingStore;
+    private final QdrantEmbeddingStore embeddingStore;
 
     public QdrantQuery(SetupOptions options) {
         String host = options.getQdrantGrpcHost();

@@ -1,0 +1,231 @@
+Catalog: 2020-2021 Catalog with Addendum [ARCHIVED CATALOG]
+URL: https://catalog.acu.edu/content.php?catoid=11&navoid=571
+
+Accounting
+  ACCT 210 - Financial Accounting
+  ACCT 211 - Managerial Accounting
+  ACCT 302 - Cost Accounting I
+  ACCT 304 - Income Tax I
+  ACCT 310 - Intermediate Accounting I
+  ACCT 311 - Intermediate Accounting II
+  ACCT 324 - Accounting Information Systems
+  ACCT 404 - Income Tax II
+  ACCT 405 - Fundamentals of Auditing
+  ACCT 410 - Advanced Accounting I
+  ACCT 499 - Accounting Internship
+Agricultural and Environmental Sciences
+  AENV 110 - Introduction to Agricultural and Environmental Systems and Technology
+  AENV 130 - Environmental and Technological Science
+  AENV 371 - Experimental Designs and Data Analysis
+  AENV 384 - Internship in Agricultural and Environmental Sciences
+Agribusiness
+  AGRB 261 - Principles of Agricultural and Applied Economics
+  AGRB 382 - Agribusiness Management
+Animal Science
+  ANSC 111 - General Animal Science
+  ANSC 235 - Companion Animal Management
+  ANSC 336 - Animal Nutrition
+  ANSC 337 - Animal Nutrition Lab
+  ANSC 343 - Animal Reproduction
+  ANSC 345 - Techniques in Animal Production
+  ANSC 360 - Horses and Horsemanship
+  ANSC 363 - Monogastric Livestock Production
+  ANSC 392 - Animal Health
+  ANSC 431 - Animal Biotechnology
+  ANSC 483 - Ruminant Livestock Production
+  ANSC 496 - Animal Breeding
+  ANSC 497 - Special Problems in Animal Science
+Anthropology
+  ANTH 101 - Introduction to Anthropology
+  ANTH 211 - Ethnography of U.S. Culture
+Applied Communication
+  APCO 311 - Rhetorical Messaging
+  APCO 411 - Theories of Change Management
+  APCO 412 - Health Communication Campaigns
+  APCO 421 - Executing Organizational Change
+  APCO 422 - Ethical Implications of Healthcare Policies and Regulation
+  APCO 441 - Consulting and Assessment for Organizational Change
+  APCO 465 - Healthcare Leadership and Relationship Management
+  APCO 491 - Applied Communication Capstone
+Art
+  ART 101 - Introduction to Art
+  ART 105 - Two-Dimensional Design
+  ART 106 - Three-Dimensional Design
+  ART 111 - Basic Drawing
+  ART 112 - Figure Drawing I
+  ART 213 - Figure Drawing II
+  ART 221 - Art History: General Survey I
+  ART 222 - Art History: General Survey II
+  ART 287 - Art Education Methods: All-Levels
+  ART 291 - Introduction to Black and White Photography
+  ART 292 - Digital Art Photography
+  ART 314 - Advanced Drawing
+  ART 315 - Printmaking
+  ART 317 - Illustration I
+  ART 318 - Illustration II
+  ART 324 - Art History: American
+  ART 325 - Art History: Christian
+  ART 331 - Sculpture I
+  ART 332 - Sculpture II
+  ART 341 - Painting I
+  ART 342 - Painting II
+  ART 347 - Plein Air Painting
+  ART 351 - Typography I
+  ART 352 - Typography II
+  ART 353 - Identity and Brand Design I
+  ART 358 - Interactive Design I
+  ART 361 - Ceramics I
+  ART 362 - Ceramics II
+  ART 371 - Jewelry/Metals I
+  ART 372 - Jewelry/Metals II
+  ART 423 - Art History: 20th Century
+  ART 425 - Art Theory
+  ART 433 - Sculpture III
+  ART 434 - Sculpture IV
+  ART 443 - Painting III
+  ART 444 - Painting IV
+  ART 453 - Identity and Brand Design II
+  ART 454 - Information Graphics
+  ART 455 - Persuasive Graphics
+  ART 456 - Graphic Design Portfolio
+  ART 458 - Interactive Design II
+  ART 463 - Ceramics III
+  ART 464 - Ceramics IV
+  ART 473 - Jewelry/Metals III
+  ART 474 - Jewelry/Metals IV
+  ART 490 - Advanced Studio Problems
+  ART 494 - Senior Exhibition I
+  ART 495 - Life and Career in Art
+  ART 496 - Senior Exhibition II
+Athletic Training
+  MATP 611 - Basic Sports Medicine
+  MATP 613 - Care and Prevention of Athletic Injuries
+  MATP 614 - Care and Prevention of Athletic Injuries Lab
+  MATP 621 - Research Methods
+  MATP 622 - Therapeutic Modalities
+  MATP 623 - Orthopedic Evaluation of Lower Extremity
+  MATP 624 - Orthopedic Evaluation of Lower Extremity Lab
+  MATP 631 - Organization and Administration in Athletic Training
+  MATP 632 - Pharmacology
+  MATP 633 - Orthopedic Evaluation of Upper Extremity
+  MATP 634 - Orthopedic Evaluation of Upper Extremity Lab
+India Studies Program
+  CBIB 4I0 - India Religious Landscape
+  CBUS 4I0 - Current Perspective of Business In India
+  CENG 4I0 - Indian Literature
+  CFAM 4I0 - Culinary Dimensions of Culture: Indian Cuisine, Traditions and Festivals
+  CSOC 4I0 - Contemporary India: Culture, Society, Challenges
+  CSOC 4I1 - Indian Society & Social Work Intervention
+  CXXX 4I? - Field Experience & Internship
+Latin American Studies Program
+  CBIO 4L0 - Environmental Science Seminar
+  CBIO 4L1 - Field Research
+  CBUS 4L0 - Business Seminar
+  CFOR 2L0/3L0 - Spanish Language Study
+  CFOR 4L0 - Perspective on Latin American History and Contemporary Issues
+  CFOR 4L0 - Practicum/Internship/Case Study
+  CFOR 4L1 - Travel Practicum
+  CFOR 4L2 - Language and Literature Seminar
+  CINT 4L0 - Responses to Third World Reality Seminar
+Los Angeles Film Studies
+  CJMC 4F0 - Faith and Artistic Development in Film
+  CJMC 4F1 - Internship: Inside Hollywood
+  CTHE 4F0 - Hollywood Production Workshop
+  CTHE 4F2 - Professional Screenwriting
+  CTHE 4F3 - Independent Study
+  CTHE 4F4 - Professional Acting for Camera
+  CTHE 4F5 - Narrative Storytelling
+  CUNI 4F0 - Internship: Inside Hollywood
+Middle East Studies Program
+  CANT 4e0 - Peoples and Cultures of the Middle East
+  CFOR 1E0 - Introduction to Arabic Language
+  CHIS 3E0 - Islamic Thought and Practice
+  CHIS 4E0 - Conflict and Change in the Middle East
+Oxford Scholars’ Semester
+  CENG 4O1 - Tutorials
+  CENG 4O2 - Integrative Seminar
+  CENG 4O3 - British Landscape
+Oxford Summer Program
+  CENG 4O4 - The Christian Tradition in the British Isles
+  CENG 4O5 - Topical Seminars and Tutorials
+Uganda Studies Program
+  CBIB 4U0 - Faith and Action in the Ugandan Context
+  CBIB 4U1 - Cross Cultural Immersion/Missions Practicum
+  CBIB 4U2 - African Traditional Religions, Christianity and Islam in Contemporary Uganda
+  CBIB 4U3 - Uganda Studies Emphasis Practicum
+  CENG 4U0 - African Literature
+  CHIS 4U0 - East African History From 1800 to Independence
+  CSOW 4U0 - Social Work Practicum
+  CXXX 4UX - Additional elective courses are scheduled, but not guaranteed
+Biblical Text Online
+  BIBO 101 - Jesus: His Life and Teachings
+  BIBO 102 - Early Christians: Life, Literature and Community
+  BIBO 103 - Story of the New Testament
+  BIBO 211 - Message of the Old Testament
+  BIBO 342 - Christianity in Culture
+Biology Online
+  BIOO 101 - Biology - Human Perspective
+Communication Online
+  COMO 211 - Speech and Rhetoric
+  COMO 225 - Communicating Professional Identity and ePortfolios
+Computer Science Online
+  CSO 115 - Introduction to Programming Using Scripting
+  CSO 116 - Applied Programming Using Scripting
+Education Online
+  EDUO 651 - Technology-Enhanced Learning Environments
+  EDUO 652 - Trends and Challenges in Emerging Technologies
+  EDUO 661 - Capstone in Learning with Emerging Technologies
+  EDUO 677 - Adult Development and Learning through Technology
+  EDUO 678 - Instructional Design and Technology
+  EDUO 683 - Implementing Continuous Improvement
+  EDUO 684 - Meeting the Learning Challenge
+  EDUO 686 - Reframing Learning
+  EDUO 687 - Managing Data to Improve Student Learning
+  EDUO 688 - Creating Effective Learning Environments
+English Online
+  ENGO 111 - Composition and Rhetoric
+  ENGO 112 - Composition and Literature
+  ENGO 221 - Major British Writers I
+History Online
+  HISO 118 - Civilization II
+Information Technology Online
+  ITO 220 - Introduction to Databases and Database Management Systems
+  ITO 221 - Fundamentals of Networking and Data Communications
+  ITO 225 - Web Technologies
+  ITO 310 - Introduction to Computer and Information Security
+  ITO 320 - Database Administration
+  ITO 410 - Systems Integration and Administration
+  ITO 415 - Networks and Security Administration
+  ITO 473 - Cybersecurity Policies, Standards, and Compliance
+Management Online
+  MGMO 330 - Management and Organizational Behavior
+  MGMO 390 - Innovation
+  MGMO 438 - Global Strategy
+Marketing Online
+  MKTO 320 - Principles of Marketing
+  MKTO 388 - Digital Marketing
+Mathematics Online
+  MATO 130 - Finite Math for Applications
+  MATO 131 - Calculus for Application
+  MATO 377 - Statistical Methods I
+Mathematics Workshop Online
+  MAWO 019 - Basic Mathematics
+  MAWO 130 - Finite Math for Applications
+Psychology Online
+  PSYO 120 - Introduction to Psychology
+  PSYO 232 - Developmental Psychology
+  PSYO 233 - Physiological Psychology
+  PSYO 241 - Cognition and Learning
+  PSYO 278 - Stress and Its Management
+  PSYO 305 - Peacemaking
+  PSYO 345 - Sexual Minorities: Identities and Communities
+  PSYO 348 - Psychology and Christianity
+  PSYO 351 - Experimental Psychology
+  PSYO 356 - Health Psychology
+  PSYO 368 - Psychological Tests and Measurements
+  PSYO 370 - Social Psychology
+  PSYO 382 - Abnormal Psychology
+  PSYO 388 - Teams and Team Leadership
+  PSYO 392 - Child Psychology
+  PSYO 451 - Statistics in Psychological Research
+  PSYO 493 - History of Theories in Psychology
