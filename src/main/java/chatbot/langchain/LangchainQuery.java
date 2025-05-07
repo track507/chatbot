@@ -132,6 +132,7 @@ public class LangchainQuery {
         Instructions:
         Use only the information provided in the context above. When multiple catalogs are involved, clearly label which catalog each fact or requirement comes from. Do not make assumptions.
         Only provide the catalog year and name if the user asks for it or if it's relevant to the answer. Do not include any other information about the catalog or university.
+        Always use the latest catalog year unless it's included in the user profile or if the user specifies otherwise.
         """, userProfile, context, userInput);
 
         List<ChatMessage> augmentedMessages = new ArrayList<>(history);

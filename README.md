@@ -66,10 +66,12 @@ A Java-based chatbot developed for **CS375: Software Engineering II**. It assist
    - Run Ollama with an embedding model and LLM
       ```
       ollama pull nomic-embed-text
+      ollama pull gemma3:4b-it-q8_0
+      ollama cp gemma3:4b-it-q8_0 gemma3-4b-it-q8_0
       ollama create Advisor -f ./ModelFiles/Advisor
       ollama run Advisor
       ```
-   - Due to powershell/command parsing issues, the `FROM` statement in the model file thinks that we are trying to import from a file instead of from an LLM. If your machine is struggling to run the model(s), you can switch it out with any model you like by changing the model name in the model file. For example, in the model file change the first line to something like `FROM: gemma3:1b` or `FROM llama3.2:3b` or `FROM qwen2.5:1.5b` to use smaller models at the cost of accuracy. 
+   - Due to Windows trying to parse and create a new file, but the system doesn't allow for `:`. So we need to first pull the model and copy it using `ollama cp` to name it something with `:`. If your machine is struggling to run the model(s), you can switch it out with any model you like by changing the model name in the model file.
 
 ### 4. Manual Configuration (Optional)
    These files are required, but automatically generated upon setup. `options.json` is used to store and pull information to connect to the LLM, Ollama, Qdrant, Database, etc. It's also meant to keep persistence if the program crashes or if the database is ever updated. 
