@@ -1,13 +1,15 @@
 package chatbot.scraper;
-
 import chatbot.helpers.SetupOptions;
+// https://github.com/bonigarcia/webdrivermanager
 import io.github.bonigarcia.wdm.WebDriverManager;
+// https://github.com/SeleniumHQ/selenium/tree/trunk/java
+// specifically (https://github.com/SeleniumHQ/selenium/tree/trunk/java/src/org/openqa/selenium)
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+// yuh
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;

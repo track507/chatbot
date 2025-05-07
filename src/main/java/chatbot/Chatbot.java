@@ -78,24 +78,25 @@ public class Chatbot {
                     continue;
                 }
 
-                System.out.println("\nAdvisor:");
+                if (!input.isEmpty()) {
+                    System.out.println("\nAdvisor:");
+                    CountDownLatch latch = new CountDownLatch(1);
+                    langchainQuery.streamQuery(
+                        input,
+                        userProfile,
+                        token -> System.out.print(token),
+                        response -> {
+                            System.out.println("\n");
+                            latch.countDown(); // Allow next user input
+                        }
+                    );
 
-                CountDownLatch latch = new CountDownLatch(1);
-                langchainQuery.streamQuery(
-                    input,
-                    userProfile,
-                    token -> System.out.print(token),
-                    response -> {
-                        System.out.println("\n");
-                        latch.countDown(); // Allow next user input
+                    try {
+                        latch.await(); // Block until response is done
+                    } catch (InterruptedException e) {
+                        System.err.println("Interrupted while waiting for chatbot response.");
+                        Thread.currentThread().interrupt();
                     }
-                );
-
-                try {
-                    latch.await(); // Block until response is done
-                } catch (InterruptedException e) {
-                    System.err.println("Interrupted while waiting for chatbot response.");
-                    Thread.currentThread().interrupt();
                 }
             }
         } catch (Exception e) {

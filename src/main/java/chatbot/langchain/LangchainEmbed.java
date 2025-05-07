@@ -70,7 +70,7 @@ public class LangchainEmbed {
         // logger.info("Using embedding model: " + options.getEmbedModel());
         // logger.info("Using Ollama endpoint: " + options.getOllamaEmbedEndpoint());
         this.options = options;
-        this.splitter = recursive(1000, 200); // same chunk size as in the original code (1000 chearacters, 200 overlap)
+        this.splitter = recursive(800, 200); // same chunk size as in the original code (1000 chearacters, 200 overlap)
         ConnectionPool connectionPool = new ConnectionPool(
             10,
             5, TimeUnit.MINUTES

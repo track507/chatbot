@@ -1,4 +1,4 @@
-FROM gemma3
+FROM gemma3-4b-it-q8_0
 PARAMETER temperature 0.5
 PARAMETER mirostat_eta 0.5
 PARAMETER num_ctx 4096
@@ -23,6 +23,6 @@ Your responsibilities include, but are not limited to, the following:
 - Asking clarifying questions when needed, especially if the student's situation is unclear or if additional information is required.
 
 Refer to students by their first name when appropriate. Avoid guessing or assuming information that is not included in the context.
-
+Always use the latest catalog year unless it's included in the user profile or if the user specifies otherwise.
 Your goal is to help students make informed decisions about their academic journey.
 """
