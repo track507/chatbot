@@ -100,15 +100,15 @@ public class CatalogScraper {
             String generalEducationUrl = getFirstAvailable(navLinks, "General Education Requirements", "University Requirements");
             String coursesUrl = navLinks.get("Course Descriptions");
 
-            // if (academicProgramsUrl != null) {
-            //     majorScraper.scrapeMajorsFromCatalog(catalogLabel, catoid, academicProgramsUrl, catalogDir);
-            // }
-            // if (academicDepartmentsUrl != null) {
-            //     departmentScraper.scrapeDepartmentsFromCatalog(catalogLabel, catoid, academicDepartmentsUrl, catalogDir);
-            // }
-            // if(generalEducationUrl != null) {
-            //     genEdScraper.scrapeGenEdRequirements(catalogLabel, catoid, generalEducationUrl, catalogDir);
-            // }
+            if (academicProgramsUrl != null) {
+                majorScraper.scrapeMajorsFromCatalog(catalogLabel, catoid, academicProgramsUrl, catalogDir);
+            }
+            if (academicDepartmentsUrl != null) {
+                departmentScraper.scrapeDepartmentsFromCatalog(catalogLabel, catoid, academicDepartmentsUrl, catalogDir);
+            }
+            if(generalEducationUrl != null) {
+                genEdScraper.scrapeGenEdRequirements(catalogLabel, catoid, generalEducationUrl, catalogDir);
+            }
             if(coursesUrl != null) {
                 courseScraper.scrapeCoursesFromCatalog(catalogLabel, catoid, coursesUrl, catalogDir);
             }
