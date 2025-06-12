@@ -10,6 +10,7 @@ db_files/views.sql
 *.lock
 db.properties
 ClassFiles
+data/
 
 # os stuff
 .DS_Store
